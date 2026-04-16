@@ -16,6 +16,20 @@ const topCities = [
   "al-buraymi"
 ];
 
+const provinces = [
+  "muscat-governorate",
+  "dhofar",
+  "musandam",
+  "al-buraymi-governorate",
+  "ad-dakhiliyah",
+  "ad-dhahirah",
+  "al-batinah-north",
+  "al-batinah-south",
+  "ash-sharqiyah-north",
+  "ash-sharqiyah-south",
+  "al-wusta"
+];
+
 export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
   const [isOpen, setIsOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState("");
@@ -57,7 +71,17 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
           <div className="dropdown" onMouseEnter={() => setDropdownOpen("locations")} onMouseLeave={() => setDropdownOpen("")}>
             <span className="nav-link" style={{ cursor: 'pointer' }}>{isAr ? "المواقع والعيادات ▼" : "Locations ▼"}</span>
             {dropdownOpen === "locations" && (
-              <div className="dropdown-menu glass-box fade-in" style={{ width: "450px", display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1rem", padding: "1.5rem" }}>
+              <div className="dropdown-menu glass-box fade-in" style={{ width: "650px", display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "1rem", padding: "1.5rem" }}>
+                <div>
+                  <h4 style={{ color: "var(--accent)", fontSize: "0.85rem", marginBottom: "0.5rem", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.3rem" }}>
+                    {isAr ? "المحافظات" : "Provinces"}
+                  </h4>
+                  {provinces.map(prov => (
+                    <Link key={prov} href={`/${lang}/${prov}`} className="dropdown-item" style={{ fontSize: "0.85rem", padding: "0.4rem 0.5rem" }}>
+                      {isAr ? prov.replace(/-/g, ' ') : prov.replace(/-/g, ' ').toUpperCase()}
+                    </Link>
+                  ))}
+                </div>
                 <div>
                   <h4 style={{ color: "var(--accent)", fontSize: "0.85rem", marginBottom: "0.5rem", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.3rem" }}>
                     {isAr ? "المدن الرئيسية" : "Top Cities"}
@@ -135,6 +159,12 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
           </div>
           {mobileExpanded === "locations" && (
             <div style={{ background: "rgba(255,255,255,0.02)" }}>
+              <div className="mobile-break">{isAr ? "المحافظات" : "Provinces"}</div>
+              {provinces.map(prov => (
+                <Link key={prov} href={`/${lang}/${prov}`} className="mobile-link sub-link" onClick={toggleMenu}>
+                  {isAr ? prov.replace(/-/g, ' ') : prov.replace(/-/g, ' ').toUpperCase()}
+                </Link>
+              ))}
               <div className="mobile-break">{isAr ? "المدن الرئيسية" : "Top Cities"}</div>
               {topCities.map(city => (
                 <Link key={city} href={`/${lang}/${city}`} className="mobile-link sub-link" onClick={toggleMenu}>
