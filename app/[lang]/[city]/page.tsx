@@ -9,7 +9,7 @@ const capitalize = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 export async function generateMetadata({ params }: { params: Promise<Params> | Params }): Promise<Metadata> {
   const resolvedParams = await Promise.resolve(params);
-  const city = capitalize(resolvedParams.city.replace(/-/g, ' ');
+  const city = capitalize(resolvedParams.city.replace(/-/g, ' '));
   const isAr = resolvedParams.lang === 'ar';
   
   return {
