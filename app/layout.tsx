@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navigation from "../components/Navigation";
+import FloatingWhatsApp from "../components/FloatingWhatsApp";
 
 export const metadata: Metadata = {
   title: "Physiotherapy Oman | Expert Physiotherapists",
@@ -14,31 +16,45 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <nav className="main-nav">
-          <div className="container nav-container">
-            <a href="/" className="nav-logo" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-              <img src="/icon.png" alt="Oman Physiotherapy Logo" style={{ height: "45px", width: "auto", objectFit: "contain" }} />
-              <span style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Oman Physiotherapy</span>
-            </a>
-            <div style={{ display: "flex", gap: "20px" }}>
-              <a href="/muscat">Locations</a>
-              <a href="/muscat/sports-physiotherapy">Services</a>
-              <a href="/conditions/lower-back-pain">Conditions</a>
+        <Navigation />
+        {children}
+        <FloatingWhatsApp />
+
+        <footer className="footer-premium">
+          <div className="container footer-grid">
+            <div className="footer-col brand-col">
+              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.5rem' }}>
+                <img src="/icon.png" alt="Oman Physiotherapy Logo" style={{ height: "45px", width: "auto" }} />
+                <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>Physio<span style={{ color: "var(--brand)" }}>Oman</span></span>
+              </div>
+              <p>Oman&apos;s leading advanced physical rehabilitation network. Evidence-based, data-driven recovery across the entire Sultanate.</p>
+            </div>
+            
+            <div className="footer-col">
+              <h4>Core Clinics</h4>
+              <a href="/muscat">Physiotherapy Muscat</a>
+              <a href="/salalah">Physiotherapy Salalah</a>
+              <a href="/sohar">Physiotherapy Sohar</a>
+              <a href="/nizwa">Physiotherapy Nizwa</a>
+            </div>
+
+            <div className="footer-col">
+              <h4>Specialized Care</h4>
+              <a href="/muscat/sports-physiotherapy">Sports Recovery</a>
+              <a href="/muscat/back-pain-physiotherapy">Spinal Decompression</a>
+              <a href="/muscat/neurological-physiotherapy">Neuro Rehab</a>
+              <a href="/muscat/physiotherapy-at-home">Home Visit Therapy</a>
+            </div>
+
+            <div className="footer-col">
+              <h4>Direct Contact</h4>
+              <p><strong>Hotline:</strong> +968 9000 0000</p>
+              <p><strong>Email:</strong> care@physiotherapyoman.com</p>
+              <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>WhatsApp Us</a>
             </div>
           </div>
-        </nav>
-        
-        {children}
-
-        <footer style={{ marginTop: "4rem", padding: "4rem 0", background: "var(--primary-light)", color: "var(--text-muted)" }}>
-          <div className="container" style={{ textAlign: "center" }}>
-            <h3 style={{ color: "#fff", marginBottom: "1rem" }}>Physiotherapy Oman</h3>
-            <p>Rehabilitation • Sports Recovery • Home Visits • Post-Surgery</p>
-            <div style={{ marginTop: "2rem", display: "flex", gap: "15px", justifyContent: "center" }}>
-              <a href="/muscat">Physiotherapy in Muscat</a>
-              <a href="/salalah">Physiotherapy in Salalah</a>
-              <a href="/sohar">Physiotherapy in Sohar</a>
-            </div>
+          <div className="footer-bottom">
+            <p>&copy; {new Date().getFullYear()} Physiotherapy Oman. All rights reserved. | <a href="/privacy">Privacy Policy</a></p>
           </div>
         </footer>
       </body>

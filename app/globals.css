@@ -179,16 +179,17 @@ a:hover {
   animation: fadeIn 0.6s ease-out forwards;
 }
 
-/* Navigation */
-.main-nav {
+/* --- Premium Navigation & Mobile Matrix --- */
+.premium-glass {
   position: sticky;
   top: 0;
-  z-index: 50;
-  background: var(--glass-bg);
+  z-index: 999;
+  background: rgba(15, 23, 42, 0.85); /* Deep authoritative medical blue */
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid var(--glass-border);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   padding: 1rem 0;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.3);
 }
 
 .nav-container {
@@ -197,13 +198,179 @@ a:hover {
   align-items: center;
 }
 
-.nav-logo {
-  font-size: 1.5rem;
-  font-weight: 800;
-  color: var(--primary);
+.desktop-links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  color: #F8FAFC;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); text-decoration: none; }
+
+/* Dropdown Engine */
+.dropdown { position: relative; }
+.dropdown-menu {
+  position: absolute;
+  top: 150%;
+  left: 0;
+  width: 250px;
+  background: #1E293B;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  z-index: 1000;
+}
+.dropdown-item {
+  padding: 0.75rem 1.5rem;
+  color: #F1F5F9;
+  text-decoration: none;
+  font-size: 0.9rem;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  transition: background 0.2s, padding-left 0.2s;
+}
+.dropdown-item:last-child { border-bottom: none; }
+.dropdown-item:hover {
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--accent);
+  padding-left: 2rem;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  .nav-logo { color: #fff; }
+/* Mobile Setup */
+.mobile-toggle { color: #fff; }
+.mobile-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: #0F172A;
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.mobile-link {
+  padding: 1rem 1.5rem;
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  font-size: 1.1rem;
+}
+.sub-link { padding-left: 2.5rem; font-size: 1rem; color: #94A3B8; }
+.mobile-break {
+  padding: 0.5rem 1.5rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: var(--accent);
+  letter-spacing: 1px;
+  margin-top: 0.5rem;
+}
+.highlight-whatsapp {
+  background: linear-gradient(135deg, #25D366, #128C7E);
+  color: white;
+  font-weight: 700;
+  text-align: center;
+}
+
+.fade-in { animation: fadeIn 0.2s ease-out forwards; }
+.slide-down { animation: slideDown 0.3s ease-out forwards; origin: top; }
+@keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (max-width: 900px) {
+  .desktop-links { display: none; }
+  .mobile-toggle { display: block !important; }
+}
+
+/* --- Floating WhatsApp Conversion Funnel --- */
+.floating-whatsapp {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  z-index: 10000;
+  text-decoration: none;
+}
+.whatsapp-icon-wrapper {
+  background: linear-gradient(135deg, #25D366, #128C7E);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 10px 30px rgba(37, 211, 102, 0.4);
+  padding: 0;
+}
+.whatsapp-text {
+  background: #fff;
+  color: #0F172A;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  display: none; /* Hidden on tiny screens, flexed on hover */
+}
+@media (min-width: 768px) {
+  .floating-whatsapp:hover .whatsapp-text { display: block; animation: slideDown 0.2s ease forwards; }
+}
+
+.pulse-animation .whatsapp-icon-wrapper {
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7); }
+  70% { box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+
+/* --- Premium Footer CSS --- */
+.footer-premium {
+  background: #020617;
+  color: #94A3B8;
+  padding: 5rem 0 2rem 0;
+  margin-top: 5rem;
+  border-top: 1px solid rgba(255,255,255,0.05);
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr;
+  gap: 3rem;
+  margin-bottom: 4rem;
+}
+@media (max-width: 900px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 600px) {
+  .footer-grid { grid-template-columns: 1fr; gap: 2rem; }
+}
+.footer-col h4 {
+  color: #fff;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+.footer-col a {
+  display: block;
+  color: #94A3B8;
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+.footer-col a:hover {
+  color: var(--accent);
+  padding-left: 5px;
+}
+.footer-bottom {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  font-size: 0.85rem;
 }
