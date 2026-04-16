@@ -9,7 +9,7 @@ const capitalize = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 export async function generateMetadata({ params }: { params: Promise<Params> | Params }): Promise<Metadata> {
   const resolvedParams = await Promise.resolve(params);
-  const city = capitalize(resolvedParams.city.replace(/-/g, ' '));
+  const city = capitalize(resolvedParams.city.replace(/-/g, ' ');
   const isAr = resolvedParams.lang === 'ar';
   
   return {
@@ -18,13 +18,22 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   };
 }
 
+// Only pre-render major cities at build time; rest use ISR on first request
+export const dynamicParams = true;
+export const revalidate = 86400; // Re-validate every 24 hours
+
 export async function generateStaticParams() {
   const locales = ['en', 'ar'];
-  const { cities } = await import('@/lib/data');
+  // Top cities for pre-rendering (high-traffic pages)
+  const majorCities = [
+    'muscat', 'salalah', 'sohar', 'nizwa', 'sur', 'ibri', 'ibra', 'barka',
+    'saham', 'khasab', 'bahla', 'adam', 'bidbid', 'samail', 'nakhal',
+    'ar-rustaq', 'al-buraymi', 'thumrayt', 'sinaw', 'izki'
+  ];
   const params: { city: string; lang: string }[] = [];
-  
+
   for (const lang of locales) {
-    for (const city of cities) {
+    for (const city of majorCities) {
       params.push({ city, lang });
     }
   }
