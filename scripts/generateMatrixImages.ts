@@ -37,7 +37,7 @@ async function generateImage(city: string, service: string) {
       response_format: "b64_json", 
     });
 
-    const b64Json = response.data[0].b64_json;
+    const b64Json = response?.data?.[0]?.b64_json;
     if (!b64Json) throw new Error("No image data returned.");
 
     // Convert base64 to binary buffer

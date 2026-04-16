@@ -79,7 +79,7 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
             )}
           </div>
           
-          <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ padding: "0.5rem 1.2rem", fontSize: "0.9rem", margin: isAr ? "0 1rem 0 0" : "0 0 0 1rem" }}>
+          <a href="https://wa.me/96872517821" className="btn btn-primary" style={{ padding: "0.5rem 1.2rem", fontSize: "0.9rem", margin: isAr ? "0 1rem 0 0" : "0 0 0 1rem" }}>
             {isAr ? "احجز الآن" : "Book Now"}
           </a>
 
@@ -142,7 +142,7 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
              </div>
           )}
 
-          <a href="https://wa.link/physiotherapyoman" className="mobile-link highlight-whatsapp" style={{ marginTop: "1rem" }}>
+          <a href="https://wa.me/96876338175" className="mobile-link highlight-whatsapp" style={{ marginTop: "1rem" }}>
             {isAr ? "استشارة سريعة عبر واتساب" : "WhatsApp Consultation Now"}
           </a>
           

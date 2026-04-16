@@ -61,9 +61,13 @@ export default async function LangLayout({
 
           <div className="footer-col">
             <h4>{isAr ? "تواصل مباشر" : "Direct Contact"}</h4>
-            <p><strong>{isAr ? "الخط الساخن:" : "Hotline:"}</strong> +968 7251 7821</p>
-            <p><strong>{isAr ? "البريد:" : "Email:"}</strong> info@physiotherapyoman.com</p>
-            <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>{isAr ? "راسلنا عبر واتساب" : "WhatsApp Us"}</a>
+            <p style={{ marginBottom: "0.5rem" }}><strong>{isAr ? "الخط الساخن الأول:" : "Hotline 1:"}</strong> +968 7251 7821</p>
+            <p><strong>{isAr ? "الخط الساخن الثاني:" : "Hotline 2:"}</strong> +968 7633 8175</p>
+            <p style={{ marginTop: "1rem" }}><strong>{isAr ? "البريد:" : "Email:"}</strong> info@physiotherapyoman.com</p>
+            <div style={{ display: 'flex', gap: '10px', marginTop: '1rem', flexWrap: 'wrap' }}>
+              <a href="https://wa.me/96872517821" className="btn btn-primary" style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem' }}>{isAr ? "واتساب ١" : "WhatsApp 1"}</a>
+              <a href="https://wa.me/96876338175" className="btn btn-primary" style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem' }}>{isAr ? "واتساب ٢" : "WhatsApp 2"}</a>
+            </div>
           </div>
         </div>
         <div className="footer-bottom">
