@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import "@/app/globals.css";
 import Navigation from "@/components/Navigation";
 import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 
@@ -12,68 +11,65 @@ export async function generateStaticParams() {
   return [{ lang: 'en' }, { lang: 'ar' }];
 }
 
-export default async function RootLayout({
+export default async function LangLayout({
   children,
   params,
 }: Readonly<{
   children: React.ReactNode;
   params: Promise<{ lang: string }> | { lang: string };
 }>) {
-  // Await params if it's a promise (Next.js 15+ standard)
   const resolvedParams = await Promise.resolve(params);
   const lang = resolvedParams.lang as 'en' | 'ar';
   const isAr = lang === 'ar';
 
   return (
-    <html lang={lang} dir={isAr ? "rtl" : "ltr"}>
-      <body>
-        <Navigation lang={lang} />
-        {children}
-        <FloatingWhatsApp lang={lang} />
+    <div lang={lang} dir={isAr ? "rtl" : "ltr"}>
+      <Navigation lang={lang} />
+      {children}
+      <FloatingWhatsApp lang={lang} />
 
-        <footer className="footer-premium">
-          <div className="container footer-grid">
-            <div className="footer-col brand-col">
-              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.5rem' }}>
-                <img src="/icon.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto" }} />
-                <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>
-                  {isAr ? "علاج طبيعي " : "Physio"}
-                  <span style={{ color: "var(--brand)" }}>
-                    {isAr ? "عُمان" : "Oman"}
-                  </span>
+      <footer className="footer-premium">
+        <div className="container footer-grid">
+          <div className="footer-col brand-col">
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.5rem' }}>
+              <img src="/icon.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto" }} />
+              <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>
+                {isAr ? "علاج طبيعي " : "Physio"}
+                <span style={{ color: "var(--brand)" }}>
+                  {isAr ? "عُمان" : "Oman"}
                 </span>
-              </div>
-              <p>{isAr ? "شبكة إعادة التأهيل البدني الرائدة في سلطنة عمان. تعافي مبني على الأدلة والبيانات في جميع أنحاء السلطنة." : "Oman's leading advanced physical rehabilitation network. Evidence-based, data-driven recovery across the entire Sultanate."}</p>
+              </span>
             </div>
-            
-            <div className="footer-col">
-              <h4>{isAr ? "العيادات الأساسية" : "Core Clinics"}</h4>
-              <a href={`/${lang}/muscat`}>{isAr ? "علاج طبيعي في مسقط" : "Physiotherapy Muscat"}</a>
-              <a href={`/${lang}/salalah`}>{isAr ? "علاج طبيعي في صلالة" : "Physiotherapy Salalah"}</a>
-              <a href={`/${lang}/sohar`}>{isAr ? "علاج طبيعي في صحار" : "Physiotherapy Sohar"}</a>
-              <a href={`/${lang}/nizwa`}>{isAr ? "علاج طبيعي في نزوى" : "Physiotherapy Nizwa"}</a>
-            </div>
-
-            <div className="footer-col">
-              <h4>{isAr ? "رعاية متخصصة" : "Specialized Care"}</h4>
-              <a href={`/${lang}/muscat/sports-physiotherapy`}>{isAr ? "التعافي الرياضي" : "Sports Recovery"}</a>
-              <a href={`/${lang}/muscat/back-pain-physiotherapy`}>{isAr ? "تخفيف ضغط العمود الفقري" : "Spinal Decompression"}</a>
-              <a href={`/${lang}/muscat/neurological-physiotherapy`}>{isAr ? "التأهيل العصبي" : "Neuro Rehab"}</a>
-              <a href={`/${lang}/muscat/physiotherapy-at-home`}>{isAr ? "العلاج الطبيعي المنزلي" : "Home Visit Therapy"}</a>
-            </div>
-
-            <div className="footer-col">
-              <h4>{isAr ? "تواصل مباشر" : "Direct Contact"}</h4>
-              <p><strong>{isAr ? "الخط الساخن:" : "Hotline:"}</strong> +968 7251 7821</p>
-              <p><strong>{isAr ? "البريد:" : "Email:"}</strong> info@physiotherapyoman.com</p>
-              <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>{isAr ? "راسلنا عبر واتساب" : "WhatsApp Us"}</a>
-            </div>
+            <p>{isAr ? "شبكة إعادة التأهيل البدني الرائدة في سلطنة عمان. تعافي مبني على الأدلة والبيانات في جميع أنحاء السلطنة." : "Oman's leading advanced physical rehabilitation network. Evidence-based, data-driven recovery across the entire Sultanate."}</p>
           </div>
-          <div className="footer-bottom">
-            <p>&copy; {new Date().getFullYear()} {isAr ? "علاج طبيعي عُمان. جميع الحقوق محفوظة." : "Physiotherapy Oman. All rights reserved."}</p>
+
+          <div className="footer-col">
+            <h4>{isAr ? "العيادات الأساسية" : "Core Clinics"}</h4>
+            <a href={`/${lang}/muscat`}>{isAr ? "علاج طبيعي في مسقط" : "Physiotherapy Muscat"}</a>
+            <a href={`/${lang}/salalah`}>{isAr ? "علاج طبيعي في صلالة" : "Physiotherapy Salalah"}</a>
+            <a href={`/${lang}/sohar`}>{isAr ? "علاج طبيعي في صحار" : "Physiotherapy Sohar"}</a>
+            <a href={`/${lang}/nizwa`}>{isAr ? "علاج طبيعي في نزوى" : "Physiotherapy Nizwa"}</a>
           </div>
-        </footer>
-      </body>
-    </html>
+
+          <div className="footer-col">
+            <h4>{isAr ? "رعاية متخصصة" : "Specialized Care"}</h4>
+            <a href={`/${lang}/muscat/sports-physiotherapy`}>{isAr ? "التعافي الرياضي" : "Sports Recovery"}</a>
+            <a href={`/${lang}/muscat/back-pain-physiotherapy`}>{isAr ? "تخفيف ضغط العمود الفقري" : "Spinal Decompression"}</a>
+            <a href={`/${lang}/muscat/neurological-physiotherapy`}>{isAr ? "التأهيل العصبي" : "Neuro Rehab"}</a>
+            <a href={`/${lang}/muscat/physiotherapy-at-home`}>{isAr ? "العلاج الطبيعي المنزلي" : "Home Visit Therapy"}</a>
+          </div>
+
+          <div className="footer-col">
+            <h4>{isAr ? "تواصل مباشر" : "Direct Contact"}</h4>
+            <p><strong>{isAr ? "الخط الساخن:" : "Hotline:"}</strong> +968 7251 7821</p>
+            <p><strong>{isAr ? "البريد:" : "Email:"}</strong> info@physiotherapyoman.com</p>
+            <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>{isAr ? "راسلنا عبر واتساب" : "WhatsApp Us"}</a>
+          </div>
+        </div>
+        <div className="footer-bottom">
+          <p>&copy; {new Date().getFullYear()} {isAr ? "علاج طبيعي عُمان. جميع الحقوق محفوظة." : "Physiotherapy Oman. All rights reserved."}</p>
+        </div>
+      </footer>
+    </div>
   );
 }
