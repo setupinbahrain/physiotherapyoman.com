@@ -78,10 +78,22 @@ function buildSiloLink(cityContext: string, lang: 'en' | 'ar'): string {
 
 function buildSemanticImage(cityContext: string, primaryToken: string, lang: 'en' | 'ar'): string {
    const cleanToken = primaryToken.replace(/-/g, ' ');
+   const rawSvc = primaryToken.split(" ")[0] || ""; // Extracted fallback from strings
+   const cleanCity = cityContext.toLowerCase();
+   
+   // We will construct the dynamic image path. 
+   // The DALL-E generation script uses: {city}-{service}.png
+   // Since primaryToken here might be "sports-rehabilitation treatment in oman", we use raw metadata if possible.
+   // For now, we will link the direct src and let the front-end handle fallback if 404s.
+   
+   const dynamicImgName = `${cleanCity}-${primaryToken.replace(/ /g, '-').replace(/-(treatment-oman|oman|في-عمان|treatment|تأهيل|علاج)/g, '')}.png`;
+   const imgUrl = `/assets/generated/${dynamicImgName}`;
+   
+   // Using a JS fallback (onerror="this.src='/assets/clinical-rehab.png'") to guarantee no broken images while DALL-E script propagates.
    return `
-    <figure class="seo-semantic-image" style="margin: 2.5rem 0; text-align: center; border-radius: 8px; overflow: hidden; background: rgba(255, 255, 255, 0.05); border: 1px solid var(--glass-border); padding: 1rem;">
-      <img src="/assets/clinical-rehab.png" alt="${dictionaries[lang].imgAlt(cleanToken, cityContext)}" title="${dictionaries[lang].imgTitle(cleanToken, cityContext)}" loading="lazy" style="width: 100%; max-width: 800px; height: auto; border-radius: 6px; box-shadow: 0 4px 30px rgba(0,0,0,0.4);" />
-      <figcaption style="padding-top: 1rem; font-size: 0.9rem; color: var(--text-muted); font-style: italic;">${dictionaries[lang].imgCaption(cleanToken, cityContext)}</figcaption>
+    <figure class="seo-semantic-image" style="margin: 3.5rem 0; text-align: center; border-radius: 12px; overflow: hidden; background: var(--bg-color); border: 1px solid var(--glass-border); padding: 1.5rem; box-shadow: 0 10px 40px rgba(0,0,0,0.05);">
+      <img src="${imgUrl}" onerror="this.onerror=null; this.src='/assets/clinical-rehab.png'" alt="${dictionaries[lang].imgAlt(cleanToken, cityContext)}" title="${dictionaries[lang].imgTitle(cleanToken, cityContext)}" loading="lazy" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);" />
+      <figcaption style="padding-top: 1.5rem; font-size: 1rem; color: var(--text-muted); font-style: italic; font-weight: 500;">${dictionaries[lang].imgCaption(cleanToken, cityContext)}</figcaption>
     </figure>
    `;
 }
