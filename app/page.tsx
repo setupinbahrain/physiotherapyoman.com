@@ -116,89 +116,79 @@ export default function HomePage() {
       
       {/* Hero Section */}
       <section className="container hero-section glass-box">
-        <h1 className="gradient-text">Expert Physiotherapy in Oman — Muscat & Nationwide</h1>
-        <p>Physiotherapy Oman operates as the leading physical therapy provider in the Sultanate. Our certified physiotherapists offer world-class rehabilitation, sports recovery, and home visit treatments spanning our state-of-the-art Muscat clinics all the way to Salalah and Sohar. Experience an unmatched standard of care designed to get you back on your feet—pain-free and permanently.</p>
-        <a href="/book-appointment" className="btn-primary" style={{ marginTop: '1.5rem' }}>Book a Physiotherapy Appointment</a>
+        <h1 className="gradient-text">علاج طبيعي متقدم في سلطنة عُمان — مسقط ومختلف المحافظات</h1>
+        <p>يعتبر "علاج طبيعي عُمان" المزود الرائد لخدمات التأهيل البدني في السلطنة. يقدم فريقنا من الأخصائيين المعتمدين برامج إعادة تأهيل عالمية المستوى، علاج الإصابات الرياضية، والزيارات المنزلية المباشرة في عياداتنا المتطورة من مسقط وحتى صلالة وصحار. انضم إلينا لتشعر بفارق حقيقي وتستعيد روتينك اليومي بدون ألم.</p>
+        <a href="https://wa.link/physiotherapyoman" className="btn-primary" style={{ marginTop: '1.5rem' }}>احجز موعد علاج طبيعي الآن</a>
       </section>
 
       {/* Services Section */}
       <section className="container content-section">
-        <h2>Physiotherapy Services in Oman — What We Treat</h2>
-        <p>Our expert physiotherapist team applies advanced modalities to treat a comprehensive range of musculoskeletal and neurological dysfunctions. We target the root cause, not just the symptom.</p>
+        <h2>خدمات العلاج الطبيعي في عُمان — ما نقوم بعلاجه</h2>
+        <p>يطبق فريقنا المتخصص أحدث التقنيات لعلاج مجموعة شاملة من اضطرابات الجهاز العضلي الهيكلي والعصبي. نحن لا نكتفي بعلاج الأعراض، بل نعالج السبب الجذري بفعالية.</p>
         <div className="grid-cards mt-md mb-lg">
           <a href="/muscat/sports-physiotherapy" className="card hover-float">
-            <h3>Sports Physiotherapy</h3>
-            <p className="text-muted">Accelerate recovery from ACL tears, sprains, and athletic injuries.</p>
+            <h3>العلاج الطبيعي الرياضي</h3>
+            <p className="text-muted">تسريع التعافي من تمزق الأربطة، الالتواءات، والإصابات الرياضية المعقدة.</p>
           </a>
           <a href="/muscat/back-pain-physiotherapy" className="card hover-float">
-            <h3>Back Pain Treatment</h3>
-            <p className="text-muted">Targeted physical therapy for sciatica, slipped discs, and chronic lumbar pain.</p>
+            <h3>علاج آلام الظهر</h3>
+            <p className="text-muted">تخفيف آلام عرق النسا، الانزلاق الغضروفي، والآلام المزمنة في أسفل الظهر.</p>
           </a>
           <a href="/muscat/knee-physiotherapy" className="card hover-float">
-            <h3>Knee Rehabilitation</h3>
-            <p className="text-muted">Resolve patellofemoral pain and osteoarthritis mobility limitations.</p>
+            <h3>تأهيل الركبة</h3>
+            <p className="text-muted">حلول لمشاكل خشونة المفاصل واحتكاك الرضفة لاستعادة سهولة الحركة.</p>
           </a>
           <a href="/muscat/post-surgery-rehabilitation" className="card hover-float">
-            <h3>Post-Surgery Recovery</h3>
-            <p className="text-muted">Specialized joint replacement and spinal surgery physiotherapy.</p>
+            <h3>إعادة التأهيل بعد الجراحة</h3>
+            <p className="text-muted">برامج متخصصة بعد جراحات تغيير المفاصل والعمود الفقري.</p>
           </a>
           <a href="/muscat/neurological-physiotherapy" className="card hover-float">
-            <h3>Neurological Physiotherapy</h3>
-            <p className="text-muted">Stroke recovery, Parkinson's disease, and MS movement therapies.</p>
+            <h3>العلاج الطبيعي العصبي</h3>
+            <p className="text-muted">تأهيل ما بعد الجلطات، مرض باركنسون، والاضطرابات العصبية المتعددة.</p>
           </a>
           <a href="/muscat/physiotherapy-at-home" className="card hover-float">
-            <h3>Home Visit Physiotherapy</h3>
-            <p className="text-muted">Professional physiotherapist near me delivered directly to your doorstep.</p>
+            <h3>العلاج الطبيعي المنزلي</h3>
+            <p className="text-muted">أخصائي علاج طبيعي معتمد يصلك مباشرة إلى راحة منزلك.</p>
           </a>
         </div>
       </section>
 
       {/* Why Choose Us */}
       <section className="container content-section">
-        <h2>Why Choose Our Physiotherapy Clinic in Oman</h2>
-        <p>Finding the top-rated clinic means evaluating clinical methodology. As the best physiotherapy oman destination, we focus entirely on evidence-based practices.</p>
-        <ul style={{ paddingLeft: '2rem', marginTop: '1.5rem', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-          <li><strong>Internationally Certified Therapists:</strong> Our team members undergo rigorous training to apply global standards.</li>
-          <li><strong>Multi-Lingual Consultations:</strong> We speak English, Arabic, and Hindi to make patient communication simple.</li>
-          <li><strong>Comprehensive Home Coverage:</strong> We provide full physiotherapy at home oman coverage, ensuring mobility-restricted patients receive care anywhere in Muscat.</li>
-          <li><strong>Insurance Affiliated:</strong> We accommodate direct and reimbursement structures with major local insurers.</li>
+        <h2>لماذا تختار عياداتنا للعلاج الطبيعي في عُمان؟</h2>
+        <p>العثور على العيادة الأفضل يعني تقييم المنهجية السريرية. انطلاقاً من كوننا الوجهة الأفضل، نركز بالكامل على ممارسات مبنية على أحدث الأدلة والبراهين الطبية.</p>
+        <ul style={{ paddingRight: '2rem', marginTop: '1.5rem', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+          <li><strong>معالجون معتمدون دولياً:</strong> يخضع فريقنا لتدريب صارم لتطبيق المعايير العالمية بدقة في كل جلسة.</li>
+          <li><strong>استشارات متعددة اللغات:</strong> نتحدث العربية والإنجليزية لضمان تواصل فعال ومريح مع جميع المرضى.</li>
+          <li><strong>تغطية منزلية شاملة:</strong> نوفر خدمات العلاج الطبيعي المنزلي لخدمة كبار السن ومرضى ما بعد الجراحة في كافة مناطق مسقط.</li>
+          <li><strong>دعم التأمين الصحي:</strong> نعمل بتنسيق مع كبرى شركات التأمين المحلية لتسهيل الإجراءات والتعويضات.</li>
         </ul>
       </section>
 
       {/* Location specifics */}
       <section className="container content-section glass-box" style={{ marginTop: '4rem', marginBottom: '4rem' }}>
-        <h2>Physiotherapy in Muscat — Our Main Clinic</h2>
-        <p>Our centralized Muscat headquarters, located accessibly in Al Khuwair, offers unparalleled physical therapy muscat services with ample patient parking and state-of-the-art rehabilitation gyms. Our physiotherapists are equipped to handle advanced recovery phases locally.</p>
-        <a href="/muscat" className="btn-primary" style={{ marginTop: '1rem' }}>Explore Physiotherapy in Muscat</a>
+        <h2>العلاج الطبيعي في مسقط — المقر الرئيسي</h2>
+        <p>تقع عيادتنا الرئيسية بشكل استراتيجي في منطقة الخوير، متيحة أفضل خدمات العلاج الطبيعي في قلب العاصمة مع صالات رياضية حديثة ومواقف سيارات واسعة. أخصائيونا جاهزون للإشراف على أصعب خطط التعافي.</p>
+        <a href="/muscat" className="btn-primary" style={{ marginTop: '1rem' }}>تصفح علاج طبيعي في مسقط</a>
       </section>
 
       <section className="container content-section">
-        <h2>Physiotherapy Services Across All of Oman</h2>
-        <p>While our flagship operations are anchored in the capital, our rehabilitation oman network extends to all governorates to provide broad access.</p>
+        <h2>تغطية العلاج الطبيعي لمختلف محافظات عُمان</h2>
+        <p>بالتوازي مع مركزنا في العاصمة، تمتد شبكتنا العلاجية لضمان حصول الجميع على أفضل أنواع التشخيص وبرامج التأهيل.</p>
         <div className="grid-cards mt-md">
           <div className="card">
-            <h3><a href="/salalah">Physiotherapy in Salalah</a></h3>
-            <p>Dedicated Dhofar-based specialists handling everything from regional athletic recovery to geriatric mobility optimization.</p>
+            <h3><a href="/salalah">علاج طبيعي في صلالة</a></h3>
+            <p>أخصائيون في ظفار لتقديم خدمات تتراوح من التعافي الرياضي الموسمي إلى رعاية كبار السن وتطوير المرونة الحركية.</p>
           </div>
           <div className="card">
-            <h3><a href="/sohar">Physiotherapy in Sohar</a></h3>
-            <p>Serving Al Batinah North with advanced clinical pilates, spinal alignments, and workplace injury rehabilitation.</p>
+            <h3><a href="/sohar">علاج طبيعي في صحار</a></h3>
+            <p>خدمة شمال الباطنة بأحدث تقنيات الإصطفاف الفقري وتأهيل إصابات مواقع العمل والتمدد العكسي.</p>
           </div>
         </div>
       </section>
 
-      <section className="container content-section glass-box" style={{ marginTop: '2rem' }}>
-        <h2>Sports Physiotherapy in Oman</h2>
-        <p>Whether you're a weekend warrior or a professional athlete, our sports physiotherapy oman division accelerates your return to peak performance using targeted loading and biomechanical correction techniques.</p>
-      </section>
-
-      <section className="container content-section">
-        <h2>Home Visit Physiotherapy in Oman</h2>
-        <p>Skip the waiting room. We offer an exclusive physiotherapy at home oman track for patients requiring post-surgical or localized home care anywhere inside the capital constraints.</p>
-      </section>
-
-      {/* Massive 3800 Word Algorithmic Injection to absolutely guarantee global density clears 3,000 words */}
-      {generateCityContent("Oman").map((section: any, index: number) => (
+      {/* Massive 3800 Word Algorithmic Injection */}
+      {generateCityContent("عُمان").map((section: any, index: number) => (
         <section key={`national-content-${index}`} className="container content-section" style={{ borderTop: index === 0 ? "1px solid var(--glass-border)" : "none" }}>
           <h2>{section.heading}</h2>
           {section.paragraphs.map((para: string, pIndex: number) => (
@@ -208,7 +198,7 @@ export default function HomePage() {
       ))}
 
       <section className="container content-section" style={{ borderTop: "1px solid var(--glass-border)", paddingTop: '4rem' }}>
-        <h2>Frequently Asked Questions About Physiotherapy in Oman</h2>
+        <h2>أسئلة شائعة حول العلاج الطبيعي في عُمان</h2>
         <div className="faq-container mt-md">
           {(schemas[1] as any).mainEntity.map((faq: any, index: number) => (
             <div key={index} className="faq-item">

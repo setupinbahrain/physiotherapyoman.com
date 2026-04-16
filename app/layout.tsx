@@ -4,8 +4,8 @@ import Navigation from "../components/Navigation";
 import FloatingWhatsApp from "../components/FloatingWhatsApp";
 
 export const metadata: Metadata = {
-  title: "Physiotherapy Oman | Expert Physiotherapists",
-  description: "Top-rated physiotherapy clinic in Oman. Specialists in back pain, sports injuries, and post-surgery rehab.",
+  title: "علاج طبيعي عُمان | خبراء العلاج الطبيعي",
+  description: "أفضل عيادة علاج طبيعي في سلطنة عمان. متخصصون في آلام الظهر، الإصابات الرياضية، وإعادة التأهيل بعد الجراحة.",
 };
 
 export default function RootLayout({
@@ -14,7 +14,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="ar" dir="rtl">
       <body>
         <Navigation />
         {children}
@@ -24,37 +24,37 @@ export default function RootLayout({
           <div className="container footer-grid">
             <div className="footer-col brand-col">
               <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.5rem' }}>
-                <img src="/icon.png" alt="Oman Physiotherapy Logo" style={{ height: "45px", width: "auto" }} />
-                <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>Physio<span style={{ color: "var(--brand)" }}>Oman</span></span>
+                <img src="/icon.png" alt="شعار علاج طبيعي عمان" style={{ height: "45px", width: "auto" }} />
+                <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>علاج طبيعي <span style={{ color: "var(--brand)" }}>عُمان</span></span>
               </div>
-              <p>Oman&apos;s leading advanced physical rehabilitation network. Evidence-based, data-driven recovery across the entire Sultanate.</p>
+              <p>شبكة إعادة التأهيل البدني الرائدة في سلطنة عمان. تعافي مبني على الأدلة والبيانات في جميع أنحاء السلطنة.</p>
             </div>
             
             <div className="footer-col">
-              <h4>Core Clinics</h4>
-              <a href="/muscat">Physiotherapy Muscat</a>
-              <a href="/salalah">Physiotherapy Salalah</a>
-              <a href="/sohar">Physiotherapy Sohar</a>
-              <a href="/nizwa">Physiotherapy Nizwa</a>
+              <h4>العيادات الأساسية</h4>
+              <a href="/muscat">علاج طبيعي في مسقط</a>
+              <a href="/salalah">علاج طبيعي في صلالة</a>
+              <a href="/sohar">علاج طبيعي في صحار</a>
+              <a href="/nizwa">علاج طبيعي في نزوى</a>
             </div>
 
             <div className="footer-col">
-              <h4>Specialized Care</h4>
-              <a href="/muscat/sports-physiotherapy">Sports Recovery</a>
-              <a href="/muscat/back-pain-physiotherapy">Spinal Decompression</a>
-              <a href="/muscat/neurological-physiotherapy">Neuro Rehab</a>
-              <a href="/muscat/physiotherapy-at-home">Home Visit Therapy</a>
+              <h4>رعاية متخصصة</h4>
+              <a href="/muscat/sports-physiotherapy">التعافي الرياضي</a>
+              <a href="/muscat/back-pain-physiotherapy">تخفيف ضغط العمود الفقري</a>
+              <a href="/muscat/neurological-physiotherapy">التأهيل العصبي</a>
+              <a href="/muscat/physiotherapy-at-home">العلاج الطبيعي المنزلي</a>
             </div>
 
             <div className="footer-col">
-              <h4>Direct Contact</h4>
-              <p><strong>Hotline:</strong> +968 9000 0000</p>
-              <p><strong>Email:</strong> care@physiotherapyoman.com</p>
-              <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>WhatsApp Us</a>
+              <h4>تواصل مباشر</h4>
+              <p><strong>الخط الساخن:</strong> +968 9000 0000</p>
+              <p><strong>البريد:</strong> care@physiotherapyoman.com</p>
+              <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ marginTop: '1rem', display: 'inline-block' }}>راسلنا عبر واتساب</a>
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; {new Date().getFullYear()} Physiotherapy Oman. All rights reserved. | <a href="/privacy">Privacy Policy</a></p>
+            <p>&copy; {new Date().getFullYear()} علاج طبيعي عُمان. جميع الحقوق محفوظة. | <a href="/privacy">سياسة الخصوصية</a></p>
           </div>
         </footer>
       </body>

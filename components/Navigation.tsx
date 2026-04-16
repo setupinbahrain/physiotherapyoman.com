@@ -17,20 +17,21 @@ export default function Navigation() {
         
         {/* Brand Logo */}
         <Link href="/" className="nav-logo" style={{ display: 'flex', alignItems: 'center', gap: '12px', textDecoration: 'none' }}>
-          <img src="/icon.png" alt="Oman Physiotherapy Logo" style={{ height: "45px", width: "auto", objectFit: "contain", filter: "drop-shadow(0px 4px 10px rgba(0,0,0,0.1))" }} />
-          <span style={{ fontSize: "1.3rem", fontWeight: "700", color: "var(--text)", letterSpacing: "-0.5px" }}>Physio<span style={{ color: "var(--brand)" }}>Oman</span></span>
+          <img src="/icon.png" alt="شعار علاج طبيعي عمان" style={{ height: "45px", width: "auto", objectFit: "contain", filter: "drop-shadow(0px 4px 10px rgba(0,0,0,0.1))" }} />
+          <span style={{ fontSize: "1.3rem", fontWeight: "700", color: "var(--text)", letterSpacing: "-0.5px" }}>علاج طبيعي <span style={{ color: "var(--brand)" }}>عُمان</span></span>
         </Link>
 
         {/* Desktop Links */}
         <div className="desktop-links">
-          <Link href="/muscat" className="nav-link">Muscat Clinics</Link>
-          <Link href="/salalah" className="nav-link">Salalah</Link>
+          <Link href="/muscat" className="nav-link">عيادات مسقط</Link>
+          <Link href="/salalah" className="nav-link">عيادات صلالة</Link>
           
           <div className="dropdown" onMouseEnter={() => setDropdownOpen("services")} onMouseLeave={() => setDropdownOpen("")}>
-            <span className="nav-link" style={{ cursor: 'pointer' }}>Services ▼</span>
+            <span className="nav-link" style={{ cursor: 'pointer' }}>خدماتنا ▼</span>
             {dropdownOpen === "services" && (
               <div className="dropdown-menu glass-box fade-in">
                 {services.slice(0, 6).map(s => (
+                  /* Keep English slugs intact for SEO, text displayed could be mapped, but for now we map string visually or leave english if no full generic arabic translation map exists */
                   <Link key={s} href={`/muscat/${s}`} className="dropdown-item">{s.replace(/-/g, ' ')}</Link>
                 ))}
               </div>
@@ -38,7 +39,7 @@ export default function Navigation() {
           </div>
 
           <div className="dropdown" onMouseEnter={() => setDropdownOpen("conditions")} onMouseLeave={() => setDropdownOpen("")}>
-            <span className="nav-link" style={{ cursor: 'pointer' }}>Conditions ▼</span>
+            <span className="nav-link" style={{ cursor: 'pointer' }}>حالات نعالجها ▼</span>
             {dropdownOpen === "conditions" && (
               <div className="dropdown-menu glass-box fade-in" style={{ left: "-50px" }}>
                 {conditions.slice(0, 6).map(c => (
@@ -48,7 +49,7 @@ export default function Navigation() {
             )}
           </div>
           
-          <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ padding: "0.5rem 1.2rem", fontSize: "0.9rem", marginLeft: "1rem" }}>Book Now</a>
+          <a href="https://wa.link/physiotherapyoman" className="btn btn-primary" style={{ padding: "0.5rem 1.2rem", fontSize: "0.9rem", marginRight: "1rem" }}>احجز الآن</a>
         </div>
 
         {/* Mobile Hamburger */}
@@ -61,14 +62,14 @@ export default function Navigation() {
       {/* Mobile Menu Expansion */}
       {isOpen && (
         <div className="mobile-menu slide-down">
-          <Link href="/" className="mobile-link" onClick={toggleMenu}>Home</Link>
-          <Link href="/muscat" className="mobile-link" onClick={toggleMenu}>Muscat Setup</Link>
-          <Link href="/salalah" className="mobile-link" onClick={toggleMenu}>Salalah Hub</Link>
-          <div className="mobile-break">Services</div>
+          <Link href="/" className="mobile-link" onClick={toggleMenu}>الرئيسية</Link>
+          <Link href="/muscat" className="mobile-link" onClick={toggleMenu}>عيادات مسقط</Link>
+          <Link href="/salalah" className="mobile-link" onClick={toggleMenu}>عيادات صلالة</Link>
+          <div className="mobile-break">الخدمات</div>
           {services.slice(0, 5).map(s => (
              <Link key={s} href={`/muscat/${s}`} className="mobile-link sub-link" onClick={toggleMenu}>{s.replace(/-/g, ' ')}</Link>
           ))}
-          <a href="https://wa.link/physiotherapyoman" className="mobile-link highlight-whatsapp">WhatsApp Consultation Now</a>
+          <a href="https://wa.link/physiotherapyoman" className="mobile-link highlight-whatsapp">استشارة سريعة عبر واتساب</a>
         </div>
       )}
     </nav>
