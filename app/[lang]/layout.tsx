@@ -32,7 +32,7 @@ export default async function LangLayout({
         <div className="container footer-grid">
           <div className="footer-col brand-col">
             <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '1.5rem' }}>
-              <img src="/icon.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto" }} />
+              <img src="/logo.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto" }} />
               <span style={{ fontSize: "1.4rem", fontWeight: "700", color: "#fff" }}>
                 {isAr ? "علاج طبيعي " : "Physio"}
                 <span style={{ color: "var(--brand)" }}>

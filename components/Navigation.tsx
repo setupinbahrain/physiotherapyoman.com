@@ -32,7 +32,7 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
         
         {/* Brand Logo */}
         <Link href={`/${lang}`} className="nav-logo" style={{ display: 'flex', alignItems: 'center', gap: '12px', textDecoration: 'none' }}>
-          <img src="/icon.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto", objectFit: "contain", filter: "drop-shadow(0px 4px 10px rgba(0,0,0,0.1))" }} />
+          <img src="/logo.png" alt={isAr ? "شعار علاج طبيعي عمان" : "Physiotherapy Oman Logo"} style={{ height: "45px", width: "auto", objectFit: "contain", filter: "drop-shadow(0px 4px 10px rgba(0,0,0,0.1))" }} />
           <span style={{ fontSize: "1.3rem", fontWeight: "700", color: "var(--text)", letterSpacing: "-0.5px" }}>
             {isAr ? "علاج طبيعي " : "Physio"}<span style={{ color: "var(--brand)" }}>{isAr ? "عُمان" : "Oman"}</span>
           </span>
