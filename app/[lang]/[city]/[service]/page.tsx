@@ -19,13 +19,23 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   };
 }
 
+// Only pre-render major city+service combos at build time; rest use ISR
+export const dynamicParams = true;
+export const revalidate = 86400; // Re-validate every 24 hours
+
 export async function generateStaticParams() {
   const locales = ['en', 'ar'];
-  const { cities, services } = await import('@/lib/data');
+  const { services } = await import('@/lib/data');
+  // Top cities for pre-rendering (high-traffic pages)
+  const majorCities = [
+    'muscat', 'salalah', 'sohar', 'nizwa', 'sur', 'ibri', 'ibra', 'barka',
+    'saham', 'khasab', 'bahla', 'adam', 'bidbid', 'samail', 'nakhal',
+    'ar-rustaq', 'al-buraymi', 'thumrayt', 'sinaw', 'izki'
+  ];
   const params: { city: string; service: string; lang: string }[] = [];
-  
+
   for (const lang of locales) {
-    for (const city of cities) {
+    for (const city of majorCities) {
       for (const service of services) {
         params.push({ city, service, lang });
       }
