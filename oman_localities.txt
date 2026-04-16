@@ -1,0 +1,9476 @@
+SULTANATE OF OMAN
+سلطنة عُمان
+Comprehensive Register of Cities, Towns, Villages and Localities
+Every Named Locality Down to the 50-Resident Census Threshold
+2,143 Localities  |  61 Wilayats  |  11 Governorates
+Based on the 2020 General Census of Population, Housing and Establishments
+Source: Sultanate of Oman — National Centre for Statistics and Information (NCSI)
+Census date: 12 December 2020  |  Compiled: April 2026
+
+Table of Contents
+
+
+
+Executive Summary
+This register documents every administratively recognised locality in the Sultanate of Oman as of the 2020 General Census of Population, Housing and Establishments, conducted on 12 December 2020 by the National Centre for Statistics and Information (NCSI).
+Oman's administrative structure consists of eleven governorates (Muhafazat / محافظات), each subdivided into a total of sixty-one wilayats (districts / ولايات). Below the wilayat tier, NCSI enumerates every locality with fifty or more residents — this dataset captures 2,143 such localities with their official 2020 census populations.
+Oman's total recorded population in the 2020 census was 4,471,148 residents (with the full administrative total including establishments and institutional population recorded at approximately 4,617,927). The governorate breakdown is shown in the summary table below.
+#
+Governorate
+العربية
+Code
+Wilayats
+Localities
+2020 Population
+1
+Muscat
+مسقط
+01
+6
+113
+1,302,440
+2
+Dhofar
+ظفار
+02
+10
+302
+416,458
+3
+Musandam
+مسندم
+03
+4
+41
+49,062
+4
+Al Buraimi
+البريمي
+04
+3
+47
+121,802
+5
+Ad Dakhiliyah
+الداخلية
+05
+8
+356
+478,501
+6
+Al Batinah North
+شمال الباطنة
+06
+6
+270
+784,681
+7
+Al Batinah South
+جنوب الباطنة
+07
+6
+283
+465,550
+8
+Ash Sharqiyah South
+جنوب الشرقية
+08
+5
+128
+315,445
+9
+Ash Sharqiyah North
+شمال الشرقية
+09
+6
+350
+271,822
+10
+Ad Dhahirah
+الظاهرة
+10
+3
+208
+213,043
+11
+Al Wusta
+الوسطى
+11
+4
+45
+52,344
+
+TOTAL
+
+
+61
+2143
+4,471,148
+
+Methodology and Scope
+Data Hierarchy
+Country → 11 Governorates (Muhafazat) → 61 Wilayats (Districts) → 2,143 Localities.
+Primary Source
+All population figures are drawn from the Sultanate of Oman, National Centre for Statistics and Information (NCSI), General Census of Population, Housing and Establishments, enumerated on 12 December 2020. This is a full national census conducted every ten years; it is the authoritative source for Omani population statistics.
+Aggregation
+Because NCSI publishes wilayat-level and sub-locality data across multiple PDF reports rather than a consolidated machine-readable gazetteer, this register uses citypopulation.de (editor Thomas Brinkhoff, University of Applied Sciences Oldenburg) as the structured aggregator. Citypopulation.de is an independent reference used by the United Nations Statistics Division, the OECD, and academic demographers. Every figure in this document traces back to NCSI 2020 census publications.
+Locality Threshold
+Per NCSI publication practice and citypopulation.de editorial policy, every locality with fifty or more residents in the 2020 census is enumerated individually. Hamlets smaller than fifty residents are aggregated into their parent wilayat and are not published as individual localities in NCSI reports — they therefore cannot be listed in this register.
+Arabic Names
+Arabic names for the eleven governorates and sixty-one wilayats are drawn from official Omani government publications. Sub-locality Arabic transliterations are not available in machine-readable form at source. English transliterations of sub-locality names follow citypopulation.de's convention, which in turn follows NCSI's Romanised spelling.
+Locality Type Classification
+The locality type field (City / City (major) / Town / Village / Hamlet / Small hamlet) is a derived classification based on 2020 population thresholds, applied for reader convenience. It is not an official NCSI designation.
+Type
+2020 Population threshold
+Typical example
+City (major)
+≥ 100,000
+Seeb, Bawshar, Salalah, Sohar
+City
+25,000 – 99,999
+Nizwa, Sur, Ibri, Buraimi
+Town
+5,000 – 24,999
+Bahla, Khasab, Samail
+Village
+1,000 – 4,999
+Tanuf, Farq, Birkat al-Mawz
+Hamlet
+100 – 999
+Al-Atim, Al-Khatm, Al-Ayn
+Small hamlet
+50 – 99
+Al-Jarir, Tawi al-Manyah
+
+Administrative Structure of Oman
+The Sultanate of Oman is divided into eleven governorates (محافظات, muhafazat), following the administrative reorganisation codified in Royal Decree 114/2011 (which elevated the former Al Buraimi and Ad Dhahirah regions to full governorate status) and the subsequent 2020 boundary adjustments.
+Each governorate is subdivided into wilayats (ولايات, districts), which are the primary administrative unit below the governorate level. Each wilayat is administered by a Wali appointed by the Sultan and reports to the Ministry of Interior.
+Below the wilayat tier, localities are grouped into census enumeration areas. NCSI enumerates these at the following levels of disaggregation: wilayat centre (the administrative town for which the wilayat is named), neighbourhoods or hay (in urban wilayats), villages and sub-villages (qura, qaryah), hamlets, industrial zones, and institutional compounds (e.g. military bases, universities).
+
+Muscat Governorate
+مسقط  |  Code: 01  |  2020 Census Population: 1,302,440
+This governorate contains 6 wilayats and 113 documented localities in the 2020 census.
+Masqat Wilayat (مسقط)
+Code: 0101  |  Localities: 15  |  Sub-locality population total (enumerated ≥50): 31,120
+#
+Locality
+Type
+2020 Population
+1
+Muscat
+Town
+24,099
+2
+Yiti
+Village
+2,713
+3
+As-Sifah
+Village
+1,674
+4
+Al-Khiran
+Village
+1,050
+5
+Yankit
+Hamlet
+652
+6
+Sifat ash-Shaykh
+Hamlet
+186
+7
+Al-Luhlu
+Hamlet
+136
+8
+Wadi az-Zikt
+Hamlet
+105
+9
+Kayba
+Hamlet
+100
+10
+Al-Widyah
+Small hamlet
+96
+11
+Bahs
+Small hamlet
+68
+12
+Al-Khityah
+Small hamlet
+67
+13
+Al-Habbasah
+Small hamlet
+62
+14
+Khabb al-Jamal
+Small hamlet
+61
+15
+Al-Jissah
+Small hamlet
+51
+
+Masqat — enumerated total
+
+31,120
+ 
+Muttrah Wilayat (مطرح)
+Code: 0102  |  Localities: 1  |  Sub-locality population total (enumerated ≥50): 230,881
+#
+Locality
+Type
+2020 Population
+1
+Matrah
+City (major)
+230,881
+
+Muttrah — enumerated total
+
+230,881
+ 
+Amrat Wilayat (العامرات)
+Code: 0103  |  Localities: 46  |  Sub-locality population total (enumerated ≥50): 120,759
+#
+Locality
+Type
+2020 Population
+1
+Al-Amrat
+City
+96,384
+2
+Al-Atkiyah
+Village
+4,707
+3
+Adan
+Village
+4,317
+4
+Al-Hajir
+Village
+2,865
+5
+Jahlut
+Village
+2,574
+6
+Mikab
+Village
+1,558
+7
+As-Sudayrat
+Village
+1,438
+8
+Al-Wasit
+Village
+1,251
+9
+Bayt
+Hamlet
+641
+10
+Ash-Shikayli
+Hamlet
+290
+11
+Al-Khuwayrat
+Hamlet
+263
+12
+Al-Fard
+Hamlet
+261
+13
+Al-Hajir Range
+Hamlet
+257
+14
+Wadi al-Ghuyul
+Hamlet
+239
+15
+Al-Mutayrih
+Hamlet
+232
+16
+Tunis
+Hamlet
+216
+17
+Bai
+Hamlet
+210
+18
+Hiyyam
+Hamlet
+204
+19
+Al-Multaqa
+Hamlet
+198
+20
+Sudiyayn
+Hamlet
+190
+21
+Al-Mandhriyah
+Hamlet
+183
+22
+Qayd
+Hamlet
+176
+23
+Al-Mazra al-Hadri
+Hamlet
+166
+24
+Ar-Rija (010320091)
+Hamlet
+150
+25
+Samakt
+Hamlet
+125
+26
+At-Tibaybah
+Hamlet
+122
+27
+Dim
+Hamlet
+118
+28
+At-Turaymdi
+Small hamlet
+99
+29
+Kid
+Small hamlet
+98
+30
+Al-Hanyah
+Small hamlet
+95
+31
+Sayh al-Qahmah / Al-Qahmah
+Small hamlet
+94
+32
+Al-Khars
+Small hamlet
+90
+33
+Ad-Dabkah
+Small hamlet
+81
+34
+Sunaysil
+Small hamlet
+80
+35
+Qifil
+Small hamlet
+79
+36
+Salfi
+Small hamlet
+75
+37
+Al-Himyaniyah
+Small hamlet
+73
+38
+Kabkab
+Small hamlet
+72
+39
+Al-Madam
+Small hamlet
+70
+40
+Al-Mazra al-Alwi
+Small hamlet
+65
+41
+Ar-Rija (010320261)
+Small hamlet
+65
+42
+Al-Mijami
+Small hamlet
+61
+43
+Haqam
+Small hamlet
+60
+44
+Al-Markaz
+Small hamlet
+58
+45
+Miqayhfah
+Small hamlet
+56
+46
+Al-Himdi
+Small hamlet
+53
+
+Amrat — enumerated total
+
+120,759
+ 
+Bawshar Wilayat (بوشر)
+Code: 0104  |  Localities: 8  |  Sub-locality population total (enumerated ≥50): 382,142
+#
+Locality
+Type
+2020 Population
+1
+Bawshar
+City (major)
+362,523
+2
+As-Suwaydifi
+Town
+12,822
+3
+Falaj ash-Sham
+Village
+4,361
+4
+Sunub
+Hamlet
+833
+5
+Al-Misfah al-Gharbiyah
+Hamlet
+784
+6
+Al-Misfah ash-Sharqiyah
+Hamlet
+448
+7
+Al-Hammam
+Hamlet
+302
+8
+Al-Aqbiyah
+Small hamlet
+69
+
+Bawshar — enumerated total
+
+382,142
+ 
+Seeb Wilayat (السيب)
+Code: 0105  |  Localities: 3  |  Sub-locality population total (enumerated ≥50): 478,517
+#
+Locality
+Type
+2020 Population
+1
+As-Sib
+City (major)
+470,878
+2
+At-Tuwayyat
+Village
+4,822
+3
+Al-Khawd al-Qadimah
+Village
+2,817
+
+Seeb — enumerated total
+
+478,517
+ 
+Qurayyat Wilayat (قريات)
+Code: 0106  |  Localities: 40  |  Sub-locality population total (enumerated ≥50): 58,170
+#
+Locality
+Type
+2020 Population
+1
+Qurayyat
+City
+31,325
+2
+Daghmar
+Town
+5,633
+3
+Hayl al-Ghaf
+Village
+4,262
+4
+Al-Mazari
+Village
+2,090
+5
+Siya
+Village
+2,031
+6
+Fins
+Village
+1,911
+7
+Dibab
+Village
+1,177
+8
+Mihya
+Hamlet
+959
+9
+Hayfadh
+Hamlet
+954
+10
+As-Sawaqim
+Hamlet
+916
+11
+Al-Misfah
+Hamlet
+853
+12
+Bamah
+Hamlet
+797
+13
+Al-Lismu
+Hamlet
+549
+14
+Arqi
+Hamlet
+495
+15
+Al-Habubiyah
+Hamlet
+439
+16
+At-Turayf
+Hamlet
+415
+17
+Fayq
+Hamlet
+271
+18
+Sawqah
+Hamlet
+252
+19
+As-Silil
+Hamlet
+229
+20
+Wadi ar-Rihab
+Hamlet
+229
+21
+Al-Fulayj
+Hamlet
+192
+22
+Umq ar-Rabakh
+Hamlet
+186
+23
+As-Suwayh
+Hamlet
+175
+24
+Falaj at-Turayf
+Hamlet
+164
+25
+Abayah
+Hamlet
+162
+26
+Al-Fayyad
+Hamlet
+160
+27
+Qatar
+Hamlet
+147
+28
+Al-Aqbah
+Hamlet
+135
+29
+Al-Atab
+Hamlet
+132
+30
+As-Sumayr
+Hamlet
+126
+31
+At-Tabah
+Hamlet
+124
+32
+Wasal
+Hamlet
+100
+33
+Al-Batha
+Small hamlet
+91
+34
+Al-Mitqablat
+Small hamlet
+89
+35
+Al-Ya
+Small hamlet
+89
+36
+Salmah
+Small hamlet
+78
+37
+Al-Maghrah
+Small hamlet
+67
+38
+Al-Masjulah
+Small hamlet
+60
+39
+Al-Fajj
+Small hamlet
+56
+40
+Mawal
+Small hamlet
+50
+
+Qurayyat — enumerated total
+
+58,170
+ 
+
+Dhofar Governorate
+ظفار  |  Code: 02  |  2020 Census Population: 416,458
+This governorate contains 10 wilayats and 302 documented localities in the 2020 census.
+Salalah Wilayat (صلالة)
+Code: 0201  |  Localities: 118  |  Sub-locality population total (enumerated ≥50): 327,993
+#
+Locality
+Type
+2020 Population
+1
+Salalah
+City (major)
+293,962
+2
+Anjarti
+Town
+7,529
+3
+Tayjrur
+Village
+3,201
+4
+Diqdur
+Village
+2,613
+5
+Ghur Aar
+Village
+1,290
+6
+Zayk
+Village
+1,063
+7
+Hijayf
+Hamlet
+877
+8
+Qayrun Hayriti
+Hamlet
+683
+9
+Adawnab
+Hamlet
+604
+10
+Airti
+Hamlet
+561
+11
+Dilta
+Hamlet
+558
+12
+Afardakhut
+Hamlet
+540
+13
+Ghadu
+Hamlet
+483
+14
+Shah Aun
+Hamlet
+473
+15
+Shaqfinut
+Hamlet
+441
+16
+As-San
+Hamlet
+415
+17
+Hiyam
+Hamlet
+400
+18
+Shahab
+Hamlet
+371
+19
+Nujar Aqid
+Hamlet
+347
+20
+Aybut 2
+Hamlet
+331
+21
+Titam
+Hamlet
+313
+22
+Ashut
+Hamlet
+273
+23
+Safgh
+Hamlet
+270
+24
+Ghuf
+Hamlet
+261
+25
+Shir
+Hamlet
+245
+26
+Awb
+Hamlet
+222
+27
+Fajuri
+Hamlet
+214
+28
+Jawjab
+Hamlet
+211
+29
+Harbur
+Hamlet
+209
+30
+Al-Mughsayl
+Hamlet
+204
+31
+Mithnun
+Hamlet
+203
+32
+Aftalqut
+Hamlet
+201
+33
+Ardit
+Hamlet
+192
+34
+Daghrub
+Hamlet
+184
+35
+Tuwat
+Hamlet
+184
+36
+Falqan
+Hamlet
+179
+37
+Jalil
+Hamlet
+177
+38
+Dahayq
+Hamlet
+174
+39
+Ashanhayb
+Hamlet
+162
+40
+Ah Aazlan
+Hamlet
+156
+41
+Aghanjut
+Hamlet
+154
+42
+Anbir
+Hamlet
+152
+43
+Aqdarayti
+Hamlet
+148
+44
+Ardayt Kali
+Hamlet
+147
+45
+Arzum
+Hamlet
+144
+46
+Asniawt
+Hamlet
+144
+47
+Abri
+Hamlet
+142
+48
+Arkabit
+Hamlet
+140
+49
+Ghasbari
+Hamlet
+136
+50
+Sifath
+Hamlet
+135
+51
+Wadi Ayn
+Hamlet
+131
+52
+Dahaq Thari
+Hamlet
+130
+53
+Aybut 1
+Hamlet
+128
+54
+Arnut
+Hamlet
+127
+55
+Razat
+Hamlet
+126
+56
+Hayf
+Hamlet
+125
+57
+Arkrifat
+Hamlet
+123
+58
+Rasam
+Hamlet
+122
+59
+Arjayl
+Hamlet
+121
+60
+Jut Akhdarayti
+Hamlet
+119
+61
+Arkut
+Hamlet
+114
+62
+Hajfaynut
+Hamlet
+114
+63
+Hayut
+Hamlet
+111
+64
+Khayrir Aziruf
+Hamlet
+108
+65
+Afjuh
+Hamlet
+107
+66
+Sarun
+Hamlet
+105
+67
+Raythut
+Hamlet
+104
+68
+Shib Harut
+Hamlet
+104
+69
+Arshiti
+Small hamlet
+98
+70
+Arkarfaf
+Small hamlet
+97
+71
+Fasha
+Small hamlet
+96
+72
+Arkhashfit
+Small hamlet
+93
+73
+Kazit Jalil
+Small hamlet
+93
+74
+Aryan
+Small hamlet
+92
+75
+Astun
+Small hamlet
+87
+76
+Afsayliti
+Small hamlet
+84
+77
+Kanzayr
+Small hamlet
+81
+78
+Arghab
+Small hamlet
+80
+79
+Anqisat
+Small hamlet
+79
+80
+Quhuf
+Small hamlet
+79
+81
+Shihayti
+Small hamlet
+79
+82
+Adhayniti Ghasbar
+Small hamlet
+77
+83
+Kahaf
+Small hamlet
+77
+84
+Ajdayr Ayub
+Small hamlet
+76
+85
+Har Asrub
+Small hamlet
+76
+86
+Araykab
+Small hamlet
+75
+87
+Dar Adwa
+Small hamlet
+74
+88
+Rashmum
+Small hamlet
+73
+89
+Qayshit
+Small hamlet
+72
+90
+Al-Marakh
+Small hamlet
+68
+91
+Andayb
+Small hamlet
+68
+92
+Aanthuq
+Small hamlet
+66
+93
+Ashishta Harut
+Small hamlet
+65
+94
+Hujlayn
+Small hamlet
+65
+95
+Ahyuf
+Small hamlet
+64
+96
+Aasmin
+Small hamlet
+63
+97
+Dhafniyah
+Small hamlet
+63
+98
+Hadlil
+Small hamlet
+63
+99
+Shayruskh
+Small hamlet
+63
+100
+Kazayt Atah
+Small hamlet
+61
+101
+Anshaf
+Small hamlet
+60
+102
+Ashqul
+Small hamlet
+60
+103
+Atsah
+Small hamlet
+60
+104
+Hurat
+Small hamlet
+60
+105
+Ajya
+Small hamlet
+59
+106
+Ambishaq
+Small hamlet
+59
+107
+Atafaf
+Small hamlet
+59
+108
+Kharis / Kharis Asghut
+Small hamlet
+58
+109
+Arthut
+Small hamlet
+57
+110
+Sha
+Small hamlet
+57
+111
+Dar Arqat
+Small hamlet
+54
+112
+Fusut
+Small hamlet
+54
+113
+Qiran
+Small hamlet
+54
+114
+Hafuf
+Small hamlet
+53
+115
+Musirat
+Small hamlet
+52
+116
+Arkab
+Small hamlet
+51
+117
+Kharis Asqut
+Small hamlet
+51
+118
+Wadi Mudam
+Small hamlet
+51
+
+Salalah — enumerated total
+
+327,993
+ 
+Taqah Wilayat (طاقة)
+Code: 0202  |  Localities: 46  |  Sub-locality population total (enumerated ≥50): 20,103
+#
+Locality
+Type
+2020 Population
+1
+Taqah
+Town
+12,538
+2
+Madinat al-Haqq
+Village
+1,527
+3
+Jibjat
+Village
+1,192
+4
+Fiqiti
+Hamlet
+507
+5
+Aram
+Hamlet
+237
+6
+Maqayt
+Hamlet
+222
+7
+Halqut
+Hamlet
+218
+8
+Dar Shahb
+Hamlet
+217
+9
+Jafjayf
+Hamlet
+160
+10
+Alam
+Hamlet
+155
+11
+Kanhat
+Hamlet
+141
+12
+Sarfayt ash-Shihayt
+Hamlet
+125
+13
+Kidayd
+Hamlet
+122
+14
+Ardinti
+Hamlet
+120
+15
+Huz
+Hamlet
+120
+16
+Bathar
+Hamlet
+114
+17
+Ashmasir
+Hamlet
+107
+18
+Hayf Aqusi
+Hamlet
+107
+19
+Ajniti
+Hamlet
+104
+20
+Adayt
+Small hamlet
+98
+21
+Ad Ali
+Small hamlet
+96
+22
+Silal
+Small hamlet
+96
+23
+Masaybul
+Small hamlet
+94
+24
+Aruk
+Small hamlet
+91
+25
+Antaghaq
+Small hamlet
+90
+26
+Shihayt
+Small hamlet
+89
+27
+Akharat
+Small hamlet
+87
+28
+Hakab Bayt Hasun
+Small hamlet
+86
+29
+Hakab Bayt Arkab
+Small hamlet
+84
+30
+Jut Inath
+Small hamlet
+83
+31
+Aala Arkhaym
+Small hamlet
+81
+32
+Adkidak
+Small hamlet
+81
+33
+Anuthaq
+Small hamlet
+79
+34
+Za
+Small hamlet
+74
+35
+Har Harut
+Small hamlet
+71
+36
+Khijin
+Small hamlet
+68
+37
+Ahyuf
+Small hamlet
+67
+38
+Haqaf
+Small hamlet
+67
+39
+Sadah
+Small hamlet
+67
+40
+Aqita
+Small hamlet
+66
+41
+Ariqaf
+Small hamlet
+66
+42
+Hamtuq
+Small hamlet
+66
+43
+Thayin
+Small hamlet
+63
+44
+Arjafut
+Small hamlet
+59
+45
+Har Arzum
+Small hamlet
+51
+46
+Habjalt
+Small hamlet
+50
+
+Taqah — enumerated total
+
+20,103
+ 
+Mirbat Wilayat (مرباط)
+Code: 0203  |  Localities: 41  |  Sub-locality population total (enumerated ≥50): 15,245
+#
+Locality
+Type
+2020 Population
+1
+Mirbat
+Town
+9,886
+2
+Tawi Atayr
+Hamlet
+911
+3
+Sahal Ghadiyah
+Hamlet
+322
+4
+Kizayt
+Hamlet
+264
+5
+Qardayt
+Hamlet
+233
+6
+Dar Funaq
+Hamlet
+211
+7
+Kaydid
+Hamlet
+209
+8
+Insham
+Hamlet
+192
+9
+Dar Qanf
+Hamlet
+180
+10
+Ghadyah
+Hamlet
+167
+11
+Jabal Har
+Hamlet
+162
+12
+Wadi Ayn al-Gharbi
+Hamlet
+150
+13
+Dahaq Awtayn
+Hamlet
+137
+14
+Fayraq
+Hamlet
+137
+15
+Ardayt Arhamad
+Hamlet
+136
+16
+Ajzirniti
+Hamlet
+131
+17
+Shahim
+Hamlet
+109
+18
+Aghadit
+Hamlet
+105
+19
+Dar Adritat
+Hamlet
+102
+20
+Dar Qadqud
+Hamlet
+102
+21
+Adur
+Small hamlet
+91
+22
+Qashrub
+Small hamlet
+86
+23
+Atayr
+Small hamlet
+84
+24
+Hinu
+Small hamlet
+81
+25
+Adhfijar
+Small hamlet
+79
+26
+Arqaf Azam
+Small hamlet
+79
+27
+Dar Shinjahi
+Small hamlet
+79
+28
+Wadi Shabun
+Small hamlet
+73
+29
+Arin
+Small hamlet
+71
+30
+Kudur
+Small hamlet
+65
+31
+Manhur
+Small hamlet
+63
+32
+Wadi Hanna
+Small hamlet
+62
+33
+Dar Asaari
+Small hamlet
+59
+34
+Asmur / Ghar
+Small hamlet
+56
+35
+Kizayt Khif
+Small hamlet
+56
+36
+Ashirut
+Small hamlet
+55
+37
+Shaghar
+Small hamlet
+55
+38
+Al-Law wa Halaf
+Small hamlet
+52
+39
+Arqaf Aqartanim
+Small hamlet
+52
+40
+Shihayb
+Small hamlet
+51
+41
+Jinmin
+Small hamlet
+50
+
+Mirbat — enumerated total
+
+15,245
+ 
+Rakhyut Wilayat (رخيوت)
+Code: 0204  |  Localities: 23  |  Sub-locality population total (enumerated ≥50): 4,528
+#
+Locality
+Type
+2020 Population
+1
+Rakhyut
+Hamlet
+706
+2
+Maqurah
+Hamlet
+457
+3
+Arift
+Hamlet
+361
+4
+Shahb Asayb
+Hamlet
+339
+5
+Ashqul
+Hamlet
+333
+6
+Anzut
+Hamlet
+265
+7
+Ajdarawt
+Hamlet
+215
+8
+Qarhunti
+Hamlet
+213
+9
+Shahab
+Hamlet
+179
+10
+Arjut
+Hamlet
+170
+11
+Arift / Hasal
+Hamlet
+164
+12
+Wadi Darq
+Hamlet
+141
+13
+Qayfuz Shaat
+Hamlet
+128
+14
+Shisar
+Hamlet
+118
+15
+Arjut Ashkharayt
+Hamlet
+113
+16
+Ardayt
+Hamlet
+106
+17
+Barq
+Hamlet
+106
+18
+Jidayrt
+Small hamlet
+88
+19
+Kizayt Isuq
+Small hamlet
+73
+20
+Dar Shaat
+Small hamlet
+69
+21
+Aqtadanut
+Small hamlet
+67
+22
+Sharshatti
+Small hamlet
+67
+23
+Kayzit Amqat
+Small hamlet
+50
+
+Rakhyut — enumerated total
+
+4,528
+ 
+Thumrait Wilayat (ثمريت)
+Code: 0205  |  Localities: 18  |  Sub-locality population total (enumerated ≥50): 16,958
+#
+Locality
+Type
+2020 Population
+1
+Thumrayt
+Town
+10,552
+2
+Dhahbun
+Village
+1,087
+3
+Rabkut
+Hamlet
+931
+4
+Mudayy
+Hamlet
+887
+5
+Rawiyah
+Hamlet
+820
+6
+Haluf / Mushaylah
+Hamlet
+503
+7
+Barbazum
+Hamlet
+388
+8
+Uyun
+Hamlet
+271
+9
+Ash-Shisr
+Hamlet
+258
+10
+Hadhur
+Hamlet
+252
+11
+Al-Mathafah
+Hamlet
+200
+12
+Al-Hashman
+Hamlet
+158
+13
+Hakbit
+Hamlet
+145
+14
+Qatbit / Sadhun
+Hamlet
+133
+15
+Barasas
+Hamlet
+128
+16
+Bithnah
+Small hamlet
+95
+17
+Sayh al-Khayrat
+Small hamlet
+86
+18
+Hanfit ash-Shamali
+Small hamlet
+64
+
+Thumrait — enumerated total
+
+16,958
+ 
+Dalkut Wilayat (ضلكوت)
+Code: 0206  |  Localities: 16  |  Sub-locality population total (enumerated ≥50): 2,922
+#
+Locality
+Type
+2020 Population
+1
+Dalkut
+Village
+1,157
+2
+Arshut
+Hamlet
+286
+3
+Shisrayt
+Hamlet
+190
+4
+Hakab Ayrghad
+Hamlet
+147
+5
+Hakab Aaram
+Hamlet
+146
+6
+Hufuf
+Hamlet
+142
+7
+Qansud
+Hamlet
+130
+8
+Jawt Ahata
+Hamlet
+127
+9
+Frugh
+Small hamlet
+97
+10
+Daan
+Small hamlet
+91
+11
+Khafjit
+Small hamlet
+80
+12
+Jut Adhar
+Small hamlet
+76
+13
+Dari
+Small hamlet
+72
+14
+Barr Atiq
+Small hamlet
+71
+15
+Urf
+Small hamlet
+57
+16
+Khadrafi
+Small hamlet
+53
+
+Dalkut — enumerated total
+
+2,922
+ 
+Al Mazyunah Wilayat (المزيونة)
+Code: 0207  |  Localities: 10  |  Sub-locality population total (enumerated ≥50): 8,363
+#
+Locality
+Type
+2020 Population
+1
+Al-Mazyunah
+Town
+5,508
+2
+Harwib
+Hamlet
+768
+3
+Mitan
+Hamlet
+541
+4
+Tawsinat
+Hamlet
+336
+5
+Andat
+Hamlet
+288
+6
+Habrut
+Hamlet
+270
+7
+Maturah
+Hamlet
+258
+8
+Zaynah
+Hamlet
+177
+9
+Jajwal
+Hamlet
+142
+10
+Hayrun
+Small hamlet
+75
+
+Al Mazyunah — enumerated total
+
+8,363
+ 
+Muqshin Wilayat (مقشن)
+Code: 0208  |  Localities: 1  |  Sub-locality population total (enumerated ≥50): 581
+#
+Locality
+Type
+2020 Population
+1
+Muqshin
+Hamlet
+581
+
+Muqshin — enumerated total
+
+581
+ 
+Shalim wa Juzur al-Hallaniyat Wilayat (شليم وجزر الحلانيات)
+Code: 0209  |  Localities: 14  |  Sub-locality population total (enumerated ≥50): 6,331
+#
+Locality
+Type
+2020 Population
+1
+Shalim
+Village
+2,031
+2
+Ash-Shuwaymiyah
+Hamlet
+885
+3
+Kubut
+Hamlet
+577
+4
+Dimit
+Hamlet
+496
+5
+Sharbthat
+Hamlet
+496
+6
+Wadi Arah
+Hamlet
+372
+7
+Zakhar
+Hamlet
+320
+8
+Marmul
+Hamlet
+287
+9
+Wadi Hakkah
+Hamlet
+163
+10
+Jarayt
+Hamlet
+150
+11
+Jazirat al-Hallaniyah
+Hamlet
+149
+12
+Rahab
+Hamlet
+147
+13
+Fatkhit
+Hamlet
+131
+14
+Wadi Mahwis
+Hamlet
+127
+
+Shalim wa Juzur al-Hallaniyat — enumerated total
+
+6,331
+ 
+Sadah Wilayat (سدح)
+Code: 0210  |  Localities: 15  |  Sub-locality population total (enumerated ≥50): 5,923
+#
+Locality
+Type
+2020 Population
+1
+Sadah
+Village
+2,165
+2
+Jufa
+Hamlet
+876
+3
+Hasik
+Hamlet
+774
+4
+Hadbin
+Hamlet
+726
+5
+Wadi Hadbin al-Gharbi / Wadi Arjiyut
+Hamlet
+326
+6
+Shalyun / Jufa
+Hamlet
+211
+7
+Shiab Bayt Said
+Hamlet
+142
+8
+Fushi / Wadi Fushi
+Hamlet
+129
+9
+Wadi Hadbin al-Usti / Amqat
+Hamlet
+127
+10
+Fashghi / Sawb
+Hamlet
+113
+11
+Jazal / Arkhirsut / Sawb
+Small hamlet
+87
+12
+Afirta / Sawb
+Small hamlet
+70
+13
+Wadi al-Liniti / Sawb
+Small hamlet
+66
+14
+Sirunt / Jufa
+Small hamlet
+56
+15
+Wadi Akharfiti / Sawb
+Small hamlet
+55
+
+Sadah — enumerated total
+
+5,923
+ 
+
+Musandam Governorate
+مسندم  |  Code: 03  |  2020 Census Population: 49,062
+This governorate contains 4 wilayats and 41 documented localities in the 2020 census.
+Khasab Wilayat (خصب)
+Code: 0301  |  Localities: 24  |  Sub-locality population total (enumerated ≥50): 28,851
+#
+Locality
+Type
+2020 Population
+1
+Khasab
+Town
+21,651
+2
+Lima
+Village
+2,067
+3
+Kumzar
+Village
+1,418
+4
+Al-Harf
+Hamlet
+699
+5
+Qada
+Hamlet
+473
+6
+Sayma
+Hamlet
+334
+7
+Sall Asfal
+Hamlet
+316
+8
+Al-Habaylah
+Hamlet
+203
+9
+Al-Haqat
+Hamlet
+184
+10
+Al-Qatayn
+Hamlet
+177
+11
+Khizaynuh
+Hamlet
+152
+12
+Ghibannah
+Hamlet
+150
+13
+Sall Ala
+Hamlet
+119
+14
+Birkat an-Nuss
+Hamlet
+118
+15
+As-Silyan
+Hamlet
+111
+16
+Sawi
+Small hamlet
+99
+17
+Wadi Muwwah / Muwwah
+Small hamlet
+90
+18
+Ash-Sharjah
+Small hamlet
+89
+19
+Shisah
+Small hamlet
+79
+20
+Sibi
+Small hamlet
+72
+21
+Ras Hafif
+Small hamlet
+66
+22
+Hajir Nasib
+Small hamlet
+64
+23
+Qubbah
+Small hamlet
+63
+24
+Alfatk
+Small hamlet
+57
+
+Khasab — enumerated total
+
+28,851
+ 
+Diba Al Bayah Wilayat (دبا البيعة)
+Code: 0302  |  Localities: 3  |  Sub-locality population total (enumerated ≥50): 10,177
+#
+Locality
+Type
+2020 Population
+1
+Daba
+Town
+9,863
+2
+Zaghi
+Hamlet
+255
+3
+Haffah
+Small hamlet
+59
+
+Diba Al Bayah — enumerated total
+
+10,177
+ 
+Bukha Wilayat (بخاء)
+Code: 0303  |  Localities: 6  |  Sub-locality population total (enumerated ≥50): 4,393
+#
+Locality
+Type
+2020 Population
+1
+Bukha
+Village
+2,314
+2
+Ghamda
+Hamlet
+715
+3
+Al-Jadi
+Hamlet
+613
+4
+Al-Jari
+Hamlet
+381
+5
+Fadgha
+Hamlet
+245
+6
+Tibat
+Hamlet
+125
+
+Bukha — enumerated total
+
+4,393
+ 
+Madha Wilayat (مدحاء)
+Code: 0304  |  Localities: 8  |  Sub-locality population total (enumerated ≥50): 4,462
+#
+Locality
+Type
+2020 Population
+1
+Madha
+Village
+3,217
+2
+Al-Ghawnah
+Hamlet
+412
+3
+Ash-Sharyah
+Hamlet
+329
+4
+Al-Harah
+Hamlet
+152
+5
+Al-Andhar
+Hamlet
+138
+6
+Sahna
+Small hamlet
+77
+7
+Hajar Bani Humayd
+Small hamlet
+73
+8
+As-Saruj
+Small hamlet
+64
+
+Madha — enumerated total
+
+4,462
+ 
+
+Al Buraimi Governorate
+البريمي  |  Code: 04  |  2020 Census Population: 121,802
+This governorate contains 3 wilayats and 47 documented localities in the 2020 census.
+Al Buraymi Wilayat (البريمي)
+Code: 0401  |  Localities: 15  |  Sub-locality population total (enumerated ≥50): 109,660
+#
+Locality
+Type
+2020 Population
+1
+Al-Buraymi
+City
+92,223
+2
+Al-Ghurayfah
+Town
+7,260
+3
+Mazari al-Uqdah
+Town
+5,399
+4
+Hafit
+Village
+1,008
+5
+Ar-Rabi
+Hamlet
+792
+6
+Wasit
+Hamlet
+654
+7
+Markaz Wadi Sa / Al-Milayh
+Hamlet
+574
+8
+As-Sabkhah
+Hamlet
+452
+9
+Al-Fayyad
+Hamlet
+348
+10
+Al-Hayl
+Hamlet
+245
+11
+Al-Muallaqah
+Hamlet
+245
+12
+Al-Harim
+Hamlet
+228
+13
+Al-Lusayl
+Hamlet
+108
+14
+Al-Mufiyah
+Small hamlet
+67
+15
+Wadi Ajran
+Small hamlet
+57
+
+Al Buraymi — enumerated total
+
+109,660
+ 
+Mahdah Wilayat (محضة)
+Code: 0402  |  Localities: 27  |  Sub-locality population total (enumerated ≥50): 9,514
+#
+Locality
+Type
+2020 Population
+1
+Mahadah
+Village
+3,964
+2
+Shabiyat al-Khatwah
+Hamlet
+757
+3
+Al-Fayy
+Hamlet
+660
+4
+Ar-Rawdah
+Hamlet
+555
+5
+Al-Juwayf
+Hamlet
+546
+6
+Hadaf
+Hamlet
+497
+7
+Al-Khadra al-Jadidah
+Hamlet
+420
+8
+Al-Hayl
+Hamlet
+285
+9
+Kahil
+Hamlet
+178
+10
+Al-Malawi
+Hamlet
+176
+11
+Raddat Sa
+Hamlet
+169
+12
+Al-Musaydrah
+Hamlet
+167
+13
+Adh-Dhahir
+Hamlet
+110
+14
+Humaydah
+Hamlet
+108
+15
+Az-Zurub
+Small hamlet
+97
+16
+Wadi Qasayd
+Small hamlet
+97
+17
+Al-Aqrabiyah
+Small hamlet
+93
+18
+Al-Muhaysin
+Small hamlet
+80
+19
+Al-Khutwah
+Small hamlet
+77
+20
+Al-Mihaydith
+Small hamlet
+73
+21
+Wadi Hamad
+Small hamlet
+63
+22
+An-Nuwayy
+Small hamlet
+62
+23
+Al-Hajir
+Small hamlet
+61
+24
+Shayk
+Small hamlet
+58
+25
+Al-Afrad
+Small hamlet
+56
+26
+Al-Uqaydah
+Small hamlet
+54
+27
+As-Sudiyah
+Small hamlet
+51
+
+Mahdah — enumerated total
+
+9,514
+ 
+As Sunaynah Wilayat (السنينة)
+Code: 0403  |  Localities: 5  |  Sub-locality population total (enumerated ≥50): 1,301
+#
+Locality
+Type
+2020 Population
+1
+As-Sunaynah
+Hamlet
+677
+2
+Al-Harmuzi
+Hamlet
+343
+3
+Al-Uwaydah
+Hamlet
+169
+4
+Ar-Rihani
+Small hamlet
+60
+5
+Al-Qabil
+Small hamlet
+52
+
+As Sunaynah — enumerated total
+
+1,301
+ 
+
+Ad Dakhiliyah Governorate
+الداخلية  |  Code: 05  |  2020 Census Population: 478,501
+This governorate contains 8 wilayats and 356 documented localities in the 2020 census.
+Nizwa Wilayat (نزوى)
+Code: 0501  |  Localities: 67  |  Sub-locality population total (enumerated ≥50): 131,103
+#
+Locality
+Type
+2020 Population
+1
+Nizwa
+City
+64,599
+2
+Birkat al-Mawz
+Town
+9,828
+3
+Hayy at-Turath
+Town
+6,752
+4
+Ar-Raddah
+Town
+5,375
+5
+Farq
+Village
+4,511
+6
+Sayh Qatnah
+Village
+4,092
+7
+Taymsa
+Village
+3,635
+8
+Hayl Farq
+Village
+3,114
+9
+Tanuf
+Village
+3,069
+10
+Hayy as-Saad
+Village
+2,643
+11
+Al-Mutamar
+Village
+2,443
+12
+Nizwa Industrial Area
+Village
+2,389
+13
+Hayy at-Turath al-Janubi
+Village
+2,009
+14
+Kamah
+Village
+1,988
+15
+Karsha
+Village
+1,790
+16
+Wadi Bani Habib
+Village
+1,143
+17
+Al-Muaymir
+Village
+1,007
+18
+Sayq
+Village
+1,000
+19
+Al-Mudaybi
+Hamlet
+928
+20
+Khumaylah
+Hamlet
+621
+21
+As-Suwayhriyah
+Hamlet
+620
+22
+Hayl al-Yaman
+Hamlet
+614
+23
+As-Sultan Qaboos Academy For Police Science
+Hamlet
+548
+24
+Al-Khatm
+Hamlet
+503
+25
+Tawi an-Nisf
+Hamlet
+319
+26
+Al-Manakhir
+Hamlet
+286
+27
+Al-Ilaylinah
+Hamlet
+280
+28
+Safi Sahra
+Hamlet
+266
+29
+Al-Ayn
+Hamlet
+260
+30
+Qarn al-Maallam
+Hamlet
+243
+31
+Al-Hilaylat
+Hamlet
+238
+32
+Al-Ghalil
+Hamlet
+210
+33
+Hayl ad-Diyar
+Hamlet
+199
+34
+Ad-Dar
+Hamlet
+198
+35
+Al-Mudayfi
+Hamlet
+189
+36
+Murwuh al-Jadidah
+Hamlet
+183
+37
+Wadi al-Muaydin
+Hamlet
+178
+38
+Al-Aqur
+Hamlet
+174
+39
+Al-Wasit
+Hamlet
+160
+40
+Mabat
+Hamlet
+155
+41
+Al-Atim
+Hamlet
+151
+42
+Ar-Rahbah
+Hamlet
+132
+43
+Tawi ad-Daliah
+Hamlet
+129
+44
+Al-Qashu
+Hamlet
+123
+45
+Tawi al-Lathlah
+Hamlet
+123
+46
+Al-Khamri
+Hamlet
+112
+47
+Aqbat al-Biyut
+Hamlet
+105
+48
+Tawi Sadah
+Hamlet
+103
+49
+Tawi al-Maqabah
+Hamlet
+101
+50
+Ash-Shirayjah
+Small hamlet
+93
+51
+Kahf al-Ahmar
+Small hamlet
+93
+52
+Tawi al-Ghubayrah
+Small hamlet
+87
+53
+Tawi al-Jazam
+Small hamlet
+84
+54
+Al-Maraghah
+Small hamlet
+83
+55
+Ar-Rus
+Small hamlet
+79
+56
+Tawi al-Ghanimah
+Small hamlet
+75
+57
+Sallut
+Small hamlet
+74
+58
+Az-Zikt
+Small hamlet
+73
+59
+Hayl al-Hadab
+Small hamlet
+71
+60
+Tawi al-Qarn
+Small hamlet
+65
+61
+Tawi al-Manyah
+Small hamlet
+63
+62
+Masirat ar-Rawajih
+Small hamlet
+59
+63
+Al-Maqal
+Small hamlet
+55
+64
+Ash-Shiyaf
+Small hamlet
+55
+65
+Al-Jarir
+Small hamlet
+53
+66
+Al-Mihaybis
+Small hamlet
+52
+67
+Tawi al-Buwayrdah
+Small hamlet
+51
+
+Nizwa — enumerated total
+
+131,103
+ 
+Bahla Wilayat (بهلاء)
+Code: 0502  |  Localities: 69  |  Sub-locality population total (enumerated ≥50): 87,631
+#
+Locality
+Type
+2020 Population
+1
+Bahla
+City
+39,576
+2
+Bisya
+Town
+5,880
+3
+Al-Mamur
+Village
+4,047
+4
+Wadi Qurayyat
+Village
+3,824
+5
+Bilad Sayt
+Village
+3,567
+6
+Al-Habbi
+Village
+3,434
+7
+Al-Ghafat
+Village
+3,354
+8
+Al-Wadi al-Ala
+Village
+2,478
+9
+Sint
+Village
+1,868
+10
+Jabrin
+Village
+1,825
+11
+Sayh al-Maashi
+Village
+1,825
+12
+Sayfam wa al-Uqayr
+Village
+1,425
+13
+Muaylif
+Village
+1,098
+14
+Tawi an-Nisf
+Village
+1,029
+15
+Fall
+Hamlet
+789
+16
+As-Sifayha
+Hamlet
+726
+17
+Wadhhah
+Hamlet
+625
+18
+Al-Jaylah
+Hamlet
+623
+19
+Al-Hafir
+Hamlet
+596
+20
+Hayy as-Saad
+Hamlet
+575
+21
+Al-Wadi as-Safil
+Hamlet
+526
+22
+Al-Ghashibah
+Hamlet
+475
+23
+Al-Qali
+Hamlet
+475
+24
+Ghamar
+Hamlet
+456
+25
+Dann
+Hamlet
+400
+26
+Al-Batha
+Hamlet
+360
+27
+Al-Hayshah
+Hamlet
+333
+28
+Miraykh
+Hamlet
+280
+29
+Ad-Dannanah
+Hamlet
+248
+30
+Adh-Dhabi
+Hamlet
+245
+31
+Al-Fath
+Hamlet
+240
+32
+Al-Maaymir
+Hamlet
+204
+33
+Al-Qabdiyah
+Hamlet
+197
+34
+Uwayfiyah
+Hamlet
+189
+35
+Zuwayyid
+Hamlet
+185
+36
+Khumaylah
+Hamlet
+180
+37
+Qusaybah
+Hamlet
+180
+38
+Ash-Shabkah
+Hamlet
+175
+39
+Al-Mahaffah
+Hamlet
+169
+40
+As-Suwayh
+Hamlet
+158
+41
+Lirayja
+Hamlet
+131
+42
+Lakhrur
+Hamlet
+127
+43
+Rakkat al-Khatriyah
+Hamlet
+124
+44
+Abu Humar
+Hamlet
+123
+45
+Hafr
+Hamlet
+123
+46
+Al-Wadim
+Hamlet
+122
+47
+Sant
+Hamlet
+121
+48
+Al-Buwayda
+Hamlet
+114
+49
+Hay al-Bahais
+Hamlet
+113
+50
+Sayh ash-Shamikhat
+Hamlet
+112
+51
+Al-Khuwayr
+Hamlet
+111
+52
+Nuhaydah
+Hamlet
+110
+53
+Mabis
+Hamlet
+108
+54
+Umm Fatrah
+Hamlet
+104
+55
+Al-Malhah
+Hamlet
+100
+56
+Tawi Jawar
+Small hamlet
+99
+57
+Al-Ghilan
+Small hamlet
+98
+58
+Al-Madri
+Small hamlet
+98
+59
+Musaybikh
+Small hamlet
+95
+60
+Masih
+Small hamlet
+82
+61
+Sayh al-Abyad
+Small hamlet
+80
+62
+Mawal
+Small hamlet
+70
+63
+Al-Ghidhayfat
+Small hamlet
+69
+64
+Ash-Sharfah
+Small hamlet
+65
+65
+Al-Fulayj
+Small hamlet
+61
+66
+Musalla
+Small hamlet
+61
+67
+Dar al-Qalt
+Small hamlet
+60
+68
+Kid
+Small hamlet
+57
+69
+Kassaw - Habsh
+Small hamlet
+54
+
+Bahla — enumerated total
+
+87,631
+ 
+Manah Wilayat (منح)
+Code: 0503  |  Localities: 11  |  Sub-locality population total (enumerated ≥50): 25,274
+#
+Locality
+Type
+2020 Population
+1
+Manah
+Town
+12,553
+2
+Izz
+Village
+3,595
+3
+Mamad
+Village
+3,120
+4
+Al-Mara
+Village
+2,429
+5
+Al-Mahyul
+Village
+1,520
+6
+Mitan
+Hamlet
+719
+7
+Musaydrah
+Hamlet
+704
+8
+Shibat al-Mashyah
+Hamlet
+259
+9
+Sayh al-Barakat
+Hamlet
+170
+10
+Al-Abyad
+Hamlet
+135
+11
+Abu Nikhaylah
+Small hamlet
+70
+
+Manah — enumerated total
+
+25,274
+ 
+Al Hamra Wilayat (الحمراء)
+Code: 0504  |  Localities: 40  |  Sub-locality population total (enumerated ≥50): 27,843
+#
+Locality
+Type
+2020 Population
+1
+Al-Hamra
+Town
+14,035
+2
+Al-Qaryah
+Village
+2,274
+3
+Qalat al-Masalhah
+Village
+2,029
+4
+Al-Mirkad
+Village
+1,263
+5
+Misfat al-Abriyin
+Hamlet
+962
+6
+Dhat Khayl
+Hamlet
+853
+7
+Al-Ayshi
+Hamlet
+806
+8
+Al-Hirayjah
+Hamlet
+568
+9
+Al-Jirayfat
+Hamlet
+509
+10
+Adh-Dhuwayhir
+Hamlet
+380
+11
+Uqdat al-Ghaf
+Hamlet
+339
+12
+Al-Arid
+Hamlet
+335
+13
+Al-Minthar
+Hamlet
+289
+14
+Hayl ash-Shas
+Hamlet
+263
+15
+As-Sudi
+Hamlet
+224
+16
+Hirimt
+Hamlet
+216
+17
+Misfat al-Khawatir
+Hamlet
+216
+18
+Al-Hutah
+Hamlet
+183
+19
+Lifraydah
+Hamlet
+173
+20
+Riwaygh al-Ali
+Hamlet
+162
+21
+Riwaygh as-Safil
+Hamlet
+158
+22
+Tawi al-Jahlah
+Hamlet
+158
+23
+Dar al-Qill
+Hamlet
+143
+24
+Dar al-Bayda
+Small hamlet
+99
+25
+Dar as-Sawdah
+Small hamlet
+95
+26
+As-Sibayb
+Small hamlet
+89
+27
+Al-Ghubayrah
+Small hamlet
+88
+28
+At-Tananiyah
+Small hamlet
+85
+29
+Ad-Dabbaniyah
+Small hamlet
+83
+30
+Al-Qiwaytu
+Small hamlet
+81
+31
+Al-Hawb
+Small hamlet
+80
+32
+Daan Daqiqah
+Small hamlet
+79
+33
+Duwayrat al-Fayl
+Small hamlet
+79
+34
+Al-Hajir
+Small hamlet
+73
+35
+Aqbat al-Barzah
+Small hamlet
+69
+36
+Dar Lawah
+Small hamlet
+68
+37
+Al-Mukhaybi
+Small hamlet
+67
+38
+Al-Aqbah at-Tawilah
+Small hamlet
+63
+39
+Minda
+Small hamlet
+56
+40
+Dhahrat al-Ur
+Small hamlet
+51
+
+Al Hamra — enumerated total
+
+27,843
+ 
+Adam Wilayat (أدم)
+Code: 0505  |  Localities: 31  |  Sub-locality population total (enumerated ≥50): 27,698
+#
+Locality
+Type
+2020 Population
+1
+Adam
+Town
+18,654
+2
+As-Samti
+Village
+1,007
+3
+Sana
+Hamlet
+911
+4
+Al-Hajir
+Hamlet
+832
+5
+Ras al-Jabal
+Hamlet
+742
+6
+Wadi Halfayn
+Hamlet
+499
+7
+Ar-Raki
+Hamlet
+485
+8
+Ar-Rahab
+Hamlet
+395
+9
+Al-Hadithah
+Hamlet
+371
+10
+Al-Ghabitah
+Hamlet
+370
+11
+Al-Qari
+Hamlet
+350
+12
+Az-Zahyah
+Hamlet
+274
+13
+Silil as-Samn
+Hamlet
+248
+14
+Qitaynah
+Hamlet
+246
+15
+Al-Ghaydharanah
+Hamlet
+236
+16
+Al-Manayif al-Janubiyah
+Hamlet
+224
+17
+Al-Ushaysh
+Hamlet
+220
+18
+Abu Tuwaynah
+Hamlet
+181
+19
+Bu Thaylah
+Hamlet
+161
+20
+Al-Haqf
+Hamlet
+151
+21
+Al-Manayif ash-Shamaliyah
+Hamlet
+149
+22
+Al-Qaah
+Hamlet
+126
+23
+Al-Huwayjir
+Hamlet
+120
+24
+Ruban
+Hamlet
+118
+25
+Adh-Dhifayri
+Hamlet
+116
+26
+Al-Kharr
+Hamlet
+114
+27
+Tawi al-Ud
+Hamlet
+105
+28
+Al-Bashair
+Hamlet
+100
+29
+Burhan
+Small hamlet
+91
+30
+Tarban
+Small hamlet
+52
+31
+As-Sadah
+Small hamlet
+50
+
+Adam — enumerated total
+
+27,698
+ 
+Izki Wilayat (إزكي)
+Code: 0506  |  Localities: 43  |  Sub-locality population total (enumerated ≥50): 58,676
+#
+Locality
+Type
+2020 Population
+1
+Izki
+Town
+23,159
+2
+Imti
+Village
+4,752
+3
+Qalat al-Awamir
+Village
+3,572
+4
+Al-Qaryatayn
+Village
+2,810
+5
+Qarut ash-Shamaliyah
+Village
+2,407
+6
+Sayma ash-Shamaliyah
+Village
+2,202
+7
+Shafi
+Village
+1,652
+8
+Maqazzah
+Village
+1,630
+9
+Al-Aqil
+Village
+1,317
+10
+Qarut al-Janubiyah
+Village
+1,216
+11
+Sayma al-Janubiyah
+Village
+1,167
+12
+Zikayt
+Village
+1,146
+13
+Al-Humaydah
+Village
+1,028
+14
+Al-Kharma
+Hamlet
+997
+15
+Suq al-Qadim
+Hamlet
+922
+16
+As-Sayyahi
+Hamlet
+903
+17
+Habil al-Hadid
+Hamlet
+888
+18
+As-Silaymi
+Hamlet
+822
+19
+Ar-Risays
+Hamlet
+806
+20
+Al-Humaydiyin
+Hamlet
+710
+21
+Tawi al-Athlah
+Hamlet
+583
+22
+Qifaysa
+Hamlet
+502
+23
+At-Tasawir
+Hamlet
+487
+24
+Al-Hilayw
+Hamlet
+459
+25
+As-Sihhamah
+Hamlet
+355
+26
+Wadi ash-Shibak
+Hamlet
+249
+27
+An-Nibagh
+Hamlet
+226
+28
+Adh-Dhahir
+Hamlet
+160
+29
+Qarn Qitar
+Hamlet
+159
+30
+Tawi Umran
+Hamlet
+159
+31
+Ad-Dukhkhah
+Hamlet
+158
+32
+Qadhbat
+Hamlet
+128
+33
+Qirayhah
+Hamlet
+116
+34
+Al-Wasit
+Hamlet
+113
+35
+Al-Khidayd
+Small hamlet
+96
+36
+Hubub
+Small hamlet
+94
+37
+Wadi Samm
+Small hamlet
+86
+38
+Al-Alim
+Small hamlet
+83
+39
+Uwaysan
+Small hamlet
+82
+40
+Wadi al-Hajar
+Small hamlet
+74
+41
+Tawi Hammam
+Small hamlet
+68
+42
+Umm Jahus
+Small hamlet
+68
+43
+At-Tayybi
+Small hamlet
+65
+
+Izki — enumerated total
+
+58,676
+ 
+Samail Wilayat (سمائل)
+Code: 0507  |  Localities: 63  |  Sub-locality population total (enumerated ≥50): 79,756
+#
+Locality
+Type
+2020 Population
+1
+Samail
+City
+29,691
+2
+Lizugh
+Town
+6,993
+3
+Hassas
+Town
+5,816
+4
+Surur
+Village
+3,957
+5
+Al-Khubar
+Village
+3,056
+6
+Al-Hawb
+Village
+2,384
+7
+Sayja
+Village
+2,225
+8
+Al-Jaylah
+Village
+1,722
+9
+Al-Janah
+Village
+1,544
+10
+Al-Ayn
+Village
+1,479
+11
+Hil
+Village
+1,419
+12
+Mahram
+Village
+1,247
+13
+Al-Uyaynah
+Village
+1,128
+14
+Fayhah
+Hamlet
+989
+15
+Ad-Dasur
+Hamlet
+976
+16
+Al-Afyah
+Hamlet
+973
+17
+Al-Uwaynah
+Hamlet
+969
+18
+Manal
+Hamlet
+899
+19
+Tawi an-Nusf
+Hamlet
+774
+20
+Sayh adh-Dhahir
+Hamlet
+726
+21
+Al-Manabik
+Hamlet
+650
+22
+Falaj al-Maraghah
+Hamlet
+576
+23
+Wadi Suqut
+Hamlet
+574
+24
+Wusad
+Hamlet
+560
+25
+Wadi as-Sijani
+Hamlet
+455
+26
+Al-Jarda
+Hamlet
+442
+27
+Al-Bir
+Hamlet
+438
+28
+Sawmra
+Hamlet
+433
+29
+Al-Misfah
+Hamlet
+430
+30
+Wadi Qari
+Hamlet
+398
+31
+An-Nijayd
+Hamlet
+391
+32
+Al-Biah
+Hamlet
+356
+33
+Al-Faljat
+Hamlet
+319
+34
+As-Sayh
+Hamlet
+307
+35
+Al-Mahal
+Hamlet
+302
+36
+An-Nahdah
+Hamlet
+285
+37
+Al-Mughbariyah
+Hamlet
+280
+38
+Ar-Rumrami
+Hamlet
+245
+39
+As-Sahmiyah
+Hamlet
+238
+40
+Ad-Dahyah
+Hamlet
+222
+41
+Al-Faljayn
+Hamlet
+204
+42
+Ar-Rissah
+Hamlet
+201
+43
+Yawrakh
+Hamlet
+180
+44
+Khilah
+Hamlet
+178
+45
+Biyaq
+Hamlet
+171
+46
+Wadi Dama
+Hamlet
+162
+47
+As-Sinslah
+Hamlet
+161
+48
+Nidab
+Hamlet
+154
+49
+Sayya
+Hamlet
+153
+50
+Al-Milayhah
+Hamlet
+143
+51
+Ash-Sharjah
+Hamlet
+134
+52
+Wadi al-Uqq
+Hamlet
+134
+53
+Al-Ghubrah
+Hamlet
+109
+54
+Hannah
+Hamlet
+106
+55
+Al-Ula
+Small hamlet
+98
+56
+Bawri
+Small hamlet
+98
+57
+Tawi al-Qadimah
+Small hamlet
+91
+58
+At-Tuwayyah
+Small hamlet
+88
+59
+Jahas
+Small hamlet
+73
+60
+Ar-Ruhbah
+Small hamlet
+72
+61
+Miraywah
+Small hamlet
+71
+62
+Wadi Jibbu
+Small hamlet
+54
+63
+As-Samyah
+Small hamlet
+53
+
+Samail — enumerated total
+
+79,756
+ 
+Bidbid Wilayat (بدبد)
+Code: 0508  |  Localities: 32  |  Sub-locality population total (enumerated ≥50): 37,231
+#
+Locality
+Type
+2020 Population
+1
+Fanja
+Town
+14,755
+2
+Bidbid
+Town
+7,672
+3
+Nafa
+Village
+2,943
+4
+Al-Batha
+Village
+1,918
+5
+Hammim
+Village
+1,332
+6
+Al-Furfarah
+Village
+1,297
+7
+Thumayd
+Hamlet
+924
+8
+Nuqsi
+Hamlet
+664
+9
+Ar-Ruhbah
+Hamlet
+655
+10
+Al-Buwayrid
+Hamlet
+478
+11
+Al-Amqat
+Hamlet
+426
+12
+Al-Khubi
+Hamlet
+390
+13
+Al-Milayynah
+Hamlet
+358
+14
+Handrut
+Hamlet
+331
+15
+Misibt
+Hamlet
+323
+16
+Al-Maghrah
+Hamlet
+308
+17
+Saal
+Hamlet
+301
+18
+Mazraat Bint Saad
+Hamlet
+299
+19
+Al-Miltaqa al-Janubiyyah
+Hamlet
+283
+20
+Al-Hanjuriyah
+Hamlet
+274
+21
+Al-Qurta
+Hamlet
+194
+22
+Gharabah
+Hamlet
+172
+23
+Al-Waghlah
+Hamlet
+152
+24
+Al-Jahmani
+Hamlet
+112
+25
+Jurdmanah
+Hamlet
+108
+26
+Al-Hinn
+Small hamlet
+95
+27
+Al-Mazra
+Small hamlet
+91
+28
+Al-Milayhah
+Small hamlet
+84
+29
+Al-Uwaynah
+Small hamlet
+82
+30
+Miann ar-Rahbiyyin
+Small hamlet
+76
+31
+Mazra Wadi an-Nujum
+Small hamlet
+74
+32
+Wadi ar-Rak
+Small hamlet
+60
+
+Bidbid — enumerated total
+
+37,231
+ 
+
+Al Batinah North Governorate
+شمال الباطنة  |  Code: 06  |  2020 Census Population: 784,681
+This governorate contains 6 wilayats and 270 documented localities in the 2020 census.
+Sohar Wilayat (صحار)
+Code: 0601  |  Localities: 52  |  Sub-locality population total (enumerated ≥50): 231,954
+#
+Locality
+Type
+2020 Population
+1
+Sohar
+City (major)
+219,264
+2
+Sayh al-Makarim
+Village
+2,472
+3
+Hibi
+Hamlet
+909
+4
+Al-Khadd
+Hamlet
+785
+5
+Sayh al-Birayr
+Hamlet
+725
+6
+Sham
+Hamlet
+715
+7
+Al-Ghushbah
+Hamlet
+521
+8
+Al-Uwaynat
+Hamlet
+405
+9
+As-Suhaylah ash-Sharqiyah
+Hamlet
+403
+10
+Kabyat
+Hamlet
+322
+11
+Al-Hijal
+Hamlet
+300
+12
+Al-Qarn al-Akhdar
+Hamlet
+300
+13
+Sayh Dhahr al-Kharij
+Hamlet
+279
+14
+Misyal as-Sidr
+Hamlet
+271
+15
+Al-Khibaytah
+Hamlet
+244
+16
+Yanbu
+Hamlet
+241
+17
+Hajz
+Hamlet
+224
+18
+Halahil Bani Ghayth
+Hamlet
+194
+19
+Al-Ghudhayfah
+Hamlet
+191
+20
+Ash-Shibaybat
+Hamlet
+184
+21
+Jarurah
+Hamlet
+170
+22
+Hayl al-Ashkharayn
+Hamlet
+164
+23
+Wadi al-Uwaynah
+Hamlet
+156
+24
+Al-Huwaylat
+Hamlet
+147
+25
+Hiyul Bani Isa
+Hamlet
+143
+26
+Wayt
+Hamlet
+126
+27
+Dalah
+Hamlet
+124
+28
+As-Suhaylah al-Gharbiyah
+Hamlet
+113
+29
+Bir Jamm
+Hamlet
+110
+30
+Al-Ghubrah
+Hamlet
+104
+31
+Falaj as-Suq
+Hamlet
+104
+32
+Huwaylat Ghala
+Hamlet
+104
+33
+Katm
+Hamlet
+101
+34
+Dhihran at-Tawi
+Small hamlet
+97
+35
+Al-Khabat
+Small hamlet
+96
+36
+Khishayshat al-Milh
+Small hamlet
+92
+37
+As-Saghah
+Small hamlet
+90
+38
+Al-Khan
+Small hamlet
+75
+39
+Al-Mighayrif
+Small hamlet
+75
+40
+Al-Mitarshah
+Small hamlet
+74
+41
+Madiq
+Small hamlet
+73
+42
+Al-Fiqarah
+Small hamlet
+72
+43
+Al-Hizaymat
+Small hamlet
+68
+44
+Al-Khuwayriyah
+Small hamlet
+63
+45
+Ash-Sharjah
+Small hamlet
+62
+46
+Wadi al-Arad
+Small hamlet
+62
+47
+As-Sudayf
+Small hamlet
+61
+48
+Al-Hishaymiyah
+Small hamlet
+60
+49
+Qufays
+Small hamlet
+58
+50
+Wadi al-Bidi
+Small hamlet
+56
+51
+As-Siwayh
+Small hamlet
+55
+52
+Wadi al-Faras
+Small hamlet
+50
+
+Sohar — enumerated total
+
+231,954
+ 
+Shinas Wilayat (شناص)
+Code: 0602  |  Localities: 43  |  Sub-locality population total (enumerated ≥50): 82,205
+#
+Locality
+Type
+2020 Population
+1
+Shinas
+Town
+9,720
+2
+Al-Aqur
+Town
+6,064
+3
+Al-Hamliyah
+Town
+5,984
+4
+Al-Furfarah
+Village
+4,752
+5
+Sur al-Abri
+Village
+4,694
+6
+Abu Baqrah
+Village
+4,086
+7
+An-Numa
+Village
+4,000
+8
+Khadrawayn
+Village
+3,777
+9
+Asrar Bani Saad
+Village
+3,338
+10
+Al-Bulaydah
+Village
+3,283
+11
+Sur al-Balush
+Village
+3,032
+12
+Sur Bani Khuzaymah
+Village
+3,020
+13
+Sur al-Mazari
+Village
+2,920
+14
+Al-Umani
+Village
+2,868
+15
+Asrar Bani Umar
+Village
+2,757
+16
+Al-Widayyat
+Village
+2,433
+17
+Al-Humayra
+Village
+1,937
+18
+Mirayr al-Matarish
+Village
+1,660
+19
+Turayf Hajji
+Village
+1,529
+20
+Mirayr ad-Daramikah
+Village
+1,361
+21
+Al-Aswad
+Village
+1,253
+22
+As-Sayfiyah
+Village
+1,253
+23
+Turayf al-Makhamrah
+Village
+1,227
+24
+Sur Bani Hammad
+Village
+1,219
+25
+Ad-Dawanij
+Hamlet
+944
+26
+Khatmat Milahah
+Hamlet
+687
+27
+Al-Wajajah
+Hamlet
+422
+28
+Al-Misdar
+Hamlet
+234
+29
+Rissat al-Milh
+Hamlet
+221
+30
+Ajib
+Hamlet
+220
+31
+Al-Hisn
+Hamlet
+200
+32
+Kudayran
+Hamlet
+198
+33
+Al-Bidah
+Hamlet
+142
+34
+Al-Murrah
+Hamlet
+113
+35
+Umm al-Jamamil
+Small hamlet
+95
+36
+Ad-Daymaniyah
+Small hamlet
+87
+37
+Al-Madrab
+Small hamlet
+80
+38
+Asayy
+Small hamlet
+80
+39
+Ar-Ralah
+Small hamlet
+72
+40
+Fayd
+Small hamlet
+69
+41
+Al-Uwayr
+Small hamlet
+65
+42
+Al-Qalah
+Small hamlet
+56
+43
+Timayt
+Small hamlet
+53
+
+Shinas — enumerated total
+
+82,205
+ 
+Liwa Wilayat (لوى)
+Code: 0603  |  Localities: 29  |  Sub-locality population total (enumerated ≥50): 55,124
+#
+Locality
+Type
+2020 Population
+1
+Liwa
+Town
+18,321
+2
+Az-Zahyah
+Town
+11,218
+3
+Ghadfan
+Town
+5,561
+4
+Al-Ghuzayyil
+Village
+2,389
+5
+Harmul
+Village
+2,293
+6
+Nabr
+Village
+2,287
+7
+Ar-Rumaylah
+Village
+2,045
+8
+Mikhaylif
+Village
+1,745
+9
+Ar-Rissah
+Village
+1,693
+10
+Uqdat al-Mawani
+Village
+1,335
+11
+Al-Hadd
+Village
+1,269
+12
+Wadi al-Qasab
+Village
+1,253
+13
+Fazah
+Hamlet
+917
+14
+Al-Fulayj
+Hamlet
+682
+15
+Rahab
+Hamlet
+583
+16
+As-Subakh
+Hamlet
+194
+17
+Dabayn
+Hamlet
+168
+18
+Al-Arja
+Hamlet
+167
+19
+Al-Ghatal
+Hamlet
+140
+20
+At-Tuwa
+Hamlet
+138
+21
+Al-Himaydah
+Hamlet
+128
+22
+Shiyah
+Hamlet
+119
+23
+Al-Qitaytirah
+Small hamlet
+88
+24
+Bin Hirayz
+Small hamlet
+75
+25
+Luqtani
+Small hamlet
+72
+26
+Ar-Risays
+Small hamlet
+66
+27
+Wadi al-Asil
+Small hamlet
+66
+28
+Al-Akayhif
+Small hamlet
+62
+29
+Al-Ghubrah
+Small hamlet
+50
+
+Liwa — enumerated total
+
+55,124
+ 
+Saham Wilayat (صحم)
+Code: 0604  |  Localities: 68  |  Sub-locality population total (enumerated ≥50): 149,177
+#
+Locality
+Type
+2020 Population
+1
+Saham
+Town
+23,923
+2
+Murtafaat Saham
+Town
+22,273
+3
+Mikhaylif
+Town
+13,060
+4
+Dil al-Abd as-Salam
+Town
+10,426
+5
+Al-Huwayl
+Town
+10,058
+6
+Maqaisah
+Town
+6,953
+7
+Hafit
+Town
+6,774
+8
+Ar-Raddah
+Town
+5,463
+9
+Majz as-Sughra
+Town
+5,291
+10
+Dil al-Burayk
+Village
+4,885
+11
+Umm al-Jaarif
+Village
+4,763
+12
+Khawr al-Milh
+Village
+4,397
+13
+Al-Ghuwaysah
+Village
+4,376
+14
+Al-Fulayj
+Village
+3,167
+15
+Hillat al-Burj
+Village
+2,938
+16
+Sur ash-Shiyadi
+Village
+2,730
+17
+Hillat al-Kahahil
+Village
+2,404
+18
+Hillat ar-Rawashid
+Village
+2,091
+19
+Qasbiyat al-Burayk
+Village
+1,574
+20
+Abu ad-Durus
+Village
+1,375
+21
+Diqal
+Village
+1,140
+22
+Al-Khashdah
+Hamlet
+943
+23
+Ar-Ruwaydah
+Hamlet
+934
+24
+Al-Mahab
+Hamlet
+701
+25
+Al-Qishay
+Hamlet
+654
+26
+Al-Hayl
+Hamlet
+506
+27
+Al-Layhban
+Hamlet
+409
+28
+Al-Khazain
+Hamlet
+369
+29
+Dahwa
+Hamlet
+249
+30
+As-Simaydah
+Hamlet
+236
+31
+Shidah
+Hamlet
+235
+32
+Iqayr al-Abriyin
+Hamlet
+231
+33
+Al-Janf
+Hamlet
+228
+34
+Al-Ghubayrah
+Hamlet
+204
+35
+Ash-Shiriah
+Hamlet
+186
+36
+Al-Bisaytin
+Hamlet
+179
+37
+Al-Furfar
+Hamlet
+170
+38
+As-Salbukh
+Hamlet
+164
+39
+Kirayb
+Hamlet
+141
+40
+Al-Juwayrat
+Hamlet
+134
+41
+Diraht
+Hamlet
+134
+42
+Al-Jarwah
+Hamlet
+133
+43
+Wadi al-Maghar
+Hamlet
+113
+44
+Al-Qasir
+Hamlet
+106
+45
+Al-Qaryah
+Hamlet
+103
+46
+Thuqbat Hayl ad-Disi
+Small hamlet
+98
+47
+Al-Hirayjah
+Small hamlet
+94
+48
+Ath-Thiqab
+Small hamlet
+91
+49
+Dar al-Bayda
+Small hamlet
+91
+50
+Al-Musammah
+Small hamlet
+89
+51
+Laslat
+Small hamlet
+88
+52
+Ayn ar-Rakah
+Small hamlet
+83
+53
+Diyaq
+Small hamlet
+81
+54
+Al-Jadah
+Small hamlet
+78
+55
+As-Sikayah
+Small hamlet
+78
+56
+Al-Mudhayfirah
+Small hamlet
+76
+57
+Al-Mihayriq
+Small hamlet
+73
+58
+Ghar al-Asfar
+Small hamlet
+65
+59
+Al-Manzlah
+Small hamlet
+61
+60
+Qissi
+Small hamlet
+61
+61
+Al-Qafas
+Small hamlet
+60
+62
+Hayl at-Tariq
+Small hamlet
+60
+63
+Al-Ghayz
+Small hamlet
+59
+64
+Al-Khabbayn
+Small hamlet
+56
+65
+An-Nasil
+Small hamlet
+56
+66
+As-Siqayah
+Small hamlet
+53
+67
+Siya
+Small hamlet
+53
+68
+As-Sawi
+Small hamlet
+50
+
+Saham — enumerated total
+
+149,177
+ 
+Al Khaboura Wilayat (الخابورة)
+Code: 0605  |  Localities: 47  |  Sub-locality population total (enumerated ≥50): 77,819
+#
+Locality
+Type
+2020 Population
+1
+Al-Khaburah
+City
+63,750
+2
+Falaj Bani Rabiah
+Village
+1,797
+3
+Al-Qasf
+Village
+1,494
+4
+Al-Hijari
+Village
+1,262
+5
+Sana Bani Ghafir
+Village
+1,167
+6
+As-Sihaylah
+Village
+1,034
+7
+Al-Ghizayn
+Village
+1,014
+8
+Al-Mayhah
+Hamlet
+436
+9
+Al-Birayk
+Hamlet
+409
+10
+Adh-Dhuwayhir
+Hamlet
+406
+11
+Khadra al-Makatim
+Hamlet
+345
+12
+Al-Quwayrah
+Hamlet
+337
+13
+Ar-Rakkah
+Hamlet
+303
+14
+Sakhiyat
+Hamlet
+281
+15
+Al-Furdah
+Hamlet
+229
+16
+Hilayhil
+Hamlet
+225
+17
+Ash-Shirayshah
+Hamlet
+202
+18
+Wadi al-Himd
+Hamlet
+195
+19
+Ar-Ruwaydat
+Hamlet
+178
+20
+Al-Qilayah
+Hamlet
+166
+21
+Hayl al-Rasah
+Hamlet
+135
+22
+Halhal
+Hamlet
+134
+23
+Al-Harjah
+Hamlet
+133
+24
+Mashin
+Hamlet
+132
+25
+Majzi
+Hamlet
+125
+26
+Al-Qalah
+Hamlet
+124
+27
+As-Sayhrah
+Hamlet
+123
+28
+Al-Busayri
+Hamlet
+119
+29
+Dhaharat at-Tawi
+Hamlet
+118
+30
+Khuzam
+Hamlet
+115
+31
+Albdayah
+Hamlet
+113
+32
+Al-Ayanah
+Hamlet
+108
+33
+Al-Harmali
+Hamlet
+107
+34
+Saddan
+Small hamlet
+97
+35
+Al-Manzlah
+Small hamlet
+93
+36
+Janah
+Small hamlet
+81
+37
+Al-Baks
+Small hamlet
+80
+38
+Biayq
+Small hamlet
+74
+39
+Dhaharat as-Salam
+Small hamlet
+74
+40
+Lifayyah
+Small hamlet
+74
+41
+Al-Ajam
+Small hamlet
+70
+42
+Wadi ar-Rak
+Small hamlet
+68
+43
+Shakhbut
+Small hamlet
+64
+44
+Ar-Rawgh
+Small hamlet
+63
+45
+Al-Khabt
+Small hamlet
+59
+46
+Adh-Dhalilah
+Small hamlet
+56
+47
+Al-Ghushayn
+Small hamlet
+50
+
+Al Khaboura — enumerated total
+
+77,819
+ 
+As Suwayq Wilayat (السويق)
+Code: 0606  |  Localities: 31  |  Sub-locality population total (enumerated ≥50): 175,584
+#
+Locality
+Type
+2020 Population
+1
+As-Suwayq
+City
+60,868
+2
+Khadra al-Saad
+City
+36,271
+3
+Al-Bidayah
+Town
+14,106
+4
+Diyan al-Bu Said
+Town
+11,637
+5
+Khadra al-Burishid
+Town
+8,863
+6
+Al-Ghalil
+Town
+7,111
+7
+Diyan al-Bawarih
+Town
+6,986
+8
+Hijayrat as-Sahil
+Town
+5,224
+9
+Ath-Tharmad
+Village
+4,982
+10
+Umm Sayh
+Village
+4,940
+11
+Bidayuh
+Village
+3,059
+12
+Al-Manfash
+Village
+2,647
+13
+Al-Ghurayfah
+Village
+1,610
+14
+Al-Haylayn
+Village
+1,551
+15
+Al-Bardah
+Village
+1,218
+16
+Al-Mabrah
+Hamlet
+898
+17
+Al-Misannah
+Hamlet
+821
+18
+Diyan al-Jahawir
+Hamlet
+495
+19
+Ruwayhah
+Hamlet
+491
+20
+Ghurfat ash-Sharif
+Hamlet
+403
+21
+Bidit
+Hamlet
+289
+22
+Al-Mutamar
+Hamlet
+206
+23
+Mishayiq
+Hamlet
+183
+24
+Al-Widyah al-Hadriyah
+Hamlet
+158
+25
+Wadi al-Hamamdah
+Hamlet
+127
+26
+Al-Misayfyah
+Hamlet
+107
+27
+Al-Hur
+Small hamlet
+79
+28
+Al-Hilwah
+Small hamlet
+75
+29
+Hazm Furayj
+Small hamlet
+70
+30
+As-Siyyah
+Small hamlet
+59
+31
+Al-Abiyah
+Small hamlet
+50
+
+As Suwayq — enumerated total
+
+175,584
+ 
+
+Al Batinah South Governorate
+جنوب الباطنة  |  Code: 07  |  2020 Census Population: 465,550
+This governorate contains 6 wilayats and 283 documented localities in the 2020 census.
+Ar Rustaq Wilayat (الرستاق)
+Code: 0701  |  Localities: 138  |  Sub-locality population total (enumerated ≥50): 115,416
+#
+Locality
+Type
+2020 Population
+1
+Ar-Rustaq
+City
+45,367
+2
+Al-Wishayl
+Town
+5,337
+3
+Hayy as-Sarah
+Village
+4,604
+4
+Falaj al-Hadith
+Village
+3,208
+5
+Al-Ghashub
+Village
+2,971
+6
+Al-Hawqayn
+Village
+2,853
+7
+Jamma
+Village
+2,769
+8
+Al-Hazm
+Village
+2,548
+9
+Falaj al-Ali
+Village
+2,371
+10
+Falaj ash-Shurah
+Village
+2,059
+11
+Yiqa
+Village
+1,964
+12
+Wibil
+Village
+1,832
+13
+Al-Misfah
+Village
+1,813
+14
+Fasah
+Village
+1,525
+15
+Ash-Shubaykah
+Village
+1,491
+16
+Khafdi
+Village
+1,286
+17
+Sini
+Village
+1,190
+18
+At-Tikhah
+Village
+1,130
+19
+Falaj as-Siaydi
+Village
+1,067
+20
+Al-Hashah
+Hamlet
+995
+21
+Daris
+Hamlet
+803
+22
+Hajir Bani Umar
+Hamlet
+803
+23
+Balad Sayt
+Hamlet
+795
+24
+Falaj al-Wusta
+Hamlet
+773
+25
+Tawi al-Badu
+Hamlet
+771
+26
+Dhaharat al-Qud
+Hamlet
+761
+27
+Hat
+Hamlet
+675
+28
+Hayl al-Ghafah
+Hamlet
+649
+29
+At-Tuwayyah
+Hamlet
+635
+30
+Al-Mazahit
+Hamlet
+623
+31
+At-Tabaqah
+Hamlet
+614
+32
+Murri
+Hamlet
+609
+33
+Umq
+Hamlet
+589
+34
+Ad-Dahhas
+Hamlet
+586
+35
+Al-Marji
+Hamlet
+581
+36
+Al-Qaryah
+Hamlet
+522
+37
+Al-Maqham
+Hamlet
+488
+38
+Al-Maydan
+Hamlet
+466
+39
+Huwayl as-Safil
+Hamlet
+407
+40
+Dhaharat al-Qallayn
+Hamlet
+389
+41
+Dabah
+Hamlet
+375
+42
+Al-Haymli
+Hamlet
+353
+43
+Al-Mayhah
+Hamlet
+348
+44
+Adh-Dhahir
+Hamlet
+334
+45
+At-Tayyib
+Hamlet
+316
+46
+Al-Madinah
+Hamlet
+301
+47
+As-Sayghi
+Hamlet
+280
+48
+Al-Ghayl
+Hamlet
+277
+49
+Al-Aqaq
+Hamlet
+267
+50
+Adh-Dhuwayhur
+Hamlet
+266
+51
+Ayn Umq
+Hamlet
+263
+52
+Al-Gharwah
+Hamlet
+262
+53
+Al-Manazif
+Hamlet
+260
+54
+Al-Bir
+Hamlet
+258
+55
+As-Silil
+Hamlet
+258
+56
+Say
+Hamlet
+256
+57
+Al-Qabil
+Hamlet
+246
+58
+Mabah
+Hamlet
+235
+59
+Ar-Rajlah
+Hamlet
+232
+60
+Az-Zammah
+Hamlet
+223
+61
+Ash-Shiriah
+Hamlet
+216
+62
+Huwayl al-Mijaz
+Hamlet
+212
+63
+At-Tuwyan
+Hamlet
+202
+64
+Wadi as-Sinn
+Hamlet
+202
+65
+Al-Khadra
+Hamlet
+190
+66
+As-Sarm
+Hamlet
+186
+67
+Zawlah
+Hamlet
+181
+68
+An-Nid
+Hamlet
+180
+69
+Al-Kharsan
+Hamlet
+178
+70
+Ad-Difa
+Hamlet
+175
+71
+Ash-Shakhar
+Hamlet
+175
+72
+Al-Aqd
+Hamlet
+173
+73
+Al-Hajir
+Hamlet
+173
+74
+Mala
+Hamlet
+173
+75
+Al-Miraykhah
+Hamlet
+172
+76
+Disli
+Hamlet
+172
+77
+Dabut
+Hamlet
+171
+78
+Al-Qarti
+Hamlet
+169
+79
+Al-Misannah
+Hamlet
+168
+80
+Al-Hayl
+Hamlet
+162
+81
+Madruj
+Hamlet
+158
+82
+Wadi Hayl Bint
+Hamlet
+153
+83
+Al-Bidayu
+Hamlet
+147
+84
+Al-Marrat
+Hamlet
+147
+85
+Az-Zawajir
+Hamlet
+142
+86
+Al-Ghabah
+Hamlet
+141
+87
+Ar-Rukhah
+Hamlet
+138
+88
+Wijmah
+Hamlet
+128
+89
+As-Salam
+Hamlet
+116
+90
+Huwayl al-Ali
+Hamlet
+116
+91
+Al-Alah
+Hamlet
+114
+92
+Maqammah
+Hamlet
+114
+93
+Al-Wuqaybah
+Hamlet
+112
+94
+Dhaydhah
+Hamlet
+105
+95
+Jifr Wadi al-Ghayl
+Hamlet
+105
+96
+Al-Mabu
+Hamlet
+104
+97
+Yisab
+Hamlet
+104
+98
+Al-Aqur
+Hamlet
+101
+99
+Al-Jammah
+Small hamlet
+98
+100
+Al-Lambjah
+Small hamlet
+97
+101
+Mahah
+Small hamlet
+97
+102
+Al-Buwaydah
+Small hamlet
+94
+103
+Al-Fara
+Small hamlet
+91
+104
+Al-Jifar
+Small hamlet
+90
+105
+Al-Mazra
+Small hamlet
+90
+106
+Tawi ash-Shamiyah
+Small hamlet
+90
+107
+Al-Bustan
+Small hamlet
+88
+108
+Jabal Duway
+Small hamlet
+88
+109
+As-Sahariyah
+Small hamlet
+86
+110
+Al-Wisaym
+Small hamlet
+85
+111
+Hifi
+Small hamlet
+85
+112
+Al-Amar
+Small hamlet
+84
+113
+Al-Jihani
+Small hamlet
+84
+114
+Madsah
+Small hamlet
+82
+115
+Al-Asur
+Small hamlet
+81
+116
+Al-Mansur
+Small hamlet
+81
+117
+Dhahir al-Kharr
+Small hamlet
+80
+118
+Al-Mayhah / Wadi as-Sahtan
+Small hamlet
+76
+119
+Al-Farraah
+Small hamlet
+75
+120
+Al-Mahbab
+Small hamlet
+72
+121
+Ash-Shaji
+Small hamlet
+72
+122
+Wadi Huda
+Small hamlet
+71
+123
+Darki
+Small hamlet
+68
+124
+Fajri
+Small hamlet
+68
+125
+Wadi al-Muwaylih
+Small hamlet
+67
+126
+Wadi al-Ghariz
+Small hamlet
+65
+127
+Al-Ir
+Small hamlet
+64
+128
+Al-Mikaynnah
+Small hamlet
+64
+129
+Tuwyan ash-Shuyukh
+Small hamlet
+64
+130
+As-Saw
+Small hamlet
+63
+131
+Al-Wasum
+Small hamlet
+62
+132
+Tuwayyat al-Abd
+Small hamlet
+62
+133
+Al-Huwayb
+Small hamlet
+57
+134
+Al-Jihaylah
+Small hamlet
+57
+135
+Al-Bashuq
+Small hamlet
+56
+136
+Jardi
+Small hamlet
+54
+137
+Ar-Rahbah
+Small hamlet
+53
+138
+Al-Halifiyah
+Small hamlet
+51
+
+Ar Rustaq — enumerated total
+
+115,416
+ 
+Al Awabi Wilayat (العوابي)
+Code: 0702  |  Localities: 26  |  Sub-locality population total (enumerated ≥50): 18,337
+#
+Locality
+Type
+2020 Population
+1
+Al-Awabi
+Town
+10,929
+2
+Sital
+Village
+1,079
+3
+Ar-Rami
+Village
+1,074
+4
+Adh-Dhahir
+Hamlet
+681
+5
+Al-Alya
+Hamlet
+654
+6
+Adh-Dhahrah
+Hamlet
+600
+7
+Al-Mahduth
+Hamlet
+423
+8
+As-Sibaykha
+Hamlet
+395
+9
+Al-Hijar
+Hamlet
+348
+10
+Misfat ash-Shirayqiyin
+Hamlet
+274
+11
+Sunaybu
+Hamlet
+266
+12
+Thaqub
+Hamlet
+182
+13
+Al-Hawdniyah
+Hamlet
+179
+14
+Dakum
+Hamlet
+174
+15
+Al-Mahsanah
+Hamlet
+161
+16
+Tawi as-Sayh
+Hamlet
+154
+17
+Misfat al-Hatatlah
+Hamlet
+129
+18
+Al-Markh
+Hamlet
+115
+19
+Shuh
+Small hamlet
+92
+20
+Ar-Rajmah
+Small hamlet
+85
+21
+Al-Hijayr
+Small hamlet
+68
+22
+Al-Wilayja
+Small hamlet
+64
+23
+As-Sahal
+Small hamlet
+58
+24
+Hadas
+Small hamlet
+53
+25
+Al-Mandhur
+Small hamlet
+50
+26
+Wadi Sufun
+Small hamlet
+50
+
+Al Awabi — enumerated total
+
+18,337
+ 
+Nakhal Wilayat (نخل)
+Code: 0703  |  Localities: 28  |  Sub-locality population total (enumerated ≥50): 27,746
+#
+Locality
+Type
+2020 Population
+1
+Nakhal
+Town
+15,580
+2
+Al-Khatm
+Village
+3,121
+3
+Wadi al-Misayn
+Village
+1,516
+4
+Halban
+Village
+1,486
+5
+Al-Abyad
+Village
+1,408
+6
+At-Taww
+Hamlet
+923
+7
+Buwah
+Hamlet
+692
+8
+Al-Mahalil
+Hamlet
+395
+9
+Al-Hijar
+Hamlet
+341
+10
+Al-Hasnat
+Hamlet
+282
+11
+Ghubrat at-Taww
+Hamlet
+193
+12
+Al-Mihbayl
+Hamlet
+192
+13
+Al-Qawrah
+Hamlet
+168
+14
+Qalqal
+Hamlet
+166
+15
+Wukan
+Hamlet
+162
+16
+Al-Husayn
+Hamlet
+131
+17
+Wadi Bu Dhahabah
+Hamlet
+121
+18
+Hadash
+Hamlet
+113
+19
+Al-Fayq
+Hamlet
+103
+20
+As-Sudiyah
+Small hamlet
+96
+21
+Al-Ghafat
+Small hamlet
+90
+22
+Tawi Lijni
+Small hamlet
+85
+23
+Al-Qarrah
+Small hamlet
+81
+24
+Al-Madrah
+Small hamlet
+72
+25
+Al-Ghazaliyah
+Small hamlet
+70
+26
+Miyaqi
+Small hamlet
+58
+27
+Tawi al-Qurun
+Small hamlet
+51
+28
+Al-Hajir
+Small hamlet
+50
+
+Nakhal — enumerated total
+
+27,746
+ 
+Wadi al Maawil Wilayat (وادي المعاول)
+Code: 0704  |  Localities: 14  |  Sub-locality population total (enumerated ≥50): 19,964
+#
+Locality
+Type
+2020 Population
+1
+Hubra
+Town
+5,612
+2
+Afi
+Village
+4,657
+3
+Musilmat
+Village
+2,468
+4
+Al-Lajal
+Village
+2,143
+5
+Al-Wasit
+Village
+1,875
+6
+Al-Murayghah
+Village
+1,637
+7
+Al-Ghubrah
+Hamlet
+723
+8
+At-Tuwayyah
+Hamlet
+344
+9
+Imti
+Hamlet
+135
+10
+Miyaqi
+Hamlet
+126
+11
+Al-Jaylah
+Small hamlet
+72
+12
+Hasma
+Small hamlet
+61
+13
+Safa al-Abyad
+Small hamlet
+59
+14
+Al-Urayq
+Small hamlet
+52
+
+Wadi al Maawil — enumerated total
+
+19,964
+ 
+Barka Wilayat (بركاء)
+Code: 0705  |  Localities: 45  |  Sub-locality population total (enumerated ≥50): 181,629
+#
+Locality
+Type
+2020 Population
+1
+Barka
+City
+36,427
+2
+As-Sawmhan
+Town
+15,671
+3
+Ash-Shakhakhit
+Town
+14,974
+4
+Ar-Rumays
+Town
+12,089
+5
+As-Sawadi as-Sahil
+Town
+7,588
+6
+Al-Harm
+Town
+6,640
+7
+Al-Jinaynah
+Town
+6,588
+8
+Mazra al-Hurth
+Town
+5,939
+9
+Al-Billah
+Town
+5,089
+10
+Al-Muraysi
+Town
+5,038
+11
+As-Sawadi al-Hakman
+Village
+4,989
+12
+Al-Uqdah
+Village
+4,815
+13
+As-Saqsuq
+Village
+4,293
+14
+Qari
+Village
+4,086
+15
+Al-Haradi
+Village
+3,899
+16
+Hayy Asim
+Village
+3,881
+17
+An-Naman
+Village
+3,714
+18
+Ath-Tharamid
+Village
+3,517
+19
+Al-Jihaylah
+Village
+3,462
+20
+Abu an-Nakhil
+Village
+3,016
+21
+As-Sallahah
+Village
+2,057
+22
+Mazra al-Haradi
+Village
+1,967
+23
+Hay as-Salam
+Village
+1,921
+24
+Al-Iqayr
+Village
+1,645
+25
+Al-Ibar
+Village
+1,578
+26
+Al-Hafri as-Sur
+Village
+1,554
+27
+Al-Hafri as-Sahil
+Village
+1,529
+28
+Abu Mahar
+Village
+1,508
+29
+Al-Murayghat
+Village
+1,455
+30
+Al-Hadib
+Village
+1,423
+31
+Al-Amrah
+Village
+1,412
+32
+Al-Hafri al-Janubiyah
+Hamlet
+990
+33
+Al-Basit
+Hamlet
+895
+34
+Al-Khuwayrat
+Hamlet
+870
+35
+Al-Qurayhah
+Hamlet
+829
+36
+Al-Faghrah
+Hamlet
+709
+37
+Al-Maragh
+Hamlet
+627
+38
+Salwa
+Hamlet
+606
+39
+Al-Fulayj
+Hamlet
+505
+40
+Al-Hasnat
+Hamlet
+504
+41
+Al-Wahrah
+Hamlet
+389
+42
+Al-Bidi
+Hamlet
+338
+43
+Al-Jahis
+Hamlet
+333
+44
+Al-Udhaybah
+Hamlet
+215
+45
+Sayh al-Mahamid
+Small hamlet
+55
+
+Barka — enumerated total
+
+181,629
+ 
+Al Masnaah Wilayat (المصنعة)
+Code: 0706  |  Localities: 32  |  Sub-locality population total (enumerated ≥50): 98,865
+#
+Locality
+Type
+2020 Population
+1
+Al-Muladdah
+Town
+16,387
+2
+Al-Musanaah
+Town
+10,809
+3
+Wudam as-Sahil
+Town
+7,457
+4
+Wudam al-Ghaf
+Town
+7,177
+5
+Abu Abali as-Sahil
+Town
+6,823
+6
+Al-Maghsar
+Town
+5,694
+7
+At-Turayf
+Town
+5,427
+8
+Ash-Shuaybah
+Town
+5,227
+9
+Burj al-Khamis
+Village
+4,001
+10
+Al-Uwayd
+Village
+3,741
+11
+Al-Qarat
+Village
+3,626
+12
+Al-Qurayhat
+Village
+3,448
+13
+Maharah
+Village
+2,416
+14
+Shirs al-Hadadbah
+Village
+2,370
+15
+Shirs al-Burayk
+Village
+2,316
+16
+Al-Adabah
+Village
+1,853
+17
+Al-Maraghah
+Village
+1,826
+18
+Qari
+Village
+1,753
+19
+Wadi al-Ays
+Village
+1,350
+20
+Al-Quraym
+Village
+1,335
+21
+Bidi as-Sadun
+Village
+1,300
+22
+Bidi al-Ghawarub
+Hamlet
+605
+23
+Bidi ad-Dawahnah
+Hamlet
+357
+24
+Abu Asim
+Hamlet
+327
+25
+Bidi al-Khamis
+Hamlet
+238
+26
+Sayh al-Muladdah
+Hamlet
+182
+27
+Al-Buwayrid
+Hamlet
+175
+28
+Al-Mghsar Janub
+Hamlet
+166
+29
+Al-Mityakh
+Hamlet
+156
+30
+Al-Jazirah
+Hamlet
+150
+31
+Ruwayhah
+Hamlet
+123
+32
+Al-Iqaydah
+Small hamlet
+50
+
+Al Masnaah — enumerated total
+
+98,865
+ 
+
+Ash Sharqiyah South Governorate
+جنوب الشرقية  |  Code: 08  |  2020 Census Population: 315,445
+This governorate contains 5 wilayats and 128 documented localities in the 2020 census.
+Sur Wilayat (صور)
+Code: 0801  |  Localities: 46  |  Sub-locality population total (enumerated ≥50): 110,575
+#
+Locality
+Type
+2020 Population
+1
+Sur
+City
+83,763
+2
+Barr Buwayrah
+Town
+5,359
+3
+Ras al-Hadd
+Village
+4,496
+4
+Tiwi
+Village
+2,887
+5
+Al-Ghalilah
+Village
+2,343
+6
+Shiya
+Village
+2,004
+7
+Al-Fulayj
+Village
+1,393
+8
+Qalhat
+Village
+1,215
+9
+Khawr Jirama
+Hamlet
+637
+10
+Abat
+Hamlet
+542
+11
+Ar-Ruwaydah
+Hamlet
+414
+12
+Gharubah
+Hamlet
+377
+13
+Halut
+Hamlet
+375
+14
+Mibam
+Hamlet
+352
+15
+Ash-Sharkhah
+Hamlet
+269
+16
+Halam
+Hamlet
+260
+17
+Tayma
+Hamlet
+256
+18
+Wad
+Hamlet
+239
+19
+Maqsayd
+Hamlet
+208
+20
+Al-Jabbi
+Hamlet
+187
+21
+Fayha
+Hamlet
+181
+22
+Hawl
+Hamlet
+181
+23
+Shamah
+Hamlet
+179
+24
+Uyun
+Hamlet
+163
+25
+Qaran
+Hamlet
+161
+26
+Qawda
+Hamlet
+160
+27
+Ifta
+Hamlet
+157
+28
+Ayn al-Qashin
+Hamlet
+156
+29
+Sayma
+Hamlet
+142
+30
+Qurun al-Birr
+Hamlet
+138
+31
+Sayh al-Hasanat
+Hamlet
+131
+32
+Qaab
+Hamlet
+124
+33
+Abaq
+Hamlet
+122
+34
+Al-Murr / Wadi al-Murr
+Hamlet
+107
+35
+Addah
+Hamlet
+101
+36
+Al-Mahattah
+Small hamlet
+89
+37
+Kabda
+Small hamlet
+88
+38
+Ar-Rufsah
+Small hamlet
+84
+39
+Mazra
+Small hamlet
+80
+40
+Harat al-Hisn
+Small hamlet
+79
+41
+Qasah
+Small hamlet
+79
+42
+Harat Bidah
+Small hamlet
+69
+43
+Maslaq
+Small hamlet
+63
+44
+Hawajir
+Small hamlet
+60
+45
+Sifin
+Small hamlet
+55
+46
+Jabal Halbi
+Small hamlet
+50
+
+Sur — enumerated total
+
+110,575
+ 
+Al Kamil wa al Wafi Wilayat (الكامل والوافي)
+Code: 0802  |  Localities: 20  |  Sub-locality population total (enumerated ≥50): 38,231
+#
+Locality
+Type
+2020 Population
+1
+Al-Kamil wa al-Wafi
+City
+30,853
+2
+Tayy
+Hamlet
+911
+3
+Tawi Hatim
+Hamlet
+880
+4
+Tahwah
+Hamlet
+759
+5
+Tawi Aishah
+Hamlet
+707
+6
+Tawi Haqayn
+Hamlet
+664
+7
+Sabt
+Hamlet
+465
+8
+Wadi La
+Hamlet
+441
+9
+Umm Bashir
+Hamlet
+394
+10
+Tawi Muhammad Said
+Hamlet
+392
+11
+Sayq
+Hamlet
+332
+12
+Tawi Najuri
+Hamlet
+314
+13
+Wadi al-Milh
+Hamlet
+224
+14
+Al-Murrah
+Hamlet
+172
+15
+Al-Batin
+Hamlet
+156
+16
+Ar-Ruqq
+Hamlet
+148
+17
+Wadi Markhah
+Hamlet
+128
+18
+Hasinah
+Hamlet
+100
+19
+Wadi Tal
+Small hamlet
+96
+20
+Ghararah
+Small hamlet
+95
+
+Al Kamil wa al Wafi — enumerated total
+
+38,231
+ 
+Jaalan Bani Bu Hasan Wilayat (جعلان بني بو حسن)
+Code: 0803  |  Localities: 25  |  Sub-locality population total (enumerated ≥50): 44,107
+#
+Locality
+Type
+2020 Population
+1
+Jaalan Bani Bu Hasan
+City
+34,466
+2
+Falaj al-Mashayikh
+Town
+6,225
+3
+Sayhun
+Hamlet
+386
+4
+At-Tawi
+Hamlet
+341
+5
+Hamdah
+Hamlet
+321
+6
+Bandar Qurun
+Hamlet
+307
+7
+Al-Uqdah
+Hamlet
+183
+8
+Tawi Amur Muhammad
+Hamlet
+169
+9
+Al-Ghamlul
+Hamlet
+165
+10
+Tawi Salim
+Hamlet
+161
+11
+Al-Ghaynah
+Hamlet
+149
+12
+Qurun
+Hamlet
+137
+13
+Al-Uwad
+Hamlet
+131
+14
+Musalla al-Mashayikh
+Hamlet
+120
+15
+Ayn al-Masharfah
+Hamlet
+116
+16
+Uwaybyat
+Hamlet
+104
+17
+Al-Mintajjah
+Small hamlet
+81
+18
+As-Silil
+Small hamlet
+77
+19
+Qilayah
+Small hamlet
+74
+20
+Al-Khuwayrah
+Small hamlet
+72
+21
+Tawi Khamis
+Small hamlet
+66
+22
+Al-Jahlah
+Small hamlet
+64
+23
+As-Sabit
+Small hamlet
+64
+24
+As-Suraymah
+Small hamlet
+64
+25
+Marafis
+Small hamlet
+64
+
+Jaalan Bani Bu Hasan — enumerated total
+
+44,107
+ 
+Jaalan Bani Bu Ali Wilayat (جعلان بني بو علي)
+Code: 0804  |  Localities: 35  |  Sub-locality population total (enumerated ≥50): 106,953
+#
+Locality
+Type
+2020 Population
+1
+Jaalan Bani Bu Ali
+City
+66,284
+2
+Al-Ashkharah
+Town
+13,199
+3
+Asilah
+Village
+4,505
+4
+As-Siwayh
+Village
+3,355
+5
+Khuwaymah
+Village
+2,965
+6
+Al-Qarhah
+Village
+2,235
+7
+Ras Riways
+Village
+1,812
+8
+Bandar al-Jadid
+Village
+1,736
+9
+Falyat Wilad Hamdah
+Village
+1,609
+10
+Al-Haddah
+Village
+1,239
+11
+Ras ad-Daffah
+Village
+1,218
+12
+As-Silil
+Village
+1,044
+13
+Al-Khabbah
+Hamlet
+902
+14
+Al-Ayn
+Hamlet
+606
+15
+Ghuwaylah
+Hamlet
+536
+16
+Shabiyat al-Jifan
+Hamlet
+509
+17
+Wadi Sal
+Hamlet
+474
+18
+Abu Fishayghah
+Hamlet
+443
+19
+Ras al-Jabal / Al-Hurah
+Hamlet
+361
+20
+Wadi al-Jinabah
+Hamlet
+327
+21
+Urf Lukhdar
+Hamlet
+254
+22
+Bu Madrah
+Hamlet
+236
+23
+Sayh al-Ula
+Hamlet
+146
+24
+Qarhat ar-Ramsah
+Hamlet
+105
+25
+Al-Faf
+Hamlet
+102
+26
+Faqarah
+Small hamlet
+88
+27
+Tawi Salim Khinayfar
+Small hamlet
+84
+28
+Muhayniyah
+Small hamlet
+83
+29
+Qilayah
+Small hamlet
+81
+30
+Ruwaydah
+Small hamlet
+79
+31
+Ghadinah
+Small hamlet
+75
+32
+Jirayf
+Small hamlet
+74
+33
+Tawi Hamad
+Small hamlet
+74
+34
+Awrab
+Small hamlet
+61
+35
+Al-Muhtarqat
+Small hamlet
+52
+
+Jaalan Bani Bu Ali — enumerated total
+
+106,953
+ 
+Masirah Wilayat (مصيرة)
+Code: 0805  |  Localities: 2  |  Sub-locality population total (enumerated ≥50): 13,775
+#
+Locality
+Type
+2020 Population
+1
+Hilf
+Town
+12,217
+2
+Ras Hilf
+Village
+1,558
+
+Masirah — enumerated total
+
+13,775
+ 
+
+Ash Sharqiyah North Governorate
+شمال الشرقية  |  Code: 09  |  2020 Census Population: 271,822
+This governorate contains 6 wilayats and 350 documented localities in the 2020 census.
+Ibra Wilayat (إبراء)
+Code: 0901  |  Localities: 42  |  Sub-locality population total (enumerated ≥50): 49,730
+#
+Locality
+Type
+2020 Population
+1
+Ibra
+City
+29,599
+2
+Al-Yahmadi
+Town
+5,574
+3
+Al-Haymah
+Village
+2,488
+4
+Al-Filayj
+Village
+1,912
+5
+Ath-Thabti
+Village
+1,901
+6
+An-Nasib
+Village
+1,730
+7
+Al-Hazm
+Hamlet
+725
+8
+Al-Qa
+Hamlet
+577
+9
+Al-Khudad
+Hamlet
+454
+10
+Al-Murrani
+Hamlet
+346
+11
+Khanadiq
+Hamlet
+278
+12
+Al-Miqaybrah
+Hamlet
+277
+13
+Ruwaykah
+Hamlet
+270
+14
+Masrun
+Hamlet
+260
+15
+Al-Himali
+Hamlet
+258
+16
+Qifayfah
+Hamlet
+185
+17
+As-Salamiyah
+Hamlet
+184
+18
+Ar-Ridaydat
+Hamlet
+182
+19
+Abu Dhalma
+Hamlet
+173
+20
+Jidya
+Hamlet
+163
+21
+Kidayr
+Hamlet
+147
+22
+Sharjat al-Midah
+Hamlet
+146
+23
+Mikhaybyah
+Hamlet
+143
+24
+Nasf
+Hamlet
+141
+25
+Sayh ar-Rahbah
+Hamlet
+139
+26
+Khallat
+Hamlet
+125
+27
+Mughaydir
+Hamlet
+107
+28
+Al-Farah
+Hamlet
+103
+29
+Al-Huwaymah
+Hamlet
+103
+30
+At-Tanmah
+Hamlet
+102
+31
+Al-Habna
+Small hamlet
+97
+32
+Makhal
+Small hamlet
+95
+33
+Al-Ghadir
+Small hamlet
+89
+34
+Al-Maylah
+Small hamlet
+88
+35
+Jifr Walad Ghurab
+Small hamlet
+85
+36
+Al-Jidhayiyah
+Small hamlet
+83
+37
+Ar-Raki
+Small hamlet
+83
+38
+Qarn Fijar
+Small hamlet
+80
+39
+Sayh al-Qata
+Small hamlet
+73
+40
+An-Namar
+Small hamlet
+59
+41
+As-Suwaydifi
+Small hamlet
+54
+42
+Hiyyim
+Small hamlet
+52
+
+Ibra — enumerated total
+
+49,730
+ 
+Al Mudhaibi Wilayat (المضيبي)
+Code: 0902  |  Localities: 137  |  Sub-locality population total (enumerated ≥50): 113,413
+#
+Locality
+Type
+2020 Population
+1
+Sinaw
+Town
+19,643
+2
+Al-Mudaybi
+Town
+15,430
+3
+Samad ash-Shan
+Town
+9,398
+4
+Ar-Rawdah
+Village
+4,962
+5
+Lizq
+Village
+3,828
+6
+Ash-Shiriah
+Village
+3,629
+7
+Khadra Bani Daffa
+Village
+3,367
+8
+Al-Fath
+Village
+2,493
+9
+Al-Uyun
+Village
+2,321
+10
+As-Sudayrah
+Village
+2,086
+11
+Al-Khashbah
+Village
+2,025
+12
+Ash-Shariq
+Village
+1,813
+13
+Ar-Raddah
+Village
+1,743
+14
+Al-Mukhtru
+Village
+1,599
+15
+Baad
+Village
+1,520
+16
+Al-Handhili
+Village
+1,486
+17
+Alghariyayn
+Village
+1,443
+18
+Al-Muyassir
+Village
+1,387
+19
+Az-Zahib
+Village
+1,343
+20
+Barzaman
+Village
+1,326
+21
+Al-Akhdar
+Village
+1,260
+22
+Al-Fulayj
+Village
+1,183
+23
+Al-Ilya
+Village
+1,182
+24
+Al-Jarda
+Village
+1,040
+25
+Al-Aflaj
+Village
+1,031
+26
+Al-Wafi
+Village
+1,004
+27
+Al-Washhi
+Hamlet
+889
+28
+Al-Musalla
+Hamlet
+887
+29
+Al-Wasit
+Hamlet
+835
+30
+Al-Jaza
+Hamlet
+823
+31
+Al-Mutayla
+Hamlet
+789
+32
+At-Talul
+Hamlet
+733
+33
+Abu Id
+Hamlet
+694
+34
+Al-Yahmadi
+Hamlet
+557
+35
+Al-Wishal
+Hamlet
+554
+36
+Al-Buwaytin
+Hamlet
+510
+37
+Al-Hubat
+Hamlet
+506
+38
+Al-Uqdah
+Hamlet
+503
+39
+Al-Ghubayrah
+Hamlet
+499
+40
+Al-Madfa
+Hamlet
+483
+41
+Jifr Qutbah
+Hamlet
+446
+42
+Ash-Shuwayi
+Hamlet
+443
+43
+Az-Zahrah
+Hamlet
+400
+44
+Qari as-Sidaydah
+Hamlet
+381
+45
+Al-Ghashbah
+Hamlet
+367
+46
+Al-Kharis
+Hamlet
+362
+47
+Al-Mintarib
+Hamlet
+351
+48
+Al-Alu
+Hamlet
+337
+49
+Mihilya
+Hamlet
+321
+50
+Wadi al-Husayn
+Hamlet
+312
+51
+Qabil al-Bu Said
+Hamlet
+303
+52
+Sayh as-Sarah
+Hamlet
+294
+53
+Az-Zidi
+Hamlet
+292
+54
+Ad-Dawh
+Hamlet
+281
+55
+Silil al-Uquq
+Hamlet
+278
+56
+Al-Quwayah
+Hamlet
+268
+57
+Tawi Ghasi
+Hamlet
+265
+58
+As-Sayh an-Nafis
+Hamlet
+262
+59
+Silil Ibayd
+Hamlet
+259
+60
+Jifr Humud
+Hamlet
+241
+61
+Ar-Rafqah
+Hamlet
+238
+62
+Shibat al-Mithmar
+Hamlet
+207
+63
+Ash-Shaklah
+Hamlet
+206
+64
+Al-Ghubayrah (duplicate)
+Hamlet
+189
+65
+Ar-Ruways
+Hamlet
+182
+66
+Ar-Rimaylayh
+Hamlet
+175
+67
+Al-Waryah
+Hamlet
+173
+68
+Mazbar
+Hamlet
+173
+69
+Al-Mindassah
+Hamlet
+169
+70
+Ash-Shiraykhah
+Hamlet
+169
+71
+Al-Khuwayr
+Hamlet
+165
+72
+Al-Kahlah
+Hamlet
+158
+73
+Al-Qabrayn
+Hamlet
+156
+74
+Adh-Dhafarat
+Hamlet
+152
+75
+Al-Hashi
+Hamlet
+145
+76
+Al-Mukhtabyah
+Hamlet
+143
+77
+Ar-Rahbah
+Hamlet
+143
+78
+Mazra al-Jubiyat
+Hamlet
+142
+79
+Al-Majazah
+Hamlet
+130
+80
+Ar-Rakhi
+Hamlet
+128
+81
+At-Tuwayyat
+Hamlet
+126
+82
+Al-Misilah
+Hamlet
+124
+83
+Al-Hafafah
+Hamlet
+116
+84
+Al-Huwayd
+Hamlet
+116
+85
+Bard
+Hamlet
+113
+86
+Al-Miaydin
+Hamlet
+112
+87
+Murayrat
+Hamlet
+110
+88
+Al-Khurah
+Hamlet
+108
+89
+Al-Muwaythil
+Hamlet
+108
+90
+Al-Jaylah
+Hamlet
+107
+91
+Tawi Rai Jadan
+Hamlet
+107
+92
+Kubarah
+Hamlet
+105
+93
+Miqayhfah
+Hamlet
+104
+94
+Al-Bayda
+Hamlet
+101
+95
+Al-Hammah
+Hamlet
+101
+96
+Al-Khars
+Hamlet
+101
+97
+Jifr Salim
+Hamlet
+100
+98
+Wadi al-Qira
+Small hamlet
+99
+99
+Ath-Thawyah
+Small hamlet
+97
+100
+Ar-Rif
+Small hamlet
+94
+101
+Mayqah
+Small hamlet
+90
+102
+Al-Gharib
+Small hamlet
+89
+103
+Al-Hayyalah
+Small hamlet
+88
+104
+Az-Zahra
+Small hamlet
+88
+105
+Abu Midayk
+Small hamlet
+86
+106
+Al-Abyad
+Small hamlet
+86
+107
+Hajir Indam
+Small hamlet
+86
+108
+Sibaykah
+Small hamlet
+86
+109
+Wadi Indam
+Small hamlet
+86
+110
+Al-Mutarid
+Small hamlet
+84
+111
+Jifr Salim Bin Said / Shibat al-Ud/Abu Musaykah
+Small hamlet
+83
+112
+As-Silil
+Small hamlet
+81
+113
+Al-Misfah
+Small hamlet
+80
+114
+Silil Harbiyah
+Small hamlet
+80
+115
+Wadi ar-Rak
+Small hamlet
+80
+116
+Jifr Shinayn
+Small hamlet
+77
+117
+Al-Qirayhah
+Small hamlet
+76
+118
+Jifr Rashid
+Small hamlet
+75
+119
+Al-Uqaydat
+Small hamlet
+74
+120
+Hajir Awlad Hammad
+Small hamlet
+72
+121
+Jifr Aydun
+Small hamlet
+72
+122
+Sabsub
+Small hamlet
+67
+123
+An-Nuhaydah
+Small hamlet
+65
+124
+Al-Faydah
+Small hamlet
+64
+125
+Al-Lafaywah
+Small hamlet
+64
+126
+Al-Maramhah
+Small hamlet
+64
+127
+Makhta
+Small hamlet
+60
+128
+Mazra Wadi Mukhat
+Small hamlet
+60
+129
+Al-Ilyah
+Small hamlet
+59
+130
+Jifr Muhammad Bin Salim
+Small hamlet
+59
+131
+Faras Haylah
+Small hamlet
+58
+132
+Jifr Wadd Muhammad Bin Salim
+Small hamlet
+54
+133
+Al-Jidar
+Small hamlet
+53
+134
+Wadi al-Jaraf
+Small hamlet
+53
+135
+Abu Silayb
+Small hamlet
+52
+136
+Al-Ayn
+Small hamlet
+52
+137
+Simrat as-Sud
+Small hamlet
+51
+
+Al Mudhaibi — enumerated total
+
+113,413
+ 
+Bidiyah Wilayat (بدية)
+Code: 0903  |  Localities: 26  |  Sub-locality population total (enumerated ≥50): 42,198
+#
+Locality
+Type
+2020 Population
+1
+Al-Mintarib
+City
+25,683
+2
+Al-Wasil
+Village
+2,599
+3
+Adh-Dhahir
+Village
+2,206
+4
+Shahik
+Village
+2,075
+5
+Al-Hawiyah
+Village
+1,519
+6
+Al-Ghubrah
+Village
+1,313
+7
+Ar-Ribath
+Village
+1,217
+8
+Ar-Rakah
+Village
+1,054
+9
+Shuf al-Ayn
+Hamlet
+638
+10
+Tawi Nasir Muhammad
+Hamlet
+519
+11
+Al-Jahis
+Hamlet
+455
+12
+Dibik
+Hamlet
+379
+13
+Al-Makain
+Hamlet
+337
+14
+Shijjat as-Sayh
+Hamlet
+307
+15
+Tawi Anji
+Hamlet
+274
+16
+Iraysh
+Hamlet
+251
+17
+Shibak
+Hamlet
+214
+18
+Ad-Duwayqah
+Hamlet
+185
+19
+Tawi Hilal
+Hamlet
+183
+20
+Shijjat Shawjab
+Hamlet
+142
+21
+Tawi Rashid
+Hamlet
+139
+22
+Hatuh
+Hamlet
+130
+23
+Riq Amur Bin Ali
+Hamlet
+130
+24
+Al-Aqda
+Hamlet
+104
+25
+Al-Wayriyah
+Small hamlet
+86
+26
+Al-Lasak
+Small hamlet
+59
+
+Bidiyah — enumerated total
+
+42,198
+ 
+Al Qabil Wilayat (القابل)
+Code: 0904  |  Localities: 45  |  Sub-locality population total (enumerated ≥50): 24,771
+#
+Locality
+Type
+2020 Population
+1
+Al-Mudhayrib
+Village
+4,454
+2
+Al-Qabil
+Village
+2,959
+3
+Ad-Diriz
+Village
+2,144
+4
+An-Naba
+Village
+1,875
+5
+Izz
+Village
+1,796
+6
+Al-Ghallaji
+Village
+1,171
+7
+Battin
+Hamlet
+833
+8
+Al-Minjirid
+Hamlet
+776
+9
+As-Sarm
+Hamlet
+711
+10
+Al-Mutarid
+Hamlet
+680
+11
+An-Nibagh
+Hamlet
+604
+12
+Ar-Rihaybat
+Hamlet
+506
+13
+Ash-Shaghi
+Hamlet
+445
+14
+Ghidayr
+Hamlet
+430
+15
+Umm Qarn
+Hamlet
+397
+16
+Ad-Dammah
+Hamlet
+363
+17
+Al-Kirays
+Hamlet
+321
+18
+Adh-Dhafrah
+Hamlet
+316
+19
+Al-Mudiq
+Hamlet
+289
+20
+Najd Ismaiyyah
+Hamlet
+280
+21
+Maghsar
+Hamlet
+274
+22
+Shanah
+Hamlet
+271
+23
+As-Sibayti
+Hamlet
+260
+24
+Al-Qufaysi
+Hamlet
+203
+25
+Al-Uqaydah
+Hamlet
+198
+26
+Falaj Masud
+Hamlet
+177
+27
+Dabahah
+Hamlet
+176
+28
+Qirayhat
+Hamlet
+175
+29
+Al-Masraj
+Hamlet
+152
+30
+Filayj ar-Rashashdah
+Hamlet
+147
+31
+As-Saqah
+Hamlet
+133
+32
+Tawi Adi
+Hamlet
+126
+33
+Al-Labkah
+Hamlet
+116
+34
+Jifr Silayman
+Hamlet
+113
+35
+Al-Murrah
+Hamlet
+107
+36
+Al-Jufa
+Hamlet
+105
+37
+Anbar
+Small hamlet
+96
+38
+Qari
+Small hamlet
+93
+39
+Shibat as-Silayman
+Small hamlet
+93
+40
+As-Sarhat
+Small hamlet
+82
+41
+As-Silil
+Small hamlet
+79
+42
+Al-Bir
+Small hamlet
+69
+43
+Al-Qattarah
+Small hamlet
+61
+44
+Khabb al-Marakh
+Small hamlet
+58
+45
+Haylat Rai Shajrah
+Small hamlet
+57
+
+Al Qabil — enumerated total
+
+24,771
+ 
+Wadi Bani Khalid Wilayat (وادي بني خالد)
+Code: 0905  |  Localities: 31  |  Sub-locality population total (enumerated ≥50): 12,817
+#
+Locality
+Type
+2020 Population
+1
+Mizayra
+Village
+2,333
+2
+Sayh ar-Rifi
+Village
+1,487
+3
+Sayh al-Hayl
+Village
+1,070
+4
+Miqil
+Hamlet
+883
+5
+Ar-Rumayl
+Hamlet
+795
+6
+Al-Adfayn
+Hamlet
+564
+7
+Ar-Raki
+Hamlet
+522
+8
+Badah
+Hamlet
+495
+9
+Wadi al-Milh
+Hamlet
+388
+10
+Halfa
+Hamlet
+380
+11
+Qurayshah
+Hamlet
+373
+12
+Al-Khatah
+Hamlet
+342
+13
+Jil Hayyah
+Hamlet
+332
+14
+Hayal
+Hamlet
+294
+15
+Amaq
+Hamlet
+284
+16
+Al-Abyah
+Hamlet
+258
+17
+Al-Wishah
+Hamlet
+237
+18
+Al-Imayqin
+Hamlet
+233
+19
+Wadi Absan
+Hamlet
+217
+20
+Rahbat
+Hamlet
+191
+21
+Al-Qaryah
+Hamlet
+175
+22
+Al-Qaham
+Hamlet
+155
+23
+Al-Aqur
+Hamlet
+144
+24
+Makhsayr Malik
+Hamlet
+137
+25
+Shiraj Jadal
+Hamlet
+118
+26
+At-Tamir
+Small hamlet
+96
+27
+Siyaq
+Small hamlet
+85
+28
+Al-Hijrah
+Small hamlet
+64
+29
+Al-Jahlah
+Small hamlet
+58
+30
+Shabkut
+Small hamlet
+56
+31
+Um al-Hadhib
+Small hamlet
+51
+
+Wadi Bani Khalid — enumerated total
+
+12,817
+ 
+Dima wa Al Tayeen Wilayat (دماء والطائيين)
+Code: 0906  |  Localities: 69  |  Sub-locality population total (enumerated ≥50): 26,107
+#
+Locality
+Type
+2020 Population
+1
+Mihlah
+Village
+3,421
+2
+Al-Hajir wa al-Khatm
+Village
+1,519
+3
+Ismaiyah
+Village
+1,392
+4
+Mis
+Village
+1,321
+5
+Al-Ghubayrah
+Village
+1,075
+6
+As-Siball
+Village
+1,009
+7
+Ghubrat at-Tam
+Hamlet
+998
+8
+Sawt
+Hamlet
+964
+9
+Khabbat
+Hamlet
+790
+10
+Al-Ghiyan
+Hamlet
+652
+11
+Awf
+Hamlet
+549
+12
+Al-Qaryah
+Hamlet
+503
+13
+Al-Misfah
+Hamlet
+484
+14
+Mahafiz
+Hamlet
+480
+15
+Al-Harah
+Hamlet
+448
+16
+As-Sidafi
+Hamlet
+388
+17
+Sayh al-Majarrah
+Hamlet
+378
+18
+Shat
+Hamlet
+359
+19
+Ash-Shariq
+Hamlet
+357
+20
+Qarr
+Hamlet
+335
+21
+Al-Kufuf
+Hamlet
+334
+22
+Sayh al-Badu
+Hamlet
+331
+23
+Al-Waljah
+Hamlet
+305
+24
+Al-Ghamsah
+Hamlet
+292
+25
+Ash-Shuqur
+Hamlet
+288
+26
+Aqda
+Hamlet
+281
+27
+Ar-Rikakiyah
+Hamlet
+279
+28
+Ihda
+Hamlet
+269
+29
+Naqib
+Hamlet
+269
+30
+Tawl
+Hamlet
+266
+31
+Al-Qabil
+Hamlet
+263
+32
+Sawmhan
+Hamlet
+260
+33
+As-Suwayqmi
+Hamlet
+252
+34
+Al-Hammam
+Hamlet
+239
+35
+Al-Arjali
+Hamlet
+228
+36
+Ajma
+Hamlet
+216
+37
+Al-Biyyud
+Hamlet
+209
+38
+Al-Qafsah
+Hamlet
+202
+39
+Al-Qutayfi
+Hamlet
+194
+40
+Ghiyadah
+Hamlet
+194
+41
+Ar-Rusayli
+Hamlet
+190
+42
+Sayh al-Harmal
+Hamlet
+180
+43
+Hayl al-Harim
+Hamlet
+178
+44
+Adh-Dhahir
+Hamlet
+169
+45
+Maqta
+Hamlet
+167
+46
+Ad-Dirah
+Hamlet
+165
+47
+Al-Hayl
+Hamlet
+162
+48
+Al-Janah
+Hamlet
+153
+49
+Sayh al-Aqrab
+Hamlet
+145
+50
+Sayh Bu Sabakh
+Hamlet
+142
+51
+Hayl al-Kabir
+Hamlet
+136
+52
+Sidab
+Hamlet
+136
+53
+Al-Midayrah
+Hamlet
+131
+54
+Sayh al-Mibhis
+Hamlet
+124
+55
+Bidayat al-Jawabir
+Hamlet
+123
+56
+As-Sus
+Hamlet
+119
+57
+Madrah
+Hamlet
+110
+58
+Al-Alya
+Hamlet
+109
+59
+Al-Jibtayn
+Hamlet
+105
+60
+Al-Hisn
+Hamlet
+102
+61
+Bidayat ar-Rahbiyin
+Hamlet
+101
+62
+Al-Ajaf
+Hamlet
+100
+63
+Al-Mauziyah
+Small hamlet
+98
+64
+Ar-Rihani
+Small hamlet
+80
+65
+Haluf
+Small hamlet
+68
+66
+Al-Midabghah
+Small hamlet
+62
+67
+As-Salmah
+Small hamlet
+57
+68
+Al-Latba
+Small hamlet
+52
+69
+Al-Haylah
+Small hamlet
+50
+
+Dima wa Al Tayeen — enumerated total
+
+26,107
+ 
+
+Ad Dhahirah Governorate
+الظاهرة  |  Code: 10  |  2020 Census Population: 213,043
+This governorate contains 3 wilayats and 208 documented localities in the 2020 census.
+Ibri Wilayat (عبري)
+Code: 1001  |  Localities: 154  |  Sub-locality population total (enumerated ≥50): 161,285
+#
+Locality
+Type
+2020 Population
+1
+Ibri
+City
+55,419
+2
+Ad-Dariz
+Town
+11,037
+3
+Al-Araqi
+Town
+9,827
+4
+Maqniyat
+Town
+5,461
+5
+Al-Aynayn
+Village
+4,286
+6
+Al-Arid
+Village
+3,531
+7
+Al-Wahrah
+Village
+3,107
+8
+At-Tayyib
+Village
+2,843
+9
+Hijayrmat
+Village
+2,686
+10
+Al-Jibayyah
+Village
+2,523
+11
+Bat
+Village
+2,423
+12
+Dhahir al-Fawaris
+Village
+2,376
+13
+Kahnat
+Village
+2,328
+14
+Bilad ash-Shuhum
+Village
+2,273
+15
+Ad-Dibayshi
+Village
+2,264
+16
+Al-Huwmaniyah
+Village
+2,082
+17
+Tanam
+Village
+2,007
+18
+Al-Mahyul
+Village
+1,984
+19
+Al-Hajar
+Village
+1,558
+20
+Suwayda al-Ma
+Village
+1,434
+21
+Al-Banah
+Village
+1,364
+22
+Amla
+Village
+1,321
+23
+Al-Mazim
+Village
+1,318
+24
+Wadi Aswad
+Village
+1,185
+25
+Al-Bilaydah
+Village
+1,162
+26
+Musbihiyah
+Village
+1,151
+27
+Al-Mays
+Village
+1,071
+28
+Al-Hajir
+Village
+1,034
+29
+An-Nijayd
+Village
+1,029
+30
+Khadal Falaj al-Ali
+Village
+1,002
+31
+Majzi
+Hamlet
+992
+32
+Hijar
+Hamlet
+988
+33
+Miskin
+Hamlet
+920
+34
+Sadadib
+Hamlet
+854
+35
+Al-Ablah
+Hamlet
+755
+36
+Khadal Falaj as-Safil
+Hamlet
+668
+37
+As-Subaykhi
+Hamlet
+631
+38
+Harat adh-Dhahrah
+Hamlet
+605
+39
+Al-Hayyal
+Hamlet
+592
+40
+Al-Hayl
+Hamlet
+591
+41
+Al-Ghubayrah
+Hamlet
+553
+42
+Kubarah
+Hamlet
+548
+43
+Al-Qurayn
+Hamlet
+524
+44
+As-Saqah
+Hamlet
+514
+45
+Al-Ayn
+Hamlet
+507
+46
+Ar-Rikzah
+Hamlet
+502
+47
+Qura ash-Shua
+Hamlet
+470
+48
+Ar-Rawdah
+Hamlet
+468
+49
+Ar-Ruhbah
+Hamlet
+437
+50
+Hayl Bani Gharib
+Hamlet
+434
+51
+Liqayya
+Hamlet
+377
+52
+Damm
+Hamlet
+351
+53
+Sayh al-Masarrat
+Hamlet
+345
+54
+Al-Mamur
+Hamlet
+336
+55
+Dif Wadi al-Ayn
+Hamlet
+331
+56
+Al-Jahli
+Hamlet
+330
+57
+Rimi
+Hamlet
+325
+58
+Rihab
+Hamlet
+322
+59
+Wadi Khasht
+Hamlet
+285
+60
+Wadi Rafash
+Hamlet
+277
+61
+Al-Khaburah
+Hamlet
+276
+62
+Barut
+Hamlet
+275
+63
+Al-Qasmiyah
+Hamlet
+274
+64
+Ar-Rissah
+Hamlet
+274
+65
+Satwah
+Hamlet
+261
+66
+Tuwiyan Miskin
+Hamlet
+239
+67
+Dawkhfat
+Hamlet
+234
+68
+Ghayl Subayh
+Hamlet
+232
+69
+Saab
+Hamlet
+229
+70
+Abu Dhikri
+Hamlet
+223
+71
+Al-Aflaj
+Hamlet
+222
+72
+Tawi Tikhah
+Hamlet
+222
+73
+Al-Khutmah
+Hamlet
+221
+74
+Al-Fijayj
+Hamlet
+220
+75
+Qarn al-Kabsh
+Hamlet
+218
+76
+Al-Hiyal
+Hamlet
+214
+77
+Al-Ghuwayl
+Hamlet
+211
+78
+Al-Jannuz
+Hamlet
+210
+79
+Al-Jifrah
+Hamlet
+206
+80
+Khiraym
+Hamlet
+205
+81
+Lihashiya
+Hamlet
+195
+82
+Al-Akheedar
+Hamlet
+194
+83
+Wadi Shimayt
+Hamlet
+193
+84
+Mahadah
+Hamlet
+188
+85
+Al-Qali
+Hamlet
+182
+86
+Al-Ajuz
+Hamlet
+176
+87
+Al-Khuwayrat / Al-Khawr
+Hamlet
+176
+88
+Miaywil
+Hamlet
+174
+89
+Khuwayr Jawah
+Hamlet
+167
+90
+Ad-Dishah
+Hamlet
+165
+91
+Wadi as-Safa
+Hamlet
+157
+92
+Al-Huwayrah
+Hamlet
+150
+93
+Umm Salimah
+Hamlet
+149
+94
+Suni
+Hamlet
+148
+95
+As-Safin
+Hamlet
+144
+96
+Al-Ghuzlaniyah
+Hamlet
+143
+97
+Al-Hasi
+Hamlet
+143
+98
+Sahlah
+Hamlet
+139
+99
+Al-Jabuh
+Hamlet
+135
+100
+Al-Likhaydir
+Hamlet
+135
+101
+Ar-Risaysi
+Hamlet
+130
+102
+Bayh
+Hamlet
+127
+103
+Arhab
+Hamlet
+120
+104
+Al-Basatin
+Hamlet
+118
+105
+Shalashil
+Hamlet
+114
+106
+An-Naamah
+Hamlet
+113
+107
+Hayl an-Nijayd
+Hamlet
+111
+108
+Ghayl as-Sarm
+Hamlet
+107
+109
+Shikaylat
+Hamlet
+107
+110
+Wadi Yabt
+Hamlet
+107
+111
+Al-Makhtibyah
+Hamlet
+106
+112
+As-Sabbah
+Hamlet
+105
+113
+Wadi Midilli
+Hamlet
+104
+114
+At-Tawiyayn
+Hamlet
+103
+115
+Kabshat
+Hamlet
+102
+116
+Az-Zakiyah
+Hamlet
+100
+117
+Al-Madrakah
+Small hamlet
+99
+118
+Daddat Majzi
+Small hamlet
+95
+119
+Umm ar-Rus
+Small hamlet
+95
+120
+Ash-Shakhkhut
+Small hamlet
+94
+121
+As-Sammah
+Small hamlet
+92
+122
+Limdaysah
+Small hamlet
+87
+123
+Falaj Harran
+Small hamlet
+85
+124
+Ghadfan
+Small hamlet
+85
+125
+Usaybuq
+Small hamlet
+84
+126
+Siba
+Small hamlet
+81
+127
+Al-Ghawr
+Small hamlet
+79
+128
+Wadi Jil
+Small hamlet
+79
+129
+Ash-Shibay
+Small hamlet
+78
+130
+Al-Huwayl
+Small hamlet
+77
+131
+Malab
+Small hamlet
+77
+132
+Masharib
+Small hamlet
+74
+133
+Ayyash
+Small hamlet
+71
+134
+Uyun
+Small hamlet
+68
+135
+Al-Aryah
+Small hamlet
+66
+136
+Ar-Riqayyid
+Small hamlet
+66
+137
+Simayni
+Small hamlet
+66
+138
+As-Sabghah
+Small hamlet
+64
+139
+Dar Ghaf
+Small hamlet
+64
+140
+Barmalah
+Small hamlet
+61
+141
+Qalal
+Small hamlet
+61
+142
+Al-Uwaynah
+Small hamlet
+59
+143
+Dayqarah
+Small hamlet
+59
+144
+Wadi Sal
+Small hamlet
+59
+145
+Wadi al-Lithli
+Small hamlet
+59
+146
+Al-Manzifah
+Small hamlet
+58
+147
+As-Siraymiyah
+Small hamlet
+58
+148
+Shihaysah
+Small hamlet
+57
+149
+Al-Khirays
+Small hamlet
+56
+150
+Limtabbah
+Small hamlet
+55
+151
+Ghubrat al-Minaysif
+Small hamlet
+53
+152
+Harah
+Small hamlet
+52
+153
+Abu Mili
+Small hamlet
+51
+154
+Mihaymir
+Small hamlet
+50
+
+Ibri — enumerated total
+
+161,285
+ 
+Yanqul Wilayat (ينقل)
+Code: 1002  |  Localities: 27  |  Sub-locality population total (enumerated ≥50): 25,960
+#
+Locality
+Type
+2020 Population
+1
+Yanqul
+Town
+12,241
+2
+Al-Wuqbah
+Village
+1,907
+3
+Al-Buwayrdah
+Village
+1,831
+4
+Falaj as-Sidariyin
+Village
+1,817
+5
+Sayya
+Village
+1,021
+6
+Al-Murri
+Hamlet
+997
+7
+Wadi ar-Raki
+Hamlet
+851
+8
+Wadi al-Harim
+Hamlet
+579
+9
+Ghalil al-Qasad
+Hamlet
+556
+10
+Ash-Shuiyah
+Hamlet
+472
+11
+Al-Muaydin
+Hamlet
+428
+12
+Karsh
+Hamlet
+413
+13
+Tawi an-Nawamiyah
+Hamlet
+356
+14
+Hayl al-Manadhrah
+Hamlet
+343
+15
+Al-Jizayrat
+Hamlet
+256
+16
+Al-Masarrah
+Hamlet
+246
+17
+Al-Uqdah
+Hamlet
+233
+18
+Al-Arshi
+Hamlet
+209
+19
+Wal
+Hamlet
+206
+20
+Ghalil al-Hind
+Hamlet
+197
+21
+Bayha
+Hamlet
+182
+22
+Al-Khubayb
+Hamlet
+158
+23
+Al-Muraybi
+Hamlet
+140
+24
+Ash-Shaja
+Hamlet
+101
+25
+Ad-Difa
+Small hamlet
+90
+26
+Ash-Shawaghi
+Small hamlet
+74
+27
+Qarn ar-Ruwaybyah
+Small hamlet
+56
+
+Yanqul — enumerated total
+
+25,960
+ 
+Dhank Wilayat (ضنك)
+Code: 1003  |  Localities: 27  |  Sub-locality population total (enumerated ≥50): 22,886
+#
+Locality
+Type
+2020 Population
+1
+Dank
+Town
+13,279
+2
+Sufalat Fida
+Village
+2,372
+3
+Adh-Dhuwayhriyah
+Village
+1,988
+4
+Dawt
+Village
+1,828
+5
+At-Taff
+Hamlet
+609
+6
+Wadi Khaws
+Hamlet
+409
+7
+Qumayra
+Hamlet
+387
+8
+Al-Manajir
+Hamlet
+336
+9
+Wadi al-Amd
+Hamlet
+317
+10
+Wadi Dank
+Hamlet
+147
+11
+Ghadya
+Hamlet
+138
+12
+Ludi
+Hamlet
+124
+13
+Al-Fath
+Hamlet
+116
+14
+Kiraybah
+Small hamlet
+80
+15
+Bilt
+Small hamlet
+70
+16
+Al-Ghuwayfat
+Small hamlet
+66
+17
+Al-Jufayr
+Small hamlet
+66
+18
+Limghaymsah
+Small hamlet
+63
+19
+Abu Karabah
+Small hamlet
+60
+20
+Lamdari
+Small hamlet
+60
+21
+Al-Khadari
+Small hamlet
+59
+22
+Al-Jahmiyah
+Small hamlet
+55
+23
+Bayda Khadd
+Small hamlet
+54
+24
+Al-Ayn
+Small hamlet
+52
+25
+Al-Miraybi
+Small hamlet
+51
+26
+Al-Ajam
+Small hamlet
+50
+27
+Ghadir at-Tuwayyah
+Small hamlet
+50
+
+Dhank — enumerated total
+
+22,886
+ 
+
+Al Wusta Governorate
+الوسطى  |  Code: 11  |  2020 Census Population: 52,344
+This governorate contains 4 wilayats and 45 documented localities in the 2020 census.
+Hayma Wilayat (هيما)
+Code: 1101  |  Localities: 7  |  Sub-locality population total (enumerated ≥50): 10,051
+#
+Locality
+Type
+2020 Population
+1
+Hayma
+Town
+7,814
+2
+Al-Ajaiz
+Village
+1,033
+3
+Abu Madabi
+Hamlet
+776
+4
+Wadi al-Mabar
+Hamlet
+125
+5
+Mikhayznah
+Hamlet
+124
+6
+Al-Lifaysar
+Hamlet
+122
+7
+Al-Ghaftayn
+Small hamlet
+57
+
+Hayma — enumerated total
+
+10,051
+ 
+Mahut Wilayat (محوت)
+Code: 1102  |  Localities: 15  |  Sub-locality population total (enumerated ≥50): 17,170
+#
+Locality
+Type
+2020 Population
+1
+Hijj
+Town
+7,366
+2
+Wadi as-Sayl
+Village
+2,422
+3
+Al-Jubah
+Village
+2,115
+4
+An-Najdah
+Village
+1,538
+5
+Sarab
+Village
+1,035
+6
+Al-Khaluf
+Village
+1,021
+7
+Madayrah
+Hamlet
+561
+8
+Shibat Raghab
+Hamlet
+263
+9
+As-Sifay
+Hamlet
+248
+10
+Ash-Shuayb
+Hamlet
+139
+11
+Wadi Nafi
+Hamlet
+128
+12
+Muyat ash-Shair
+Hamlet
+105
+13
+Sidrah
+Small hamlet
+96
+14
+Filim
+Small hamlet
+77
+15
+An-Nuwayfi
+Small hamlet
+56
+
+Mahut — enumerated total
+
+17,170
+ 
+Ad Duqm Wilayat (الدقم)
+Code: 1103  |  Localities: 12  |  Sub-locality population total (enumerated ≥50): 19,152
+#
+Locality
+Type
+2020 Population
+1
+Wadi Say
+Town
+12,805
+2
+Dhahar
+Village
+1,784
+3
+Hitam
+Village
+1,238
+4
+Ras Madrakah
+Hamlet
+915
+5
+Al-Hawiyah
+Hamlet
+773
+6
+Dithab
+Hamlet
+392
+7
+An-Naamiyah
+Hamlet
+336
+8
+Juwayrah
+Hamlet
+295
+9
+Thalin
+Hamlet
+271
+10
+Nafun
+Hamlet
+173
+11
+Ghafat Mahjan
+Small hamlet
+88
+12
+Wadi Marzam
+Small hamlet
+82
+
+Ad Duqm — enumerated total
+
+19,152
+ 
+Al Jazer Wilayat (الجازر)
+Code: 1104  |  Localities: 11  |  Sub-locality population total (enumerated ≥50): 5,363
+#
+Locality
+Type
+2020 Population
+1
+Al-Kahil
+Village
+1,311
+2
+Al-Lakbi
+Hamlet
+979
+3
+Sawqrah
+Hamlet
+744
+4
+Al-Ghubrah ash-Shamaliyah
+Hamlet
+705
+5
+Madir
+Hamlet
+453
+6
+Al-Ghubrah al-Janubiyah
+Hamlet
+375
+7
+Al-Jashrib
+Hamlet
+291
+8
+Wadi Ghayl
+Hamlet
+180
+9
+Fadi
+Hamlet
+136
+10
+Al-Kahil 2
+Hamlet
+127
+11
+Barqat
+Small hamlet
+62
+
+Al Jazer — enumerated total
+
+5,363
+ 
+
+Sources and References
+Primary Source
+Sultanate of Oman, National Centre for Statistics and Information (NCSI), General Census of Population, Housing and Establishments 2020 (enumeration date: 12 December 2020). Authoritative publisher of Omani demographic statistics.
+URL: https://www.ncsi.gov.om/
+Aggregated Structured Data
+Brinkhoff, T. (editor), City Population — Oman. Independent aggregator republishing NCSI wilayat and sub-locality figures. Used as reference by UN Statistics Division and OECD.
+URL: https://www.citypopulation.de/en/oman/
+Administrative Structure References
+Royal Decree 114/2011. Established the current eleven-governorate structure; elevated Al Buraimi and Ad Dhahirah to full governorate status.
+Royal Decree 70/2020. Minor 2020 boundary adjustments to wilayat borders.
+Wikipedia — Provinces of Oman. Reference list of governorates with 2022 population estimates, used for cross-validation.  https://en.wikipedia.org/wiki/Provinces_of_Oman
+Wikipedia — Wilayats of Oman. Reference list of all sixty-one wilayats.  https://en.wikipedia.org/wiki/Wilayats_of_Oman
+Per-Governorate Source URLs (citypopulation.de)
+Muscat: https://www.citypopulation.de/en/oman/admin/01__masqaṭ/
+Dhofar: https://www.citypopulation.de/en/oman/admin/02__ẓufār/
+Musandam: https://www.citypopulation.de/en/oman/admin/03__musandam/
+Al Buraimi: https://www.citypopulation.de/en/oman/admin/04__al_buraymī/
+Ad Dakhiliyah: https://www.citypopulation.de/en/oman/admin/05__ad_dākhilīyah/
+Al Batinah North: https://www.citypopulation.de/en/oman/admin/06__shamāl_al_bāṭinah/
+Al Batinah South: https://www.citypopulation.de/en/oman/admin/07__janūb_al_bāṭinah/
+Ash Sharqiyah South: https://www.citypopulation.de/en/oman/admin/08__janūb_ash_sharqīyah/
+Ash Sharqiyah North: https://www.citypopulation.de/en/oman/admin/09__shamāl_ash_sharqīyah/
+Ad Dhahirah: https://www.citypopulation.de/en/oman/admin/10__aẓ_ẓāhirah/
+Al Wusta: https://www.citypopulation.de/en/oman/admin/11__al_wusṭa/
+
+Limitations and Notes
+Sub-50-Resident Hamlets
+Localities with fewer than fifty residents in the 2020 census are not individually enumerated in NCSI publications. They are rolled up into their parent wilayat totals. These are typically remote Bedu camps, seasonal fishing stations, or individual farmsteads scattered across the desert interior (notably in Al Wusta, interior Dhofar, and the Empty Quarter border regions). This register cannot list them individually because NCSI does not publish their names.
+Coordinates
+Latitude/longitude coordinates for the approximately 2,143 sub-localities are not published in a structured form by NCSI and are not available in any single authoritative source. Major wilayat centres have coordinates available in GeoNames and OpenStreetMap, but extending this to the hamlet level for the entire country is beyond the scope of this register. For coordinate data, the reader is directed to OpenStreetMap's Nominatim API using the English locality names in this document.
+Population Totals
+The sum of enumerated sub-locality populations within a wilayat will generally be slightly less than the official wilayat total. This is expected — the difference represents sub-50-resident hamlets, institutional population not allocated to a named place, and adjustments for undercount. Governorate totals shown in the 'Summary by Governorate' table and in each chapter heading are the NCSI official figures, not sums of sub-localities.
+Arabic Transliteration Variants
+English spellings in this register follow NCSI's official Romanised form (e.g. 'Ṣuḥār' rather than 'Sohar', 'Masqaṭ' rather than 'Muscat'). Readers should be aware that many localities have multiple common English spellings — e.g. Salalah / Ṣalālah / Ṣalālah; Sohar / Ṣuḥār; Rustaq / Ar Rustāq / Ar-Rustaq — all referring to the same place.
+Date of Compilation
+This register was compiled in April 2026 from the most recent NCSI census (2020). The next Omani national census is scheduled for 2030.
+
+End of Register
+Total documented: 2,143 localities across 61 wilayats in 11 governorates.
+Companion Excel workbook: oman_localities.xlsx — provides the same data in filterable tabular form with governorate-level sheets and summary totals.
