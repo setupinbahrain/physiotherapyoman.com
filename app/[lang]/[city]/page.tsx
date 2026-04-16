@@ -13,9 +13,22 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   const isAr = resolvedParams.lang === 'ar';
   
   return {
-    title: isAr ? `أفضل علاج طبيعي في ${city} | عيادات الخبراء` : `Best Physiotherapy in ${city} | Expert Clinics`,
-    description: isAr ? `نقدم برامج علاج طبيعي متطورة لتخفيف آلام الظهر والإصابات الرياضية وتأهيل ما بعد الجراحة في ${city}.` : `We provide advanced physical therapy for back pain, sports injuries, and post-surgery rehabilitation in ${city}.`,
+    title: isAr ? `أفضل عيادة علاج طبيعي في ${city} | تعافي متقدم` : `Best Physiotherapy Clinic in ${city} | Advanced Recovery`,
+    description: isAr ? `احجز مع أفضل أخصائيي العلاج الطبيعي في ${city}. متخصصون في الإصابات الرياضية، آلام الظهر، والتعافي بعد الجراحة.` : `Connect with the leading physiotherapists in ${city}. We specialize in sports injuries, back pain relief, and post-surgery rehabilitation.`,
   };
+}
+
+export async function generateStaticParams() {
+  const locales = ['en', 'ar'];
+  const { cities } = await import('@/lib/data');
+  const params: { city: string; lang: string }[] = [];
+  
+  for (const lang of locales) {
+    for (const city of cities) {
+      params.push({ city, lang });
+    }
+  }
+  return params;
 }
 
 export default async function CityPage({ params }: { params: Promise<Params> | Params }) {

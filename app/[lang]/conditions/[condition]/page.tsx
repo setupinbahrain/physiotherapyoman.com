@@ -18,6 +18,19 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   };
 }
 
+export async function generateStaticParams() {
+  const locales = ['en', 'ar'];
+  const { conditions } = await import('@/lib/data');
+  const params: { condition: string; lang: string }[] = [];
+  
+  for (const lang of locales) {
+    for (const condition of conditions) {
+      params.push({ condition, lang });
+    }
+  }
+  return params;
+}
+
 export default async function ConditionPage({ params }: { params: Promise<Params> | Params }) {
   const resolvedParams = await Promise.resolve(params);
   const condition = capitalize(resolvedParams.condition.replace(/-/g, ' '));

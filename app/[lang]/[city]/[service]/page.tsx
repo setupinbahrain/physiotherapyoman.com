@@ -14,9 +14,24 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   const isAr = resolvedParams.lang === 'ar';
   
   return {
-    title: isAr ? `${service} في ${city} | خبراء العلاج الطبيعي` : `${service} in ${city} | Top Rated Specialists`,
-    description: isAr ? `بروتوكولات ${service} متخصصة مقدمة في ${city}، تستهدف علاج الألم نهائياً.` : `Specialized ${service} protocols administered in ${city}, targeting root dysfunctions to ensure absolute recovery.`,
+    title: isAr ? `أفضل ${service} في ${city} | علاج طبيعي عُمان` : `Best ${service} in ${city} | Expert Physiotherapists`,
+    description: isAr ? `متخصصون في ${service} بالاستناد إلى الأدلة في ${city}. استرجع قدرتك على الحركة وتخلص من الألم اليوم.` : `Targeted, evidence-based ${service} available throughout ${city}. Regain mobility and eliminate pain safely today.`,
   };
+}
+
+export async function generateStaticParams() {
+  const locales = ['en', 'ar'];
+  const { cities, services } = await import('@/lib/data');
+  const params: { city: string; service: string; lang: string }[] = [];
+  
+  for (const lang of locales) {
+    for (const city of cities) {
+      for (const service of services) {
+        params.push({ city, service, lang });
+      }
+    }
+  }
+  return params;
 }
 
 export default async function ServicePage({ params }: { params: Promise<Params> | Params }) {

@@ -18,6 +18,19 @@ export async function generateMetadata({ params }: { params: Promise<Params> | P
   };
 }
 
+export async function generateStaticParams() {
+  const locales = ['en', 'ar'];
+  const { techniques } = await import('@/lib/data');
+  const params: { technique: string; lang: string }[] = [];
+  
+  for (const lang of locales) {
+    for (const technique of techniques) {
+      params.push({ technique, lang });
+    }
+  }
+  return params;
+}
+
 export default async function TechniquePage({ params }: { params: Promise<Params> | Params }) {
   const resolvedParams = await Promise.resolve(params);
   const technique = capitalize(resolvedParams.technique.replace(/-/g, ' '));
