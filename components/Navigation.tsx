@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { services, conditions } from '../lib/data';
 
 const topCities = [
@@ -22,6 +23,17 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
   const [mobileExpanded, setMobileExpanded] = useState("");
   
   const isAr = lang === 'ar';
+  
+  const pathname = usePathname() || "";
+  const pathParts = pathname.split('/').filter(Boolean);
+  let activeCity = "muscat";
+  
+  if (pathParts.length > 1) {
+    const potentialCity = pathParts[1];
+    if (potentialCity !== 'conditions' && potentialCity !== 'techniques' && potentialCity !== 'booking') {
+      activeCity = potentialCity;
+    }
+  }
 
   const toggleMenu = () => setIsOpen(!isOpen);
   const toggleMobileSub = (menu: string) => setMobileExpanded(mobileExpanded === menu ? "" : menu);
@@ -76,7 +88,7 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
             {dropdownOpen === "services" && (
               <div className="dropdown-menu glass-box fade-in" style={{ width: "260px" }}>
                 {services.slice(0, 8).map(s => (
-                  <Link key={s} href={`/${lang}/muscat/${s}`} className="dropdown-item">{s.replace(/-/g, ' ')}</Link>
+                  <Link key={s} href={`/${lang}/${activeCity}/${s}`} className="dropdown-item">{s.replace(/-/g, ' ')}</Link>
                 ))}
               </div>
             )}
@@ -146,7 +158,7 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
           {mobileExpanded === "services" && (
              <div style={{ background: "rgba(255,255,255,0.02)" }}>
                 {services.slice(0, 5).map(s => (
-                  <Link key={s} href={`/${lang}/muscat/${s}`} className="mobile-link sub-link" onClick={toggleMenu}>{s.replace(/-/g, ' ')}</Link>
+                  <Link key={s} href={`/${lang}/${activeCity}/${s}`} className="mobile-link sub-link" onClick={toggleMenu}>{s.replace(/-/g, ' ')}</Link>
                 ))}
              </div>
           )}
