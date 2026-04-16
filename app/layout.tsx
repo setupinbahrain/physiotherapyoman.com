@@ -16,8 +16,9 @@ export default function RootLayout({
       <body>
         <nav className="main-nav">
           <div className="container nav-container">
-            <a href="/" className="nav-logo">
-              Physio<span style={{ color: "var(--accent)" }}>Oman</span>
+            <a href="/" className="nav-logo" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <img src="/icon.png" alt="Oman Physiotherapy Logo" style={{ height: "45px", width: "auto", objectFit: "contain" }} />
+              <span style={{ fontSize: "1.2rem", fontWeight: "bold" }}>Oman Physiotherapy</span>
             </a>
             <div style={{ display: "flex", gap: "20px" }}>
               <a href="/muscat">Locations</a>
