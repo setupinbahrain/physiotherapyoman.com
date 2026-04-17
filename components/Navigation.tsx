@@ -5,36 +5,58 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { services, conditions } from '../lib/data';
 
-const topCities = [
-  "muscat", 
-  "salalah", 
-  "sohar", 
-  "nizwa", 
-  "sur", 
-  "ar-rustaq", 
-  "ibri", 
-  "al-buraymi"
-];
+const provinceMap: Record<string, string[]> = {
+  "muscat-governorate": ["muscat", "as-sib", "bawshar", "muttrah", "al-amarat", "qurayyat"],
+  "dhofar": ["salalah", "thumrayt", "takah", "mirbat", "sadah"],
+  "al-batinah-north": ["sohar", "saham", "shinas", "liwa", "al-khaburah", "suwayq"],
+  "al-batinah-south": ["barka", "ar-rustaq", "nakhal", "al-awabi", "wadi-al-maawil"],
+  "ad-dakhiliyah": ["nizwa", "bahla", "samail", "izki", "adam", "bidbid"],
+  "ash-sharqiyah-south": ["sur", "masirah", "jalan-bani-bu-ali", "jalan-bani-bu-hassan", "al-kamil-wal-wafi"],
+  "ash-sharqiyah-north": ["ibra", "sinaw", "al-mudhaibi", "bidiyah", "wadi-bani-khalid"],
+  "ad-dhahirah": ["ibri", "yanqul", "dhank"],
+  "al-buraymi-governorate": ["al-buraymi", "mahah"],
+  "musandam": ["khasab", "dibba", "bukha", "madha"],
+  "al-wusta": ["haima", "duqm", "mahout"]
+};
 
-const provinces = [
-  "muscat-governorate",
-  "dhofar",
-  "musandam",
-  "al-buraymi-governorate",
-  "ad-dakhiliyah",
-  "ad-dhahirah",
-  "al-batinah-north",
-  "al-batinah-south",
-  "ash-sharqiyah-north",
-  "ash-sharqiyah-south",
-  "al-wusta"
-];
+const provinceNamesAr: Record<string, string> = {
+  "muscat-governorate": "محافظة مسقط",
+  "dhofar": "محافظة ظفار",
+  "al-batinah-north": "شمال الباطنة",
+  "al-batinah-south": "جنوب الباطنة",
+  "ad-dakhiliyah": "الداخلية",
+  "ash-sharqiyah-south": "جنوب الشرقية",
+  "ash-sharqiyah-north": "شمال الشرقية",
+  "ad-dhahirah": "الظاهرة",
+  "al-buraymi-governorate": "محافظة البريمي",
+  "musandam": "مسندم",
+  "al-wusta": "الوسطى"
+};
+
+const provinceNamesEn: Record<string, string> = {
+  "muscat-governorate": "Muscat Governorate",
+  "dhofar": "Dhofar",
+  "al-batinah-north": "Al Batinah North",
+  "al-batinah-south": "Al Batinah South",
+  "ad-dakhiliyah": "Ad Dakhiliyah",
+  "ash-sharqiyah-south": "Ash Sharqiyah South",
+  "ash-sharqiyah-north": "Ash Sharqiyah North",
+  "ad-dhahirah": "Ad Dhahirah",
+  "al-buraymi-governorate": "Al Buraimi",
+  "musandam": "Musandam",
+  "al-wusta": "Al Wusta"
+};
 
 export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
   const [isOpen, setIsOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState("");
+  
   // State specifically for mobile accordion links
   const [mobileExpanded, setMobileExpanded] = useState("");
+  const [mobileProvinceExpanded, setMobileProvinceExpanded] = useState("");
+  
+  // Interactive Mega Menu Province tracking
+  const [activeProvinceTab, setActiveProvinceTab] = useState("muscat-governorate");
   
   const isAr = lang === 'ar';
   
@@ -67,40 +89,48 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
         {/* Desktop Links (Mega Menus) */}
         <div className="desktop-links">
           
-          {/* Locations Hub */}
+          {/* LOCATIONS INTERACTIVE MEGA MENU */}
           <div className="dropdown" onMouseEnter={() => setDropdownOpen("locations")} onMouseLeave={() => setDropdownOpen("")}>
             <span className="nav-link" style={{ cursor: 'pointer' }}>{isAr ? "المواقع والعيادات ▼" : "Locations ▼"}</span>
             {dropdownOpen === "locations" && (
-              <div className="dropdown-menu glass-box fade-in" style={{ width: "650px", display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "1rem", padding: "1.5rem" }}>
-                <div>
-                  <h4 style={{ color: "var(--accent)", fontSize: "0.85rem", marginBottom: "0.5rem", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.3rem" }}>
-                    {isAr ? "المحافظات" : "Provinces"}
-                  </h4>
-                  {provinces.map(prov => (
-                    <Link key={prov} href={`/${lang}/${prov}`} className="dropdown-item" style={{ fontSize: "0.85rem", padding: "0.4rem 0.5rem" }}>
-                      {isAr ? prov.replace(/-/g, ' ') : prov.replace(/-/g, ' ').toUpperCase()}
-                    </Link>
+              <div className="dropdown-menu glass-box fade-in" style={{ width: "800px", display: "flex", padding: "0", overflow: "hidden" }}>
+                
+                {/* LEFT SIDEBAR: Provinces */}
+                <div style={{ width: "35%", background: "rgba(0,0,0,0.2)", borderRight: isAr ? "none" : "1px solid rgba(255,255,255,0.05)", borderLeft: isAr ? "1px solid rgba(255,255,255,0.05)" : "none" }}>
+                  {Object.keys(provinceMap).map(prov => (
+                    <div key={prov} 
+                         onMouseEnter={() => setActiveProvinceTab(prov)}
+                         className="dropdown-item" 
+                         style={{ 
+                           cursor: "pointer", 
+                           fontSize: "0.85rem", 
+                           padding: "0.75rem 1.5rem", 
+                           background: activeProvinceTab === prov ? "rgba(16, 185, 129, 0.15)" : "transparent",
+                           color: activeProvinceTab === prov ? "var(--accent)" : "#F1F5F9",
+                           fontWeight: activeProvinceTab === prov ? "bold" : "normal",
+                           display: "flex",
+                           justifyContent: "space-between",
+                           borderBottom: "1px solid rgba(255,255,255,0.05)",
+                           transition: "all 0.2s ease"
+                         }}>
+                      <Link href={`/${lang}/${prov}`} style={{ color: "inherit", textDecoration: "none", flexGrow: 1 }}>
+                        {isAr ? provinceNamesAr[prov] : provinceNamesEn[prov]}
+                      </Link>
+                      <span style={{ opacity: activeProvinceTab === prov ? 1 : 0.2 }}>{isAr ? "◀" : "▶"}</span>
+                    </div>
                   ))}
                 </div>
-                <div>
-                  <h4 style={{ color: "var(--accent)", fontSize: "0.85rem", marginBottom: "0.5rem", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.3rem" }}>
-                    {isAr ? "المدن الرئيسية" : "Top Cities"}
-                  </h4>
-                  {topCities.map(city => (
-                    <Link key={city} href={`/${lang}/${city}`} className="dropdown-item" style={{ fontSize: "0.85rem", padding: "0.4rem 0.5rem" }}>
-                      {isAr ? city.replace(/-/g, ' ') : city.replace(/-/g, ' ').toUpperCase()}
-                    </Link>
-                  ))}
-                </div>
-                <div>
-                  <h4 style={{ color: "var(--accent)", fontSize: "0.85rem", marginBottom: "0.5rem", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.3rem" }}>
-                    {isAr ? "المناطق الشهيرة" : "Popular Areas"}
-                  </h4>
-                  {["as-sib", "bawshar", "muttrah", "al-amarat", "qurayyat", "ruwi", "al-khuwair", "al-mabailah"].map(area => (
-                    <Link key={area} href={`/${lang}/${area}`} className="dropdown-item" style={{ fontSize: "0.85rem", padding: "0.4rem 0.5rem" }}>
-                      {isAr ? area.replace(/-/g, ' ') : area.replace(/-/g, ' ').toUpperCase()}
-                    </Link>
-                  ))}
+                
+                {/* RIGHT PANEL: Cities in Active Province */}
+                <div style={{ width: "65%", padding: "2rem", display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1rem", alignContent: "start" }}>
+                   <h4 style={{ color: "var(--accent)", fontSize: "1rem", marginBottom: "1rem", gridColumn: "1 / -1", borderBottom: "1px solid rgba(255,255,255,0.1)", paddingBottom: "0.5rem" }}>
+                     {isAr ? `تصفح مناطق ${provinceNamesAr[activeProvinceTab]}` : `Explore ${provinceNamesEn[activeProvinceTab]}`}
+                   </h4>
+                   {provinceMap[activeProvinceTab].map(city => (
+                      <Link key={city} href={`/${lang}/${city}`} className="dropdown-item" style={{ fontSize: "0.85rem", padding: "0.5rem", borderRadius: "4px" }}>
+                         {isAr ? city.replace(/-/g, ' ') : city.replace(/-/g, ' ').toUpperCase()}
+                      </Link>
+                   ))}
                 </div>
               </div>
             )}
@@ -147,35 +177,39 @@ export default function Navigation({ lang }: { lang: 'en' | 'ar' }) {
 
       </div>
 
-      {/* Mobile Menu Expansion with Accordion logic */}
+      {/* Mobile Menu Expansion with Deep Nested Province Accordion logic */}
       {isOpen && (
         <div className="mobile-menu slide-down">
           <Link href={`/${lang}`} className="mobile-link" onClick={toggleMenu}>{isAr ? "الرئيسية" : "Home"}</Link>
           
-          {/* Mobile Locations */}
+          {/* Mobile Locations (Amazon Accordion) */}
           <div className="mobile-link" onClick={() => toggleMobileSub("locations")} style={{ cursor: "pointer", display: "flex", justifyContent: "space-between" }}>
             <span>{isAr ? "المواقع والعيادات" : "Locations"}</span>
             <span>{mobileExpanded === "locations" ? "▲" : "▼"}</span>
           </div>
           {mobileExpanded === "locations" && (
             <div style={{ background: "rgba(255,255,255,0.02)" }}>
-              <div className="mobile-break">{isAr ? "المحافظات" : "Provinces"}</div>
-              {provinces.map(prov => (
-                <Link key={prov} href={`/${lang}/${prov}`} className="mobile-link sub-link" onClick={toggleMenu}>
-                  {isAr ? prov.replace(/-/g, ' ') : prov.replace(/-/g, ' ').toUpperCase()}
-                </Link>
-              ))}
-              <div className="mobile-break">{isAr ? "المدن الرئيسية" : "Top Cities"}</div>
-              {topCities.map(city => (
-                <Link key={city} href={`/${lang}/${city}`} className="mobile-link sub-link" onClick={toggleMenu}>
-                  {isAr ? city.replace(/-/g, ' ') : city.replace(/-/g, ' ').toUpperCase()}
-                </Link>
-              ))}
-              <div className="mobile-break">{isAr ? "المناطق الشهيرة" : "Popular Areas"}</div>
-              {["as-sib", "bawshar", "muttrah", "al-amarat", "qurayyat", "ruwi", "al-khuwair", "al-mabailah"].map(area => (
-                <Link key={area} href={`/${lang}/${area}`} className="mobile-link sub-link" onClick={toggleMenu}>
-                  {isAr ? area.replace(/-/g, ' ') : area.replace(/-/g, ' ').toUpperCase()}
-                </Link>
+              {Object.keys(provinceMap).map(prov => (
+                <div key={prov}>
+                  <div className="mobile-link" onClick={() => setMobileProvinceExpanded(mobileProvinceExpanded === prov ? "" : prov)} style={{ cursor: "pointer", display: "flex", justifyContent: "space-between", paddingLeft: isAr ? "1.5rem" : "2.5rem", paddingRight: isAr ? "2.5rem" : "1.5rem", background: "rgba(0,0,0,0.2)", fontSize: "0.95rem" }}>
+                     <span>{isAr ? provinceNamesAr[prov] : provinceNamesEn[prov]}</span>
+                     <span>{mobileProvinceExpanded === prov ? "▲" : "▼"}</span>
+                  </div>
+                  {mobileProvinceExpanded === prov && (
+                     <div style={{ background: "rgba(0,0,0,0.4)", paddingBottom: "1rem" }}>
+                       {/* Province Link */}
+                       <Link href={`/${lang}/${prov}`} className="mobile-link sub-link" style={{ paddingLeft: isAr ? "0" : "3.5rem", paddingRight: isAr ? "3.5rem" : "0", color: "var(--accent)" }} onClick={toggleMenu}>
+                         {isAr ? `عرض كافة مناطق ${provinceNamesAr[prov]}` : `Explore All in ${provinceNamesEn[prov]}`}
+                       </Link>
+                       {/* Nested Cities */}
+                       {provinceMap[prov].map(city => (
+                         <Link key={city} href={`/${lang}/${city}`} className="mobile-link sub-link" style={{ paddingLeft: isAr ? "0" : "3.5rem", paddingRight: isAr ? "3.5rem" : "0" }} onClick={toggleMenu}>
+                           {isAr ? city.replace(/-/g, ' ') : city.replace(/-/g, ' ').toUpperCase()}
+                         </Link>
+                       ))}
+                     </div>
+                  )}
+                </div>
               ))}
             </div>
           )}
